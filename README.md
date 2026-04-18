@@ -72,13 +72,13 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harrison-vc&days=7&theme=tokyonight&bg_color=0D1117&hide_border=true&color=7AA2F7&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harrison-vc&days=14&theme=tokyonight&bg_color=0D1117&hide_border=true&color=7AA2F7&area=true" width="100%" />
 </div>
 
 ---
 
 <div align="right">
-  <code>NODE_ID: harrison-vc // REVISION: 2026.Q2.V6</code>
+  <code>NODE_ID: harrison-vc // REVISION: 2026.Q2.V7</code>
   <br>
   <img src="https://komarev.com/ghpvc/?username=harrison-vc&color=7AA2F7&style=flat-square&label=TERMINAL+SESSIONS" alt="hits" />
 </div>
