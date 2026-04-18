@@ -59,7 +59,16 @@
 ### 🛠️ // technical_arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,terraform,py,fastapi,githubactions,bash,github,vscode,ubuntu,debian,postman,postgres" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
 ---
@@ -78,7 +87,7 @@
 ---
 
 <div align="right">
-  <code>NODE_ID: harrison-vc // REVISION: 2026.Q2.V8</code>
+  <code>NODE_ID: harrison-vc // REVISION: 2026.Q2.V9</code>
   <br>
   <img src="https://komarev.com/ghpvc/?username=harrison-vc&color=7AA2F7&style=flat-square&label=TERMINAL+SESSIONS" alt="hits" />
 </div>
