@@ -8,8 +8,13 @@ Cloud Support Engineer focused on AWS/Linux troubleshooting, incident response, 
 ![IAM](https://img.shields.io/badge/IAM-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![systemd](https://img.shields.io/badge/systemd-1A1A1A?style=flat-square&logo=linux&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 ## Selected Work
@@ -24,4 +29,6 @@ Cloud Support Engineer focused on AWS/Linux troubleshooting, incident response, 
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/harrison-vance) · [Email](mailto:harrison@harrisonvance.dev) · [GitHub](https://github.com/harrison-vc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harrison-vance)
+[![Email](https://img.shields.io/badge/Email-1A1A1A?style=flat-square&logo=maildotru&logoColor=white)](mailto:harrison@harrisonvance.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harrison-vc)
