@@ -67,7 +67,7 @@
 ### 📊 // telemetry_dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harrison-vc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=stars,followers,issues&hide_rank=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harrison-vc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=stars,followers,issues&hide_rank=true&include_all_commits=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrison-vc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
 </p>
 
@@ -78,7 +78,7 @@
 ---
 
 <div align="right">
-  <code>NODE_ID: harrison-vc // REVISION: 2026.Q2.V7</code>
+  <code>NODE_ID: harrison-vc // REVISION: 2026.Q2.V8</code>
   <br>
   <img src="https://komarev.com/ghpvc/?username=harrison-vc&color=7AA2F7&style=flat-square&label=TERMINAL+SESSIONS" alt="hits" />
 </div>
