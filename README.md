@@ -67,6 +67,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
@@ -87,7 +88,7 @@
 ---
 
 <div align="right">
-  <code>NODE_ID: harrison-vc // REVISION: 2026.Q2.V9</code>
+  <code>NODE_ID: harrison-vc // REVISION: 2026.Q2.V10</code>
   <br>
   <img src="https://komarev.com/ghpvc/?username=harrison-vc&color=7AA2F7&style=flat-square&label=TERMINAL+SESSIONS" alt="hits" />
 </div>
