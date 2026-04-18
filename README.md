@@ -1,75 +1,90 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=HARRISON%20VANCE&fontSize=60&fontAlignY=50&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=HARRISON%20VANCE&fontSize=80&animation=fadeIn&fontAlignY=35&theme=tokyonight" />
 </div>
 
 <p align="center">
-  <strong>Technical Support Engineer // Cloud & Systems Debugging</strong><br>
-  <em>Systematically resolving complexity through deep-dive analysis.</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Cloud+Support+Engineer;Systems+Debugging+Specialist;SRE+%2F+Infrastructure+Reliability;Resolving+High-Complexity+Failures" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FF00?style=flat-square&logo=gitbook&logoColor=white" />
-  <img src="https://img.shields.io/badge/LOCATION-ICT_(THAILAND)-grey?style=flat-square" />
-  <img src="https://img.shields.io/badge/FOCUS-2026-blue?style=flat-square&label=DISTRIBUTED_SYSTEMS" />
+  <a href="https://linkedin.com/in/harrison-vance"><img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
+  <a href="mailto:hvance788@gmail.com"><img src="https://img.shields.io/badge/Email-BB9AF7?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
+  <a href="https://harrisonvance.cc"><img src="https://img.shields.io/badge/Portfolio-7DCFFF?style=for-the-badge&logo=gitbook&logoColor=0D1117" /></a>
 </p>
 
 ---
 
-### 🟢 // technical_ledger
+### 🟢 // operational_status
 
-```zsh
-> journalctl -u portfolio.service --since "today"
-[APR 18 04:15]  AUTH: Initialized secure uplink (ghp_***)
-[APR 18 04:22]  CI/CD: Unified 5/5 repositories with GitHub Actions (Green)
-[APR 18 04:30]  BADGE: Unlocked Pair Extraordinaire [SILVER TIER]
-[APR 18 04:45]  COMMUNITY: Resolved 33+ technical discussions in FastAPI/Pydantic
-[APR 18 05:00]  SRE: Refactored incident-postmortems for staff-level documentation
-```
+<table align="center" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <pre>
+<b>system_info</b>
+--------------------------
+<b>OS</b>: Linux (Debian/Ubuntu)
+<b>Uptime</b>: 25 Years
+<b>Location</b>: ICT (Thailand)
+<b>Role</b>: Tier 3 Triage
+<b>Status</b>: <font color="#9ECE6A">ONLINE</font>
+      </pre>
+    </td>
+    <td width="50%" valign="top">
+      <pre>
+<b>current_mission</b>
+--------------------------
+<b>Active</b>: Portfolio Hardening
+<b>Focus</b>: Distributed Systems
+<b>Goal</b>: Unlocking Gold Tiers
+<b>Next</b>: Open Sourcerer Badge
+      </pre>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📂 // intelligence_briefing
 
-| OBJECTIVE | CAPABILITY | ARTIFACT |
+| ARTIFACT | MISSION | STACK |
 | :--- | :--- | :--- |
-| **Cloud Triage** | 8+ Production-grade runbooks for SEV-1 resolution. | [runbook](https://github.com/harrison-vc/cloud-support-runbook) |
-| **Root Cause** | Blame-free analysis of complex distributed failures. | [postmortems](https://github.com/harrison-vc/incident-postmortems) |
-| **Mental Models** | Layered triage framework (L1-L7) and USE method. | [framework](https://github.com/harrison-vc/systems-debugging-framework) |
-| **System Baseline** | Hardened microservice reference (Docker/FastAPI). | [baseline](https://github.com/harrison-vc/cloud-service-baseline) |
-| **Failure Lab** | Intentional API failure scenarios for SRE training. | [analysis](https://github.com/harrison-vc/api-failure-analysis) |
+| [**runbooks**](https://github.com/harrison-vc/cloud-support-runbook) | High-signal SEV-1 resolution playbooks. | `AWS` `IAM` `DNS` |
+| [**postmortems**](https://github.com/harrison-vc/incident-postmortems) | Blame-free root cause analysis of outages. | `SRE` `Incident` |
+| [**framework**](https://github.com/harrison-vc/systems-debugging-framework) | L1-L7 Triage & USE performance method. | `Linux` `OSI` |
+| [**baseline**](https://github.com/harrison-vc/cloud-service-baseline) | Hardened microservice (Docker / FastAPI). | `Docker` `Py` |
+| [**analysis**](https://github.com/harrison-vc/api-failure-analysis) | Intentional failure lab for HTTP triage. | `API` `Testing` |
 
 ---
 
-### 🛠️ // core_stack
+### 🛠️ // technical_arsenal
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,linux,docker,terraform,py,fastapi,githubactions,bash" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,terraform,py,fastapi,githubactions,bash,github,vscode,ubuntu,debian,postman,postgres" />
 </p>
 
 ---
 
-### 📊 // operational_metrics
+### 📊 // telemetry_dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harrison-vc&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=AAAAAA&bg_color=0D1117" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrison-vc&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=AAAAAA&bg_color=0D1117" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harrison-vc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrison-vc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harrison-vc&theme=react-dark&bg_color=0D1117&hide_border=true&color=FFFFFF" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harrison-vc&theme=tokyonight&hide_border=true&background=0D1117" height="165" />
 </p>
 
 ---
 
-### 📫 // establishing_uplink
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harrison-vc&theme=tokyonight&bg_color=0D1117&hide_border=true&color=7AA2F7" width="100%" />
+</div>
 
-<p align="left">
-  <a href="mailto:hvance788@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/harrison-vance"><img src="https://img.shields.io/badge/LinkedIn-0077B2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
+---
 
 <div align="right">
-  <code>ID: harrison-vc // Revision: 2026.04.18.001</code>
+  <code>NODE_ID: harrison-vc // REVISION: 2026.Q2.V3</code>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=harrison-vc&color=7AA2F7&style=flat-square&label=TERMINAL+SESSIONS" alt="hits" />
 </div>
