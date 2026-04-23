@@ -1,6 +1,6 @@
 # Harrison Vance
 
-Cloud Engineer | Security | SRE
+Cloud Engineering | Security | SRE
 
 <p align="center">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
