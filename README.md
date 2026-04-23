@@ -1,13 +1,3 @@
-```bash
-┌────────────────────────────────────────────────────────┐
-│                                                        │
-│  harrison-vc@github:~$ whoami                          │
-│  [NAME]: Harrison Vance                                │
-│  [ROLE]: Cloud Engineer & SRE                  │
-│                                                        │
-└────────────────────────────────────────────────────────┘
-```
-
 # Harrison Vance
 
 Cloud Engineer | Security | SRE
