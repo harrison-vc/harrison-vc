@@ -7,6 +7,7 @@ Cloud Engineer | Security | SRE
   <img alt="DNS" src="https://img.shields.io/badge/DNS-0052CC?style=flat-square&logo=cloudflare&logoColor=white">
   <img alt="IAM" src="https://img.shields.io/badge/IAM-FF9900?style=flat-square&logo=amazon-aws&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-1A1A1A?style=flat-square&logo=linux&logoColor=white">
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white">
@@ -25,7 +26,7 @@ Cloud Engineer | Security | SRE
 
 | Project | Focus |
 | :-- | :-- |
-| [cloud-support-runbook](https://github.com/harrison-vc/cloud-support-runbook) | Cloud incident runbooks |
+| [cloud-operations-runbook](https://github.com/harrison-vc/cloud-operations-runbook) | Cloud incident runbooks |
 | [incident-postmortems](https://github.com/harrison-vc/incident-postmortems) | RCA and prevention notes |
 | [systems-debugging-framework](https://github.com/harrison-vc/systems-debugging-framework) | Structured debugging checklists |
 | [cloud-service-baseline](https://github.com/harrison-vc/cloud-service-baseline) | Observable service baseline |
