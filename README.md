@@ -26,7 +26,7 @@ Cloud Engineering | Security | SRE
 
 | Project | Focus |
 | :-- | :-- |
-| [cloud-operations-runbook](https://github.com/harrison-vc/cloud-operations-runbook) | Cloud incident runbooks |
+| [cloud-operations-runbook](https://github.com/harrison-vc/cloud-operations-runbook) | Cloud operation runbooks |
 | [incident-postmortems](https://github.com/harrison-vc/incident-postmortems) | RCA and prevention notes |
 | [systems-debugging-framework](https://github.com/harrison-vc/systems-debugging-framework) | Structured debugging checklists |
 | [cloud-service-baseline](https://github.com/harrison-vc/cloud-service-baseline) | Observable service baseline |
