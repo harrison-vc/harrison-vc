@@ -26,7 +26,7 @@ Cloud & SRE Engineer | Debugging, Incident Response & Security
 
 | Project | Focus |
 | :-- | :-- |
-| [cloud-operations-runbook](https://github.com/harrison-vc/cloud-operations-runbook) | Cloud operations runbooks |
+| [terraform-landing-zone]([https://github.com/harrison-vc/cloud-operations-runbook](https://github.com/harrison-vc/terraform-landing-zone)) | Modular & highly available Terraform landing zone |
 | [incident-postmortems](https://github.com/harrison-vc/incident-postmortems) | RCA and prevention notes |
 | [systems-debugging-framework](https://github.com/harrison-vc/systems-debugging-framework) | Structured debugging checklists |
 | [cloud-service-baseline](https://github.com/harrison-vc/cloud-service-baseline) | Observable service baseline |
