@@ -26,12 +26,12 @@ Cloud & SRE Engineer | Debugging, Incident Response & Security
 
 | Project | Focus |
 | :-- | :-- |
+| [self-healing-microservices-cluster](https://github.com/harrison-vc/Self-Healing-Microservices-Cluster-with-Prometheus-monitoring) | Self-Healing Microservices Cluster with Prometheus Monitoring |
 | [terraform-landing-zone](https://github.com/harrison-vc/terraform-landing-zone) | Modular & highly available Enterprise Grade Terraform landing zone |
 | [incident-postmortems](https://github.com/harrison-vc/incident-postmortems) | RCA and prevention notes |
 | [systems-debugging-framework](https://github.com/harrison-vc/systems-debugging-framework) | Structured debugging checklists |
 | [cloud-service-baseline](https://github.com/harrison-vc/cloud-service-baseline) | Observable service baseline |
 | [api-failure-analysis](https://github.com/harrison-vc/api-failure-analysis) | API failure lab |
-| [self-healing-microservices-cluster](https://github.com/harrison-vc/Self-Healing-Microservices-Cluster-with-Prometheus-monitoring) | Self-Healing Microservices Cluster with Prometheus Monitoring |
 ## Contact
 
 <p align="center">
