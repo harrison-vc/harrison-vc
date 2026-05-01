@@ -31,7 +31,7 @@ Cloud & SRE Engineer | Debugging, Incident Response & Security
 | [systems-debugging-framework](https://github.com/harrison-vc/systems-debugging-framework) | Structured debugging checklists |
 | [cloud-service-baseline](https://github.com/harrison-vc/cloud-service-baseline) | Observable service baseline |
 | [api-failure-analysis](https://github.com/harrison-vc/api-failure-analysis) | API failure lab |
-| [api-failure-analysis](https://github.com/harrison-vc/Self-Healing-Microservices-Cluster-with-Prometheus-monitoring) | Self-Healing Microservices Cluster with Prometheus Monitoring |
+| [self-healing-microservices-cluster](https://github.com/harrison-vc/Self-Healing-Microservices-Cluster-with-Prometheus-monitoring) | Self-Healing Microservices Cluster with Prometheus Monitoring |
 ## Contact
 
 <p align="center">
