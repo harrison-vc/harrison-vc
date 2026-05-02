@@ -50,13 +50,13 @@
 
 | Project | Outcome | Tech Stack |
 | :--- | :--- | :--- |
-| **[algorithmic-trading-app](https://github.com/harrison-vc/algorithmic-trading-app)** | Sub-10ms execution engine with real-time risk parity. | Python, C++, Redis, AWS |
-| **[aws-bedrock-agent](https://github.com/harrison-vc/aws-bedrock-agent)** | Autonomous AI orchestration for automated infra troubleshooting. | Bedrock, Lambda, Python, Boto3 |
-| **[self-healing-microservices](https://github.com/harrison-vc/self-healing-microservices)** | K8s-native fault-injection & recovery cluster (99.99% SLA). | Kubernetes, Go, Istio, Prometheus |
+| **[algorithmic-trading-app](https://github.com/harrison-vc/algorithmic-trading-app)** | Sub-10ms execution engine with real-time risk parity. | Python, C++, Redis, AWS, GCP |
+| **[aws-bedrock-agent](https://github.com/harrison-vc/aws-bedrock-agent)** | Autonomous AI orchestration for automated infra troubleshooting. | Bedrock, Lambda, AWS, Python, Boto3 |
+| **[self-healing-microservices](https://github.com/harrison-vc/self-healing-microservices)** | K8s-native fault-injection & recovery cluster (99.99% SLA). | AWS, Kubernetes, Go, Istio, Prometheus |
 | **[terraform-landing-zone](https://github.com/harrison-vc/terraform-landing-zone)** | Modular, secure enterprise AWS baseline with OIDC trust. | Terraform, AWS, GitHub Actions |
 | **[incident-postmortems](https://github.com/harrison-vc/incident-postmortems)** | High-fidelity RCA reports and prevention strategy archives. | SRE, Markdown, Documentation |
 | **[cloud-service-baseline](https://github.com/harrison-vc/cloud-service-baseline)** | Observable service baseline for production-ready deployments. | AWS, Grafana, OpenTelemetry |
-| **[cloud-operations-runbook](https://github.com/harrison-vc/cloud-operations-runbook)** | Standardized response protocols for high-availability systems. | SRE, Shell, Automation |
+| **[cloud-operations-runbook](https://github.com/harrison-vc/cloud-operations-runbook)** | Standardized response protocols for high-availability systems. | AWS, SRE, Shell, Automation |
 
 <br>
 
