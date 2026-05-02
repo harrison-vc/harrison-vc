@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=326CE5&center=true&vCenter=true&width=600&lines=Harrison+Vance;Cloud+Engineering+%7C+Security+%7C+SRE" alt="Harrison Vance — Cloud Engineering | Security | SRE">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=326CE5&center=true&vCenter=true&width=600&lines=Harrison+Vance;Cloud+and+DevOps+Engineering+%7C+Security+%7C+SRE" alt="Harrison Vance — Cloud and DevOps Engineering | Security | SRE">
 </p>
 
 <p align="center">
-  <em>Cloud Engineer focused on secure, observable, and highly available infrastructure. Engineering precision at scale.</em><br>
+  <em>Cloud and DevOps Engineer focused on secure, observable, and highly available infrastructure. Engineering precision at scale.</em><br>
   <img src="https://img.shields.io/badge/GitHub_Veteran-10+_Years-6E5494?style=flat-square&logo=github&logoColor=white" alt="GitHub Veteran">
   <img src="https://komarev.com/ghpvc/?username=harrison-vc&color=blue&style=flat-square" alt="Profile Views">
 </p>
