@@ -35,10 +35,10 @@ Cloud engineer with a deep focus on security, SRE, observability, and systems de
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [self-healing-microservices-cluster](https://github.com/harrison-vc/self-healing-microservices-cluster) | A containerized Node.js application deployed on AWS with automated recovery. | Node.js, AWS, Prometheus, Python |
-| [terraform-landing-zone](https://github.com/harrison-vc/terraform-landing-zone) | Modular, highly available Terraform landing zone for enterprise environments. | Terraform, AWS, HCL |
+| [enterprise-landing-zone](https://github.com/harrison-vc/terraform-landing-zone) | Modular, highly available Terraform landing zone for Enterprise environments. | Terraform, AWS, HCL, GitHub Actions |
+| [self-healing-microservices-cluster](https://github.com/harrison-vc/self-healing-microservices-cluster) | Containerized Node.js application deployed on AWS with automated recovery. | Node.js, AWS, Prometheus, Python |
 | [systems-debugging-framework](https://github.com/harrison-vc/systems-debugging-framework) | A structured framework for cloud systems and security incident debugging. | Documentation, SRE |
-| [algorithmic-trading-app](https://github.com/harrison-vc/algorithmic-trading-app) | Low-latency algorithmic trading platform for the Hyperliquid exchange. | TypeScript, Node.js |
+| [algorithmic-trading-app](https://github.com/harrison-vc/algorithmic-trading-app) | Low-latency algorithmic trading platform for the Hyperliquid exchange. | TypeScript, Node.js, Python, Terraform, GCP |
 | [api-failure-analysis](https://github.com/harrison-vc/api-failure-analysis) | Lab environment for intentional API failures and resiliency testing. | Python, FastAPI |
 | [cloud-service-baseline](https://github.com/harrison-vc/cloud-service-baseline) | Hardened cloud service reference with Docker and systemd integration. | Python, systemd, Docker |
 | [incident-postmortems](https://github.com/harrison-vc/incident-postmortems) | Collection of root cause analysis and preventive engineering notes. | Documentation, SRE |
@@ -49,8 +49,8 @@ Cloud engineer with a deep focus on security, SRE, observability, and systems de
 - **Cloud**: AWS (EC2, EKS, IAM, VPC, S3)
 - **Containerization**: Docker, Kubernetes, Helm
 - **CI/CD & Automation**: Ansible, Jenkins, GitHub Actions
-- **Languages**: Python, TypeScript, Bash, Go
-- **Databases**: PostgreSQL, Redis
+- **Languages**: Python, TypeScript, Bash, Go, Solidity
+- **Databases**: PostgreSQL, Redis, MongoDB, Supabase
 
 ## Contact and Links
 
