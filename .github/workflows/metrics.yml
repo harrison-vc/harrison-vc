@@ -9,7 +9,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: General Metrics (Full)
+      - name: GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -22,7 +22,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: percentage
-          plugin_languages_ignored: html, css
           plugin_languages_limit: 8
           plugin_habits: yes
           plugin_habits_from: 200
@@ -30,11 +29,8 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           filename: github-metrics.svg
-          output_action: commit
-          committer_branch: output
-          committer_message: "chore: update metrics [skip ci]"
-
-      - name: GitHub Stats (Card)
+          
+      - name: GitHub Stats
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -43,11 +39,8 @@ jobs:
           base: header, activity, community, repositories, metadata
           filename: github-stats.svg
           config_display: columns
-          output_action: commit
-          committer_branch: output
-          committer_message: "chore: update stats [skip ci]"
 
-      - name: Top Languages (Compact)
+      - name: Top Languages
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -57,6 +50,12 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 8
           filename: github-languages.svg
-          output_action: commit
-          committer_branch: output
-          committer_message: "chore: update languages [skip ci]"
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: .
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

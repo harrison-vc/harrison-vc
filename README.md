@@ -57,11 +57,11 @@
 <h2 align="center">GitHub Stats & Metrics</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harrison-vc/harrison-vc/output/github-stats.svg" alt="GitHub Stats" height="200">&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harrison-vc&theme=tokyonight" alt="GitHub Stats" height="200">&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=harrison-vc&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harrison-vc/harrison-vc/output/github-languages.svg" alt="Top Languages" height="200">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harrison-vc&theme=tokyonight" alt="Top Languages" height="200">
 </p>
 
 <br>
