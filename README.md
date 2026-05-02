@@ -1,60 +1,62 @@
-# Harrison Vance
+<p align="center">
+  <img src="assets/banner.jpg" width="100%" alt="Header Banner">
+</p>
 
-Cloud Engineer | Security & Observability Specialist
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=EAEAEA&center=true&vCenter=true&width=600&lines=Harrison+Vance;Cloud+Engineering+|+Security+|+SRE" alt="Harrison Vance — Cloud Engineering | Security | SRE">
+</p>
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiNmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTYuNzYzIDEwLjAzNnEuMDAyLjQ0Ni4wODguNzFjLjA2NC4xNzYuMTQ0LjM2OC4yNTYuNTc2LjA0LjA2My4wNTYuMTI3LjA1Ni4xODNxLjAwMi4xMi0uMTUyLjI0bC0uNTAzLjMzNWEuNC40IDAgMCAxLS4yMDguMDcycS0uMTItLjAwMi0uMjM5LS4xMTJhMi41IDIuNSAwIDAgMS0uMjg3LS4zNzUgNiA2IDAgMCAxLS4yNDgtLjQ3MXEtLjkzNCAxLjEwMS0yLjM0NyAxLjEwMWMtLjY3IDAtMS4yMDUtLjE5MS0xLjU5Ni0uNTc0cS0uNTg4LS41NzUtLjU5LTEuNTMzYzAtLjY3OC4yMzktMS4yMy43MjYtMS42NDQuNDg3LS40MTUgMS4xMzMtLjYyMyAxLjk1NS0uNjIzLjI3MiAwIC41NTEuMDI0Ljg0Ni4wNjQuMjk2LjA0LjYuMTA0LjkxOC4xNzZ2LS41ODNxLS4wMDEtLjkwOS0uMzc1LTEuMjc3Yy0uMjU1LS4yNDgtLjY4Ni0uMzY3LTEuMy0uMzY3LS4yOCAwLS41NjguMDMxLS44NjMuMTAzcS0uNDQzLjEwNi0uODYyLjI3MmEyIDIgMCAwIDEtLjI4LjEwNC41LjUgMCAwIDEtLjEyNy4wMjNxLS4xNjguMDAyLS4xNjgtLjI0N3YtLjM5MWMwLS4xMjguMDE2LS4yMjQuMDU2LS4yOGEuNi42IDAgMCAxIC4yMjQtLjE2NyA0LjYgNC42IDAgMCAxIDEuMDA1LS4zNiA0LjggNC44IDAgMCAxIDEuMjQ2LS4xNTFjLjk1IDAgMS42NDQuMjE2IDIuMDkxLjY0N3EuNjYuNjQ1LjY2MiAxLjk2M3YyLjU4NnptLTMuMjQgMS4yMTRjLjI2MyAwIC41MzQtLjA0OC44MjItLjE0NGExLjggMS44IDAgMCAwIC43NTgtLjUxIDEuMyAxLjMgMCAwIDAgLjI3Mi0uNTEyYy4wNDctLjE5MS4wOC0uNDIzLjA4LS42OTR2LS4zMzVhNyA3IDAgMCAwLS43MzUtLjEzNiA2IDYgMCAwIDAtLjc1LS4wNDhjLS41MzUgMC0uOTI2LjEwNC0xLjE5LjMyLS4yNjMuMjE1LS4zOS41MTgtLjM5LjkxNyAwIC4zNzUuMDk1LjY1NS4yOTUuODQ2LjE5MS4yLjQ3LjI5Ni44MzguMjk2bTYuNDEuODYyYy0uMTQ0IDAtLjI0LS4wMjQtLjMwNC0uMDgtLjA2NC0uMDQ4LS4xMi0uMTYtLjE2OC0uMzExTDcuNTg2IDUuNTVhMS40IDEuNCAwIDAgMS0uMDcyLS4zMmMwLS4xMjguMDY0LS4yLjE5MS0uMmguNzgzcS4yMjctLjAwMS4zMS4wOGMuMDY1LjA0OC4xMTMuMTYuMTYuMzEybDEuMzQyIDUuMjg0IDEuMjQ1LTUuMjg0cS4wNTgtLjI0LjE1MS0uMzEyYS41NS41NSAwIDAgMSAuMzItLjA4aC42MzhjLjE1MiAwIC4yNTYuMDI1LjMyLjA4LjA2My4wNDguMTIuMTYuMTUxLjMxMmwxLjI2MSA1LjM0OCAxLjM4MS01LjM0OHEuMDc0LS4yNC4xNi0uMzEyYS41Mi41MiAwIDAgMSAuMzExLS4wOGguNzQzYy4xMjcgMCAuMi4wNjUuMi4yIDAgLjA0LS4wMDkuMDgtLjAxNy4xMjhhMSAxIDAgMCAxLS4wNTYuMmwtMS45MjMgNi4xN3EtLjA3Mi4yNC0uMTY4LjMxMWEuNS41IDAgMCAxLS4zMDMuMDhoLS42ODdjLS4xNTEgMC0uMjU1LS4wMjQtLjMyLS4wOC0uMDYzLS4wNTYtLjExOS0uMTYtLjE1LS4zMmwtMS4yMzgtNS4xNDgtMS4yMyA1LjE0Yy0uMDQuMTYtLjA4Ny4yNjQtLjE1LjMyLS4wNjUuMDU2LS4xNzcuMDgtLjMyLjA4em0xMC4yNTYuMjE1Yy0uNDE1IDAtLjgzLS4wNDgtMS4yMjktLjE0My0uMzk5LS4wOTYtLjcxLS4yLS45MTgtLjMyLS4xMjgtLjA3MS0uMjE1LS4xNTEtLjI0Ny0uMjIzYS42LjYgMCAwIDEtLjA0OC0uMjI0di0uNDA3YzAtLjE2Ny4wNjQtLjI0Ny4xODMtLjI0N3EuMDcyIDAgLjE0NC4wMjRjLjA0OC4wMTYuMTIuMDQ4LjIuMDhxLjQwOC4xODEuODc4LjI3OWMuMzE5LjA2NC42My4wOTYuOTUuMDk2LjUwMiAwIC44OTQtLjA4OCAxLjE2NS0uMjY0YS44Ni44NiAwIDAgMCAuNDE1LS43NTguNzguNzggMCAwIDAtLjIxNS0uNTU5Yy0uMTQ0LS4xNTEtLjQxNi0uMjg3LS44MDctLjQxNWwtMS4xNTctLjM2Yy0uNTgzLS4xODMtMS4wMTQtLjQ1NC0xLjI3Ny0uODEzYTEuOSAxLjkgMCAwIDEtLjQtMS4xNThxMC0uNTAyLjIxNi0uODg2Yy4xNDQtLjI1NS4zMzUtLjQ3OS41NzUtLjY1NC4yNC0uMTg0LjUxLS4zMi44My0uNDE1LjMyLS4wOTYuNjU1LS4xMzYgMS4wMDYtLjEzNi4xNzUgMCAuMzU5LjAwOC41MzUuMDMyLjE4My4wMjQuMzUuMDU2LjUxOC4wODhxLjI0LjA1OC40NTUuMTI3LjIxNi4wNzIuMzM2LjE0NGEuNy43IDAgMCAxIC4yNC4yLjQzLjQzIDAgMCAxIC4wNzEuMjYzdi4zNzVxLS4wMDIuMjU0LS4xODQuMjU2YS44LjggMCAwIDEtLjMwMy0uMDk2IDMuNjUgMy42NSAwIDAgMC0xLjUzMi0uMzExYy0uNDU1IDAtLjgxNS4wNzEtMS4wNjIuMjIzcy0uMzc1LjM4My0uMzc1LjcxYzAgLjIyNC4wOC40MTYuMjQuNTY3LjE1OS4xNTIuNDU0LjMwNC44NzcuNDRsMS4xMzQuMzU4Yy41NzQuMTg0Ljk5LjQ0IDEuMjM3Ljc2N3MuMzY3LjcwMi4zNjcgMS4xMTdjMCAuMzQzLS4wNzIuNjU1LS4yMDcuOTI2YTIuMiAyLjIgMCAwIDEtLjU4My43MDNjLS4yNDguMi0uNTQzLjM0My0uODg2LjQ0Ny0uMzYuMTExLS43MzQuMTY3LTEuMTQyLjE2N20xLjUwOSAzLjg4Yy0yLjYyNiAxLjk0LTYuNDQyIDIuOTY5LTkuNzIyIDIuOTY5LTQuNTk4IDAtOC43NC0xLjctMTEuODctNC41MjYtLjI0Ny0uMjIzLS4wMjQtLjUyNy4yNzItLjM1MSAzLjM4NCAxLjk2MyA3LjU1OSAzLjE1MyAxMS44NzcgMy4xNTMgMi45MTQgMCA2LjExNC0uNjA3IDkuMDYtMS44NTIuNDM5LS4yLjgxNC4yODcuMzgzLjYwN20xLjA5NC0xLjI0NmMtLjMzNi0uNDMtMi4yMi0uMjA3LTMuMDc0LS4xMDMtLjI1NS4wMzItLjI5NS0uMTkyLS4wNjMtLjM2IDEuNS0xLjA1MyAzLjk2Ny0uNzUgNC4yNTQtLjM5OS4yODcuMzYtLjA4IDIuODI2LTEuNDg1IDQuMDA3LS4yMTUuMTg0LS40MjMuMDg4LS4zMjctLjE1MS4zMi0uNzkgMS4wMy0yLjU3LjY5NS0yLjk5NCIvPjwvc3ZnPg==&logoColor=white)](https://aws.amazon.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
-[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
-[![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/)
-[![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiNmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTYuNzYzIDEwLjAzNnEuMDAyLjQ0Ni4wODguNzFjLjA2NC4xNzYuMTQ0LjM2OC4yNTYuNTc2LjA0LjA2My4wNTYuMTI3LjA1Ni4xODNxLjAwMi4xMi0uMTUyLjI0bC0uNTAzLjMzNWEuNC40IDAgMCAxLS4yMDguMDcycS0uMTItLjAwMi0uMjM5LS4xMTJhMi41IDIuNSAwIDAgMS0uMjg3LS4zNzUgNiA2IDAgMCAxLS4yNDgtLjQ3MXEtLjkzNCAxLjEwMS0yLjM0NyAxLjEwMWMtLjY3IDAtMS4yMDUtLjE5MS0xLjU5Ni0uNTc0cS0uNTg4LS41NzUtLjU5LTEuNTMzYzAtLjY3OC4yMzktMS4yMy43MjYtMS42NDQuNDg3LS40MTUgMS4xMzMtLjYyMyAxLjk1NS0uNjIzLjI3MiAwIC41NTEuMDI0Ljg0Ni4wNjQuMjk2LjA0LjYuMTA0LjkxOC4xNzZ2LS41ODNxLS4wMDEtLjkwOS0uMzc1LTEuMjc3Yy0uMjU1LS4yNDgtLjY4Ni0uMzY3LTEuMy0uMzY3LS4yOCAwLS41NjguMDMxLS44NjMuMTAzcS0uNDQzLjEwNi0uODYyLjI3MmEyIDIgMCAwIDEtLjI4LjEwNC41LjUgMCAwIDEtLjEyNy4wMjNxLS4xNjguMDAyLS4xNjgtLjI0N3YtLjM5MWMwLS4xMjguMDE2LS4yMjQuMDU2LS4yOGEuNi42IDAgMCAxIC4yMjQtLjE2NyA0LjYgNC42IDAgMCAxIDEuMDA1LS4zNiA0LjggNC44IDAgMCAxIDEuMjQ2LS4xNTFjLjk1IDAgMS42NDQuMjE2IDIuMDkxLjY0N3EuNjYuNjQ1LjY2MiAxLjk2M3YyLjU4NnptLTMuMjQgMS4yMTRjLjI2MyAwIC41MzQtLjA0OC44MjItLjE0NGExLjggMS44IDAgMCAwIC43NTgtLjUxIDEuMyAxLjMgMCAwIDAgLjI3Mi0uNTEyYy4wNDctLjE5MS4wOC0uNDIzLjA4LS42OTR2LS4zMzVhNyA3IDAgMCAwLS43MzUtLjEzNiA2IDYgMCAwIDAtLjc1LS4wNDhjLS41MzUgMC0uOTI2LjEwNC0xLjE5LjMyLS4yNjMuMjE1LS4zOS41MTgtLjM5LjkxNyAwIC4zNzUuMDk1LjY1NS4yOTUuODQ2LjE5MS4yLjQ3LjI5Ni44MzguMjk2bTYuNDEuODYyYy0uMTQ0IDAtLjI0LS4wMjQtLjMwNC0uMDgtLjA2NC0uMDQ4LS4xMi0uMTYtLjE2OC0uMzExTDcuNTg2IDUuNTVhMS40IDEuNCAwIDAgMS0uMDcyLS4zMmMwLS4xMjguMDY0LS4yLjE5MS0uMmguNzgzcS4yMjctLjAwMS4zMS4wOGMuMDY1LjA0OC4xMTMuMTYuMTYuMzEybDEuMzQyIDUuMjg0IDEuMjQ1LTUuMjg0cS4wNTgtLjI0LjE1MS0uMzEyYS41NS41NSAwIDAgMSAuMzItLjA4aC42MzhjLjE1MiAwIC4yNTYuMDI1LjMyLjA4LjA2My4wNDguMTIuMTYuMTUxLjMxMmwxLjI2MSA1LjM0OCAxLjM4MS01LjM0OHEuMDc0LS4yNC4xNi0uMzEyYS41Mi41MiAwIDAgMSAuMzExLS4wOGguNzQzYy4xMjcgMCAuMi4wNjUuMi4yIDAgLjA0LS4wMDkuMDgtLjAxNy4xMjhhMSAxIDAgMCAxLS4wNTYuMmwtMS45MjMgNi4xN3EtLjA3Mi4yNC0uMTY4LjMxMWEuNS41IDAgMCAxLS4zMDMuMDhoLS42ODdjLS4xNTEgMC0uMjU1LS4wMjQtLjMyLS4wOC0uMDYzLS4wNTYtLjExOS0uMTYtLjE1LS4zMmwtMS4yMzgtNS4xNDgtMS4yMyA1LjE0Yy0uMDQuMTYtLjA4Ny4yNjQtLjE1LjMyLS4wNjUuMDU2LS4xNzcuMDgtLjMyLjA4em0xMC4yNTYuMjE1Yy0uNDE1IDAtLjgzLS4wNDgtMS4yMjktLjE0My0uMzk5LS4wOTYtLjcxLS4yLS45MTgtLjMyLS4xMjgtLjA3MS0uMjE1LS4xNTEtLjI0Ny0uMjIzYS42LjYgMCAwIDEtLjA0OC0uMjI0di0uNDA3YzAtLjE2Ny4wNjQtLjI0Ny4xODMtLjI0N3EuMDcyIDAgLjE0NC4wMjRjLjA0OC4wMTYuMTIuMDQ4LjIuMDhxLjQwOC4xODEuODc4LjI3OWMuMzE5LjA2NC42My4wOTYuOTUuMDk2LjUwMiAwIC44OTQtLjA4OCAxLjE2NS0uMjY0YS44Ni44NiAwIDAgMCAuNDE1LS43NTguNzguNzggMCAwIDAtLjIxNS0uNTU5Yy0uMTQ0LS4xNTEtLjQxNi0uMjg3LS44MDctLjQxNWwtMS4xNTctLjM2Yy0uNTgzLS4xODMtMS4wMTQtLjQ1NC0xLjI3Ny0uODEzYTEuOSAxLjkgMCAwIDEtLjQtMS4xNThxMC0uNTAyLjIxNi0uODg2Yy4xNDQtLjI1NS4zMzUtLjQ3OS41NzUtLjY1NC4yNC0uMTg0LjUxLS4zMi44My0uNDE1LjMyLS4wOTYuNjU1LS4xMzYgMS4wMDYtLjEzNi4xNzUgMCAuMzU5LjAwOC41MzUuMDMyLjE4My4wMjQuMzUuMDU2LjUxOC4wODhxLjI0LjA1OC40NTUuMTI3LjIxNi4wNzIuMzM2LjE0NGEuNy43IDAgMCAxIC4yNC4yLjQzLjQzIDAgMCAxIC4wNzEuMjYzdi4zNzVxLS4wMDIuMjU0LS4xODQuMjU2YS44LjggMCAwIDEtLjMwMy0uMDk2IDMuNjUgMy42NSAwIDAgMC0xLjUzMi0uMzExYy0uNDU1IDAtLjgxNS4wNzEtMS4wNjIuMjIzcy0uMzc1LjM4My0uMzc1LjcxYzAgLjIyNC4wOC40MTYuMjQuNTY3LjE1OS4xNTIuNDU0LjMwNC44NzcuNDRsMS4xMzQuMzU4Yy41NzQuMTg0Ljk5LjQ0IDEuMjM3Ljc2N3MuMzY3LjcwMi4zNjcgMS4xMTdjMCAuMzQzLS4wNzIuNjU1LS4yMDcuOTI2YTIuMiAyLjIgMCAwIDEtLjU4My43MDNjLS4yNDguMi0uNTQzLjM0My0uODg2LjQ0Ny0uMzYuMTExLS43MzQuMTY3LTEuMTQyLjE2N20xLjUwOSAzLjg4Yy0yLjYyNiAxLjk0LTYuNDQyIDIuOTY5LTkuNzIyIDIuOTY5LTQuNTk4IDAtOC43NC0xLjctMTEuODctNC41MjYtLjI0Ny0uMjIzLS4wMjQtLjUyNy4yNzItLjM1MSAzLjM4NCAxLjk2MyA3LjU1OSAzLjE1MyAxMS44NzcgMy4xNTMgMi45MTQgMCA2LjExNC0uNjA3IDkuMDYtMS44NTIuNDM5LS4yLjgxNC4yODcuMzgzLjYwN20xLjA5NC0xLjI0NmMtLjMzNi0uNDMtMi4yMi0uMjA3LTMuMDc0LS4xMDMtLjI1NS4wMzItLjI5NS0uMTkyLS4wNjMtLjM2IDEuNS0xLjA1MyAzLjk2Ny0uNzUgNC4yNTQtLjM5OS4yODcuMzYtLjA4IDIuODI2LTEuNDg1IDQuMDA3LS4yMTUuMTg0LS40MjMuMDg4LS4zMjctLjE1MS4zMi0uNzkgMS4wMy0yLjU3LjY5NS0yLjk5NCIvPjwvc3ZnPg==&logoColor=white)](https://aws.amazon.com/iam/)
-[![DNS](https://img.shields.io/badge/DNS-0052CC?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/learning/dns/what-is-dns/)
-[![systemd](https://img.shields.io/badge/systemd-1A1A1A?style=for-the-badge&logo=linux&logoColor=white)](https://systemd.io/)
+<p align="center">
+  <em>Cloud Engineer focused on secure, observable, and highly available infrastructure. Engineering precision at scale.</em>
+</p>
 
-## Professional Profile
+<br>
 
-Cloud & DevOps engineer with a deep focus on security, SRE, observability, and systems debugging. Experienced in building high-availability infrastructure, implementing self-healing architectures, and conducting detailed incident postmortems.
+<div align="center">
 
-## Expertise
-
-- **Infrastructure as Code**: Advanced Terraform development for enterprise landing zones and modular cloud environments.
-- **Observability & Monitoring**: Full-stack monitoring with Prometheus, Grafana, and custom alerting systems.
-- **Reliability Engineering**: Implementing self-healing logic and automated recovery workflows.
-- **Security & Hardening**: Secure system design, IAM optimization, and container security.
-- **Systems Debugging**: Structured framework for root cause analysis and complex failure troubleshooting.
-
-## Selected Personal Projects
-
-| Project | Description | Tech Stack |
+| **Cloud & Infrastructure** | **Observability & Data** | **Development & Security** |
 | :--- | :--- | :--- |
-| [enterprise-landing-zone](https://github.com/harrison-vc/terraform-landing-zone) | Modular, highly available Terraform landing zone for Enterprise environments. | Terraform, AWS, HCL, GitHub Actions |
-| [self-healing-microservices-cluster](https://github.com/harrison-vc/self-healing-microservices-cluster) | Containerized Node.js application deployed on AWS with automated recovery. | Node.js, AWS, Prometheus, Python |
-| [systems-debugging-framework](https://github.com/harrison-vc/systems-debugging-framework) | A structured framework for cloud systems and security incident debugging. | Documentation, SRE |
-| [algorithmic-trading-app](https://github.com/harrison-vc/algorithmic-trading-app) | Low-latency algorithmic trading platform for the Hyperliquid exchange. | TypeScript, Node.js, Python, Terraform, GCP |
-| [api-failure-analysis](https://github.com/harrison-vc/api-failure-analysis) | Lab environment for intentional API failures and resiliency testing. | Python, FastAPI |
-| [cloud-service-baseline](https://github.com/harrison-vc/cloud-service-baseline) | Hardened cloud service reference with Docker and systemd integration. | Python, systemd, Docker |
-| [incident-postmortems](https://github.com/harrison-vc/incident-postmortems) | Collection of root cause analysis and preventive engineering notes. | Documentation, SRE |
-| [cloud-operations-runbook](https://github.com/harrison-vc/cloud-operations-runbook) | Production-grade runbooks for incident response and troubleshooting. | SRE, Operations |
+| ![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-111111?style=for-the-badge&logo=prometheus&logoColor=white) | ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white) |
+| ![Terraform](https://img.shields.io/badge/Terraform-111111?style=for-the-badge&logo=terraform&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-111111?style=for-the-badge&logo=grafana&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white) |
+| ![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=for-the-badge&logo=kubernetes&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white) |
 
-## Technical Skills
+</div>
 
-- **Cloud**: AWS (EC2, EKS, IAM, VPC, S3)
-- **Containerization**: Docker, Kubernetes, Helm
-- **CI/CD & Automation**: Ansible, Jenkins, GitHub Actions
-- **Languages**: Python, TypeScript, Bash, Go, Solidity
-- **Databases**: PostgreSQL, Redis, MongoDB, Supabase
+<br>
 
-## Contact and Links
+## ✦ Technical Metrics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harrison-vance)
-[![Email](https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:hvance788@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harrison-vc)
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harrison-vc&show_icons=true&theme=transparent&title_color=EAEAEA&text_color=A1A1AA&icon_color=EAEAEA&hide_border=true&count_private=true" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrison-vc&layout=compact&theme=transparent&title_color=EAEAEA&text_color=A1A1AA&hide_border=true" alt="Top Languages" height="150">
+</div>
+
+<br>
+
+## ✦ Selected Work
+
+| Project | Outcome |
+| :--- | :--- |
+| **[terraform-landing-zone](https://github.com/harrison-vc/terraform-landing-zone)** | Modular, secure enterprise AWS baseline with OIDC & tfsec. |
+| **[cloud-operations-runbook](https://github.com/harrison-vc/cloud-operations-runbook)** | Standardized response protocols for high-availability systems. |
+| **[systems-debugging-framework](https://github.com/harrison-vc/systems-debugging-framework)** | Structured checklists for rapid RCA in distributed environments. |
+
+<br>
+
+## ✦ Professional Connect
+
+<p align="right">
+  <a href="https://linkedin.com/in/harrison-vance"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:harrison@harrisonvance.cc"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://harrisonvance.cc"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Generated with precision. © 2026 Harrison Vance.</sub>
+</p>
