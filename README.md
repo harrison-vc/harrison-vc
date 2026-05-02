@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=326CE5&center=true&vCenter=true&width=600&lines=Harrison+Vance;Cloud+Engineering+|+Security+|+SRE" alt="Harrison Vance — Cloud Engineering | Security | SRE">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=326CE5&center=true&vCenter=true&width=600&lines=Harrison+Vance;Cloud+DevOps+Engineering+|+Security+|+SRE" alt="Harrison Vance — Cloud Engineering | Security | SRE">
 </p>
 
 <p align="center">
