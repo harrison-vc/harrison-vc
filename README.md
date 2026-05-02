@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" width="100%" alt="Header Banner">
+  <img src="assets/banner.jpg" width="100%" height="250px" style="object-fit: cover;" alt="Header Banner">
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Cloud & DevOps Engineer focused on secure, observable, and highly available infrastructure. Engineering precision at scale.</em><br>
+  <em>Cloud Engineer focused on secure, observable, and highly available infrastructure. Engineering precision at scale.</em><br>
   <img src="https://img.shields.io/badge/GitHub_Veteran-10+_Years-6E5494?style=flat-square&logo=github&logoColor=white" alt="GitHub Veteran">
   <img src="https://komarev.com/ghpvc/?username=harrison-vc&color=blue&style=flat-square" alt="Profile Views">
 </p>
