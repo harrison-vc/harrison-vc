@@ -8,6 +8,7 @@
 
 <p align="center">
   <em>Cloud Engineer focused on secure, observable, and highly available infrastructure. Engineering precision at scale.</em><br>
+  <img src="https://img.shields.io/badge/GitHub_Veteran-10+_Years-6E5494?style=flat-square&logo=github&logoColor=white" alt="GitHub Veteran">
   <img src="https://komarev.com/ghpvc/?username=harrison-vc&color=blue&style=flat-square" alt="Profile Views">
 </p>
 
@@ -57,7 +58,7 @@
 <h2 align="center">GitHub Stats & Metrics</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harrison-vc&theme=tokyonight" alt="GitHub Stats" height="200">&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harrison-vc&theme=tokyonight" alt="GitHub Stats" height="200">&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=harrison-vc&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200">
 </p>
 <p align="center">
