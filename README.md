@@ -22,7 +22,7 @@ Cloud Engineer | Security & Observability Specialist
 
 ## Professional Profile
 
-Cloud engineer with a deep focus on security, SRE, observability, and systems debugging. Experienced in building high-availability infrastructure, implementing self-healing architectures, and conducting detailed incident postmortems.
+Cloud & DevOps engineer with a deep focus on security, SRE, observability, and systems debugging. Experienced in building high-availability infrastructure, implementing self-healing architectures, and conducting detailed incident postmortems.
 
 ## Expertise
 
