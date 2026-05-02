@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <em>Cloud & DevOps Engineer focused on secure, observable, and highly available infrastructure. Engineering precision at scale.</em><br>
+  <em>Cloud Engineer focused on secure, observable, and highly available infrastructure. Engineering precision at scale.</em><br>
   <img src="https://komarev.com/ghpvc/?username=harrison-vc&color=blue&style=flat-square" alt="Profile Views">
 </p>
 
 <br>
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center">Tech Stack & Tools</h2>
 
 <p align="center">
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"></a>
@@ -33,7 +33,7 @@
 
 <br>
 
-<h2 align="center">🎖️ Accolades & Distinctions</h2>
+<h2 align="center">Accolades & Distinctions</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Professional-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS SAP">
@@ -44,7 +44,7 @@
 
 <br>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">GitHub Trophies</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=harrison-vc&theme=tokyonight&margin-w=15&column=7" alt="Harrison's Trophies">
@@ -53,7 +53,7 @@
 
 <br>
 
-<h2 align="center">📊 GitHub Stats & Metrics</h2>
+<h2 align="center">GitHub Stats & Metrics</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/harrison-vc/harrison-vc/output/github-stats.svg" alt="GitHub Stats" height="200">&nbsp;&nbsp;
@@ -65,7 +65,7 @@
 
 <br>
 
-<h2 align="center">🐍 Contribution Activity</h2>
+<h2 align="center">Contribution Activity</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harrison-vc/harrison-vc/output/github-contribution-grid-snake-dark.svg">
@@ -76,7 +76,7 @@
 
 <br>
 
-<h2 align="center">📂 Selected Work</h2>
+<h2 align="center">Selected Work</h2>
 
 | Project | Outcome |
 | :--- | :--- |
@@ -86,7 +86,7 @@
 
 <br>
 
-<h2 align="center">🔗 Connect with Me</h2>
+<h2 align="center">Connect with Me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/harrison-vance"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
