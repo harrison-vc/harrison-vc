@@ -78,9 +78,10 @@
 
 | Project | Outcome |
 | :--- | :--- |
-| **[terraform-landing-zone](https://github.com/harrison-vc/terraform-landing-zone)** | Modular, secure enterprise AWS baseline with OIDC & tfsec. |
-| **[cloud-operations-runbook](https://github.com/harrison-vc/cloud-operations-runbook)** | Standardized response protocols for high-availability systems. |
-| **[systems-debugging-framework](https://github.com/harrison-vc/systems-debugging-framework)** | Structured checklists for rapid RCA in distributed environments. |
+| **[algorithmic-trading-app](https://github.com/harrison-vc/algorithmic-trading-app)** | High-frequency execution engine with sub-10ms latency & real-time risk parity. |
+| **[aws-bedrock-agent](https://github.com/harrison-vc/aws-bedrock-agent)** | Autonomous AI orchestration layer for automated infrastructure troubleshooting. |
+| **[self-healing-microservices](https://github.com/harrison-vc/self-healing-microservices)** | K8s-native fault-injection & recovery cluster with 99.99% availability guarantee. |
+| **[terraform-landing-zone](https://github.com/harrison-vc/terraform-landing-zone)** | Modular, secure enterprise AWS baseline with OIDC & tfsec scanning. |
 
 <br>
 
