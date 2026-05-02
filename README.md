@@ -36,10 +36,11 @@
 <h2 align="center">Accolades & Distinctions</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Professional-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS SAP">
-  <img src="https://img.shields.io/badge/CNCF-Cloud_Native_Ambassador-326CE5?style=flat-square&logo=cloud-native-computing-foundation&logoColor=white" alt="CNCF">
-  <img src="https://img.shields.io/badge/Global_SRE-Top_100_(2025)-4EAA25?style=flat-square&logo=google-cloud&logoColor=white" alt="Top 100 SRE">
-  <img src="https://img.shields.io/badge/HashiCorp-Core_Contributor-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="HashiCorp">
+  <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAP" height="40">
+  <img src="https://img.shields.io/badge/CNCF-Cloud_Native_Ambassador-326CE5?style=for-the-badge&logo=cloud-native-computing-foundation&logoColor=white" alt="CNCF" height="40">
+  <br>
+  <img src="https://img.shields.io/badge/Global_SRE-Top_100_(2025)-4EAA25?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Top 100 SRE" height="40">
+  <img src="https://img.shields.io/badge/HashiCorp-Core_Contributor-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="HashiCorp" height="40">
 </p>
 
 <br>
