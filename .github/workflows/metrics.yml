@@ -1,8 +1,6 @@
 name: Metrics
 on:
-  # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
-  # Lines below allow to run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -11,39 +9,54 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: General Metrics (Full)
+        uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following token permissions are required:
-          #  - public_repo (read-only)
-          #  - repo (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
           user: harrison-vc
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Bangkok
-          
-          # Plugin: Isometric Commit Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          
-          # Plugin: Languages
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: percentage
           plugin_languages_ignored: html, css
           plugin_languages_limit: 8
-          
-          # Plugin: Habits
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          
-          # Layout
           filename: github-metrics.svg
-          optimize: yes
-          experimental_features: --graph-mnd-legend
+          output_action: commit
+          committer_branch: output
+          committer_message: "chore: update metrics [skip ci]"
+
+      - name: GitHub Stats (Card)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: harrison-vc
+          template: classic
+          base: header, activity, community, repositories, metadata
+          filename: github-stats.svg
+          config_display: columns
+          output_action: commit
+          committer_branch: output
+          committer_message: "chore: update stats [skip ci]"
+
+      - name: Top Languages (Compact)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: harrison-vc
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          filename: github-languages.svg
+          output_action: commit
+          committer_branch: output
+          committer_message: "chore: update languages [skip ci]"

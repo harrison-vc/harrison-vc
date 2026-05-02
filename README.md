@@ -56,11 +56,11 @@
 <h2 align="center">📊 GitHub Stats & Metrics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harrison-vc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=harrison-vc&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170">
+  <img src="https://raw.githubusercontent.com/harrison-vc/harrison-vc/output/github-stats.svg" alt="GitHub Stats" height="200">&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=harrison-vc&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrison-vc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150">
+  <img src="https://raw.githubusercontent.com/harrison-vc/harrison-vc/output/github-languages.svg" alt="Top Languages" height="200">
 </p>
 
 <br>
