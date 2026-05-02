@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Cloud Engineer focused on secure, observable, and highly available infrastructure. Engineering precision at scale.</em><br>
+  <em>Cloud & DevOps Engineer focused on secure, observable, and highly available infrastructure. Engineering precision at scale.</em><br>
   <img src="https://komarev.com/ghpvc/?username=harrison-vc&color=blue&style=flat-square" alt="Profile Views">
 </p>
 
