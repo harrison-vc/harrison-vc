@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <em>Cloud & DevOps Engineer | Architecting secure, observable, and autonomous cloud ecosystems since 2016. Engineering precision at institutional scale.</em>
+  <b>Cloud & DevOps Engineer</b> | Architecting secure, observable, and autonomous cloud ecosystems since 2016. Engineering precision at institutional scale.</em>
 </p>
 
 ---
@@ -21,9 +21,9 @@
   <img src="https://img.shields.io/badge/-%20ABOUT%20ME%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
 </div>
 
-- **Current focus:** **[AWS-Landing-Zone-Terraform](https://github.com/h-vance/aws-landing-zone-terraform)** and **[AWS-Bedrock-AI-agent](https://github.com/h-vance/aws-bedrock-agent)**
+- **Current focus:** **[Enterprise-AWS-Landing-Zone-Terraform](https://github.com/h-vance/aws-landing-zone-terraform)** and **[AWS-Bedrock-AI-agent](https://github.com/h-vance/aws-bedrock-agent)**
 - **Learning:** **Advanced LLM Orchestration** 
-- **Expertise:** **Cloud Native Architecture, SRE, and High-Frequency Trading Systems**
+- **Expertise:** **Cloud Native Architecture, DevOps, and High-Frequency Trading Systems**
 - **Contact:** **hvance788@gmail.com**
 
 <p align="left">
