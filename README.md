@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <em>Cloud & DevOps Engineer — Architecting secure, observable, and autonomous cloud ecosystems since 2016. Engineering precision at institutional scale.</em>
+  <em>Cloud & DevOps Engineer | Architecting secure, observable, and autonomous cloud ecosystems since 2016. Engineering precision at institutional scale.</em>
 </p>
 
 ---
@@ -22,10 +22,9 @@
 </div>
 
 - **Current focus:** **[AWS-Landing-Zone-Terraform](https://github.com/h-vance/aws-landing-zone-terraform)** and **[AWS-Bedrock-AI-agent](https://github.com/h-vance/aws-bedrock-agent)**
-- **Learning:** **Advanced LLM Orchestration** and **Rust for Systems Engineering**
+- **Learning:** **Advanced LLM Orchestration** 
 - **Expertise:** **Cloud Native Architecture, SRE, and High-Frequency Trading Systems**
-- **Contact:** **harrison@harrisonvance.cc**
-- **Note:** **I have a 10+ year contribution history that I recently restored to this aged account.**
+- **Contact:** **hvance788@gmail.com**
 
 <p align="left">
   <a href="https://linkedin.com/in/harrison-vance"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -46,8 +45,6 @@
   <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="28"></a>
   <a href="https://argoproj.github.io/cd/"><img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" height="28"></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28"></a>
-</p>
-
 <p align="center">
   <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="28"></a>
   <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="28"></a>
