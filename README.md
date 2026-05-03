@@ -17,10 +17,11 @@
 
 <br/>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=TECHNICAL%20ECOSYSTEM&fontSize=25&animation=fadeIn&fontAlignY=40" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
 
+<h2 align="center">Technical Ecosystem</h2>
 <p align="center">
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="28"></a>
   <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="28"></a>
@@ -47,12 +48,11 @@
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="28"></a>
 </p>
 
-<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=ENGINEERING%20PORTFOLIO&fontSize=25&animation=fadeIn&fontAlignY=40" width="100%"/>
-</p>
-
+<h2 align="center">Engineering Portfolio</h2>
 <div align="center">
 
 | Project | Outcome | Stack |
@@ -69,10 +69,11 @@
 
 <br/>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=INSTITUTIONAL%20ACCOLADES&fontSize=25&animation=fadeIn&fontAlignY=40" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
 
+<h2 align="center">Institutional Accolades</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/CNCF-Cloud_Native_Ambassador-326CE5?style=for-the-badge&logo=cloud-native-computing-foundation&logoColor=white" height="40">
@@ -83,10 +84,11 @@
 
 <br/>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=METRICS%20%26%20OBSERVABILITY&fontSize=25&animation=fadeIn&fontAlignY=40" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
 
+<h2 align="center">Metrics & Observability</h2>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harrison-vc&theme=tokyonight" height="190">&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=harrison-vc&theme=tokyonight&hide_border=true" height="190">
@@ -100,12 +102,20 @@
 
 <br/>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=CONTRIBUTION%20VELOCITY&fontSize=25&animation=fadeIn&fontAlignY=40" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
 
+<h2 align="center">Contribution Velocity</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/harrison-vc/harrison-vc/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%">
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/harrison-vc/aws-bedrock-agent"><img src="https://img.shields.io/badge/Case_Study-Autonomous_AI_Infra_Orchestration-BB9AF7?style=for-the-badge&logo=dev.to&logoColor=white" height="40"></a>
+  <a href="https://quantsedge.ai"><img src="https://img.shields.io/badge/Case_Study-Sub--10ms_Latency_Engineering-2ac3de?style=for-the-badge&logo=hashnode&logoColor=white" height="40"></a>
 </p>
 
 <br/>
