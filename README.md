@@ -47,22 +47,22 @@
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=2ac3de" height="28"></a>
   <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-1a1b26?style=for-the-badge&logo=github-actions&logoColor=2ac3de" height="28"></a>
   <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-1a1b26?style=for-the-badge&logo=go&logoColor=2ac3de" height="28"></a>
+  <br/>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=2ac3de" height="28"></a>
   <a href="https://soliditylang.org/"><img src="https://img.shields.io/badge/Solidity-1a1b26?style=for-the-badge&logo=solidity&logoColor=2ac3de" height="28"></a>
   <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-1a1b26?style=for-the-badge&logo=fastapi&logoColor=2ac3de" height="28"></a>
   <img src="https://img.shields.io/badge/TypeScript-1a1b26?style=for-the-badge&logo=typescript&logoColor=2ac3de" height="28">
-  <br/>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=2ac3de" height="28"></a>
   <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-1a1b26?style=for-the-badge&logo=redis&logoColor=2ac3de" height="28"></a>
   <img src="https://img.shields.io/badge/SQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=2ac3de" height="28">
-  <img src="https://img.shields.io/badge/NoSQL-1a1b26?style=for-the-badge&logo=mongodb&logoColor=2ac3de" height="28">
   <br/>
+  <img src="https://img.shields.io/badge/NoSQL-1a1b26?style=for-the-badge&logo=mongodb&logoColor=2ac3de" height="28">
   <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-1a1b26?style=for-the-badge&logo=prometheus&logoColor=2ac3de" height="28"></a>
   <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-1a1b26?style=for-the-badge&logo=grafana&logoColor=2ac3de" height="28"></a>
   <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-1a1b26?style=for-the-badge&logo=jenkins&logoColor=2ac3de" height="28"></a>
   <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-1a1b26?style=for-the-badge&logo=ansible&logoColor=2ac3de" height="28"></a>
-  <br/>
   <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-1a1b26?style=for-the-badge&logo=n8n&logoColor=2ac3de" height="28"></a>
+  <br/>
   <img src="https://img.shields.io/badge/Linux-1a1b26?style=for-the-badge&logo=linux&logoColor=2ac3de" height="28">
   <img src="https://img.shields.io/badge/Bash-1a1b26?style=for-the-badge&logo=gnu-bash&logoColor=2ac3de" height="28">
 </p>
