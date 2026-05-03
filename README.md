@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <em>Architecting secure, observable, and autonomous cloud ecosystems. Engineering precision at institutional scale.</em>
+  <em>Cloud and DevOps Engineer focused on secure, observable, and highly available infrastructure. Engineering precision at institutional scale.</em>
 </p>
 
 <br/>
