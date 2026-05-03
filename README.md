@@ -17,40 +17,37 @@
 
 <br/>
 
+<h2 align="center">Technical Ecosystem</h2>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,10&height=120&section=header&text=TECHNICAL%20ECOSYSTEM&fontSize=30&animation=fadeIn&fontAlignY=35" width="100%"/>
-</p>
-
-<div align="center">
-
-| | | |
-| :--- | :--- | :--- |
-| <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="35"></a> | <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" height="35"></a> | <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="35"></a> |
-| <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35"></a> | <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35"></a> | <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="35"></a> |
-| <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="35"></a> | <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="35"></a> | <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="35"></a> |
-
-</div>
-
-<br/>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,10&height=60&section=header&text=INSTITUTIONAL%20ACCOLADES&fontSize=22&fontAlignY=50" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="45">
-  <img src="https://img.shields.io/badge/CNCF-Cloud_Native_Ambassador-326CE5?style=for-the-badge&logo=cloud-native-computing-foundation&logoColor=white" height="45">
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="30"></a>
+  <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" height="30"></a>
+  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="30"></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"></a>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30"></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="30"></a>
   <br/>
-  <img src="https://img.shields.io/badge/Global_SRE-Top_100_(2025)-4EAA25?style=for-the-badge&logo=google-cloud&logoColor=white" height="45">
-  <img src="https://img.shields.io/badge/HashiCorp-Core_Contributor-623CE4?style=for-the-badge&logo=terraform&logoColor=white" height="45">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="30"></a>
+  <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="30"></a>
+  <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="30"></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="30"></a>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="30"></a>
 </p>
 
 <br/>
 
+<h2 align="center">Institutional Accolades</h2>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,5,10&height=60&section=header&text=ENGINEERING%20PORTFOLIO&fontSize=22&fontAlignY=50" width="100%"/>
+  <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/CNCF-Cloud_Native_Ambassador-326CE5?style=for-the-badge&logo=cloud-native-computing-foundation&logoColor=white" height="40">
+  <br/>
+  <img src="https://img.shields.io/badge/Global_SRE-Top_100_(2025)-4EAA25?style=for-the-badge&logo=google-cloud&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/HashiCorp-Core_Contributor-623CE4?style=for-the-badge&logo=terraform&logoColor=white" height="40">
 </p>
 
+<br/>
+
+<h2 align="center">Engineering Portfolio</h2>
 <div align="center">
 
 | Project | Outcome | Stack |
@@ -65,10 +62,7 @@
 
 <br/>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=2,5,10&height=60&section=header&text=METRICS%20%26%20OBSERVABILITY&fontSize=22&fontAlignY=50" width="100%"/>
-</p>
-
+<h2 align="center">Metrics & Observability</h2>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harrison-vc&theme=tokyonight" height="190">&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=harrison-vc&theme=tokyonight&hide_border=true" height="190">
@@ -82,10 +76,7 @@
 
 <br/>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,10&height=40&section=header&text=CONTRIBUTION%20VELOCITY&fontSize=18&fontAlignY=50" width="100%"/>
-</p>
-
+<h2 align="center">Contribution Velocity</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/harrison-vc/harrison-vc/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%">
 </p>
