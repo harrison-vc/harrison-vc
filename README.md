@@ -11,20 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=harrison-vc&color=7dcfff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 </div>
 
-<h2 align="center">Engineering Portfolio</h2>
-<div align="center">
-
-| Project | Outcome | Stack |
-| :--- | :--- | :--- |
-| **[algorithmic-trading-app](https://github.com/harrison-vc/algorithmic-trading-app)** | Sub-10ms execution engine / risk parity. | `Python` `C++` `Redis` `AWS` |
-| **[aws-bedrock-agent](https://github.com/harrison-vc/aws-bedrock-agent)** | Autonomous AI infra orchestration layer. | `Bedrock` `Lambda` `Boto3` |
-| **[self-healing-microservices](https://github.com/harrison-vc/self-healing-microservices)** | K8s fault-injection & recovery (99.99% SLA). | `Kubernetes` `Go` `Istio` `Prometheus` `Grafana` |
-| **[terraform-landing-zone](https://github.com/harrison-vc/terraform-landing-zone)** | Modular, secure enterprise AWS baseline via OIDC. | `Terraform` `AWS` `GHA` `OIDC` |
-| **[cloud-service-baseline](https://github.com/harrison-vc/cloud-service-baseline)** | Observable service baseline for production-ready apps. | `AWS` `Grafana` `OpenTelemetry` |
-| **[cloud-operations-runbook](https://github.com/harrison-vc/cloud-operations-runbook)** | Standardized response protocols for high-availability systems. | `SRE` `Shell` `Automation` |
-| **[incident-postmortems](https://github.com/harrison-vc/incident-postmortems)** | High-fidelity RCA and prevention strategies. | `SRE` `Markdown` `Docs` |
-
-</div>
 <h2 align="center">Technical Ecosystem</h2>
 <p align="center">
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="28"></a>
@@ -51,6 +37,20 @@
 
 <br/>
 
+<h2 align="center">Engineering Portfolio</h2>
+<div align="center">
+
+| Project | Outcome | Stack |
+| :--- | :--- | :--- |
+| **[algorithmic-trading-app](https://github.com/harrison-vc/algorithmic-trading-app)** | Sub-10ms execution engine / risk parity. | `Python` `C++` `Redis` `AWS` |
+| **[aws-bedrock-agent](https://github.com/harrison-vc/aws-bedrock-agent)** | Autonomous AI infra orchestration layer. | `Bedrock` `Lambda` `Boto3` |
+| **[self-healing-microservices](https://github.com/harrison-vc/self-healing-microservices)** | K8s fault-injection & recovery (99.99% SLA). | `Kubernetes` `Go` `Istio` `Prometheus` `Grafana` |
+| **[terraform-landing-zone](https://github.com/harrison-vc/terraform-landing-zone)** | Modular, secure enterprise AWS baseline via OIDC. | `Terraform` `AWS` `GHA` `OIDC` |
+| **[cloud-service-baseline](https://github.com/harrison-vc/cloud-service-baseline)** | Observable service baseline for production-ready apps. | `AWS` `Grafana` `OpenTelemetry` |
+| **[cloud-operations-runbook](https://github.com/harrison-vc/cloud-operations-runbook)** | Standardized response protocols for high-availability systems. | `SRE` `Shell` `Automation` |
+| **[incident-postmortems](https://github.com/harrison-vc/incident-postmortems)** | High-fidelity RCA and prevention strategies. | `SRE` `Markdown` `Docs` |
+
+</div>
 <h2 align="center">Institutional Accolades</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="40">
@@ -94,6 +94,12 @@
 <p align="center">
   <a href="https://linkedin.com/in/harrison-vance"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>&nbsp;
   <a href="mailto:harrison@harrisonvance.cc"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"></a>&nbsp;
+  <a href="https://harrisonvance.cc"><img src="https://img.shields.io/badge/PORTFOLIO-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" height="30"></a>
+</p>
+
+<p align="center">
+  <sub>Precision Engineered © 2026 Harrison Vance.</sub>
+</p>
   <a href="https://harrisonvance.cc"><img src="https://img.shields.io/badge/PORTFOLIO-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" height="30"></a>
 </p>
 
