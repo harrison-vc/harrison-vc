@@ -39,7 +39,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-1a1b26?style=for-the-badge&logo=amazon-aws&logoColor=2ac3de" height="28"></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="28"></a>
   <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GCP-1a1b26?style=for-the-badge&logo=google-cloud&logoColor=2ac3de" height="28"></a>
   <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-1a1b26?style=for-the-badge&logo=terraform&logoColor=2ac3de" height="28"></a>
   <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-1a1b26?style=for-the-badge&logo=kubernetes&logoColor=2ac3de" height="28"></a>
@@ -70,9 +70,9 @@
   <img src="https://img.shields.io/badge/Linux-1a1b26?style=for-the-badge&logo=linux&logoColor=2ac3de" height="28">
   <br/>
   <img src="https://img.shields.io/badge/Bash-1a1b26?style=for-the-badge&logo=gnu-bash&logoColor=2ac3de" height="28">
-  <img src="https://img.shields.io/badge/SRE-1a1b26?style=for-the-badge&logo=google-cloud&logoColor=2ac3de" height="28">
+  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-1a1b26?style=for-the-badge&logo=rust&logoColor=2ac3de" height="28"></a>
   <br/>
-  <a href="https://aws.amazon.com/bedrock/"><img src="https://img.shields.io/badge/Bedrock-1a1b26?style=for-the-badge&logo=amazon-aws&logoColor=2ac3de" height="28"></a>
+  <a href="https://aws.amazon.com/bedrock/"><img src="https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28"></a>
 </p>
 
 <br/><br/>
@@ -118,6 +118,10 @@
 </div>
 
 <br/>
+
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=h-vance&data=followers,repositories,stars,commits&theme=darkmode" height="150">
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-vance&theme=tokyonight" height="190">&nbsp;&nbsp;
