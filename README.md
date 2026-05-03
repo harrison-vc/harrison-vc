@@ -34,9 +34,7 @@
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-%20TECHNICAL%20ECOSYSTEM%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+z
 </div>
 <p align="center">
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28"></a>
