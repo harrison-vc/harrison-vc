@@ -23,14 +23,14 @@
 
 - **Current focus:** **[Algorithmic-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)** and **[AWS-Bedrock-AI-Agent](https://github.com/h-vance/aws-bedrock-agent)**
 - **Learning:** **Advanced LLM Orchestration** and **Rust for Systems Engineering**
-- **Expertise:** **Cloud Native Architecture, SRE, and High-Frequency Trading Systems**
-- **Contact:** **harrison@harrisonvance.cc**
-- **Note:** **I have a 10+ year contribution history that I recently restored to this aged account.**
+- **Expertise:** **Cloud Native Architecture, DevOps, and High-Frequency Trading Systems**
+- **Contact:** **hvance788@gmail.com**
+
 
 <p align="left">
   <a href="https://linkedin.com/in/harrison-vance"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:harrison@harrisonvance.cc"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://harrisonvance.cc"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="mailto:hvance788@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/h-vance"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
 </p>
 
 ---
