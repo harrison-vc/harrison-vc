@@ -1,6 +1,6 @@
 <!-- ELITE_HEADER_START -->
 <p align="center">
-  <img src="./header.svg?t=1714772400" width="100%" />
+  <img src="./header.svg?t=1714772401" width="100%" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 </div>
 
 <p align="center">
-  <img src="./diagnostic.svg?t=1714772400" width="100%" />
+  <img src="./diagnostic.svg?t=1714772401" width="100%" />
 </p>
 <!-- ABOUT_ME_END -->
 
