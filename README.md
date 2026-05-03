@@ -11,7 +11,16 @@
   <img src="https://komarev.com/ghpvc/?username=harrison-vc&color=7dcfff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 </div>
 
-<h2 align="center">Technical Ecosystem</h2>
+<p align="center">
+  <em>Cloud & DevOps Engineer — Architecting secure, observable, and autonomous cloud ecosystems. Engineering precision at institutional scale.</em>
+</p>
+
+<br/>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=TECHNICAL%20ECOSYSTEM&fontSize=25&animation=fadeIn&fontAlignY=40" width="100%"/>
+</p>
+
 <p align="center">
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="28"></a>
   <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="28"></a>
@@ -40,21 +49,30 @@
 
 <br/>
 
-<h2 align="center">Engineering Portfolio</h2>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=ENGINEERING%20PORTFOLIO&fontSize=25&animation=fadeIn&fontAlignY=40" width="100%"/>
+</p>
+
 <div align="center">
 
 | Project | Outcome | Stack |
 | :--- | :--- | :--- |
 | **[algorithmic-trading-app](https://github.com/harrison-vc/algorithmic-trading-app)** | Sub-10ms execution engine / risk parity. | `Python` `C++` `Redis` `AWS` |
 | **[aws-bedrock-agent](https://github.com/harrison-vc/aws-bedrock-agent)** | Autonomous AI infra orchestration layer. | `Bedrock` `Lambda` `Boto3` |
-| **[self-healing-microservices](https://github.com/harrison-vc/self-healing-microservices)** | K8s fault-injection & recovery (99.99% SLA). | `Kubernetes` `Go` `Istio` `Prometheus` `Grafana` |
-| **[terraform-landing-zone](https://github.com/harrison-vc/terraform-landing-zone)** | Modular, secure enterprise AWS baseline via OIDC. | `Terraform` `AWS` `GHA` `OIDC` |
+| **[self-healing-microservices](https://github.com/harrison-vc/self-healing-microservices)** | K8s fault-injection & recovery (99.99% SLA). | `Kubernetes` `Go` `Istio` `Prometheus` |
+| **[terraform-landing-zone](https://github.com/harrison-vc/terraform-landing-zone)** | Modular, secure enterprise AWS baseline with OIDC trust. | `Terraform` `AWS` `GHA` `OIDC` |
 | **[cloud-service-baseline](https://github.com/harrison-vc/cloud-service-baseline)** | Observable service baseline for production-ready apps. | `AWS` `Grafana` `OpenTelemetry` |
 | **[cloud-operations-runbook](https://github.com/harrison-vc/cloud-operations-runbook)** | Standardized response protocols for high-availability systems. | `SRE` `Shell` `Automation` |
 | **[incident-postmortems](https://github.com/harrison-vc/incident-postmortems)** | High-fidelity RCA and prevention strategies. | `SRE` `Markdown` `Docs` |
 
 </div>
-<h2 align="center">Institutional Accolades</h2>
+
+<br/>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=INSTITUTIONAL%20ACCOLADES&fontSize=25&animation=fadeIn&fontAlignY=40" width="100%"/>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/CNCF-Cloud_Native_Ambassador-326CE5?style=for-the-badge&logo=cloud-native-computing-foundation&logoColor=white" height="40">
@@ -65,15 +83,10 @@
 
 <br/>
 
-<h2 align="center">Featured Technical Deep Dives</h2>
 <p align="center">
-  <a href="https://github.com/harrison-vc/aws-bedrock-agent"><img src="https://img.shields.io/badge/Case_Study-Autonomous_AI_Infra_Orchestration-BB9AF7?style=for-the-badge&logo=dev.to&logoColor=white" height="40"></a>
-  <a href="https://quantsedge.ai"><img src="https://img.shields.io/badge/Case_Study-Sub--10ms_Latency_Engineering-2ac3de?style=for-the-badge&logo=hashnode&logoColor=white" height="40"></a>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=METRICS%20%26%20OBSERVABILITY&fontSize=25&animation=fadeIn&fontAlignY=40" width="100%"/>
 </p>
 
-<br/>
-
-<h2 align="center">Metrics & Observability</h2>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harrison-vc&theme=tokyonight" height="190">&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=harrison-vc&theme=tokyonight&hide_border=true" height="190">
@@ -87,7 +100,10 @@
 
 <br/>
 
-<h2 align="center">Contribution Velocity</h2>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=CONTRIBUTION%20VELOCITY&fontSize=25&animation=fadeIn&fontAlignY=40" width="100%"/>
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/harrison-vc/harrison-vc/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%">
 </p>
