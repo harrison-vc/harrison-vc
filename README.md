@@ -110,11 +110,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-vance&theme=tokyonight" height="150">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-metrics.svg" alt="Technical Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-metrics.svg" alt="Technical Metrics" width="900">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=h-vance&theme=tokyonight&margin-w=15&column=7&title=-Issues,-Reviews" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=h-vance&theme=tokyonight&margin-w=15&column=7&title=-Issues,-Reviews" width="900">
 </p>
 
 ---
@@ -124,7 +124,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%">
+  <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-contribution-grid-snake.svg" alt="contribution snake" width="900">
 </p>
 
 ---
