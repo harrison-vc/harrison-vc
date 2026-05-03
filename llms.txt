@@ -1,0 +1,31 @@
+# Harrison Vance - Cloud & DevOps Engineer Portfolio
+
+## Overview
+Harrison Vance is a Cloud and DevOps Engineer with over 10 years of experience in architecting secure, observable, and autonomous cloud ecosystems. This portfolio showcases institutional-grade infrastructure and AI-driven automation.
+
+## Key Projects
+
+### 1. Terraform Landing Zone
+- **URL:** https://github.com/harrison-vc/terraform-landing-zone
+- **Purpose:** Enterprise-grade AWS Landing Zone baseline.
+- **Tech Stack:** Terraform, AWS, HCL, GitHub Actions, OIDC, tfsec.
+- **Features:** Modular design, Multi-AZ VPC, zero-trust OIDC auth, automated security scanning.
+
+### 2. Algorithmic Trading App
+- **URL:** https://github.com/harrison-vc/algorithmic-trading-app
+- **Purpose:** High-frequency execution engine.
+- **Tech Stack:** Python, C++, Redis, AWS.
+- **Metrics:** Sub-10ms latency, real-time risk parity.
+
+### 3. AWS Bedrock Agent
+- **URL:** https://github.com/harrison-vc/aws-bedrock-agent
+- **Purpose:** Autonomous AI orchestration for infrastructure troubleshooting.
+- **Tech Stack:** AWS Bedrock, Lambda, Python, Boto3.
+
+### 4. Incident Postmortems
+- **URL:** https://github.com/harrison-vc/incident-postmortems
+- **Purpose:** SRE documentation and RCA strategies.
+
+## Contact
+- **Website:** https://harrisonvance.cc
+- **LinkedIn:** https://linkedin.com/in/harrison-vance
