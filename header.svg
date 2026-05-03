@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" fill="none">
-  <!-- Background -->
-  <rect width="1200" height="200" fill="#09090b"/>
-  
-  <!-- Subtle Gradient/Grid Accent on the right for asymmetry -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" fill="none">
   <defs>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-width="1" stroke-opacity="0.03"/>
     </pattern>
     <linearGradient id="fade" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="40%" stop-color="#09090b" stop-opacity="1"/>
+      <stop offset="60%" stop-color="#09090b" stop-opacity="1"/>
       <stop offset="100%" stop-color="#09090b" stop-opacity="0"/>
     </linearGradient>
   </defs>
+
+  <rect width="1200" height="240" fill="#09090b"/>
+  <rect x="600" width="600" height="240" fill="url(#grid)"/>
+  <rect x="600" width="600" height="240" fill="url(#fade)"/>
+
+  <g font-family="system-ui, -apple-system, sans-serif">
+    <text x="60" y="110" fill="#f4f4f5" font-size="72" font-weight="800" letter-spacing="-3">HARRISON VANCE</text>
+    <text x="64" y="156" fill="#a1a1aa" font-family="JetBrains Mono, monospace" font-size="16" font-weight="400" letter-spacing="6">CLOUD INFRASTRUCTURE</text>
+  </g>
   
-  <rect x="600" width="600" height="200" fill="url(#grid)"/>
-  <rect x="600" width="600" height="200" fill="url(#fade)"/>
-  
-  <!-- Left Aligned Typography -->
-  <text x="60" y="100" fill="#f4f4f5" font-family="system-ui, -apple-system, sans-serif" font-size="64" font-weight="800" letter-spacing="-2">HARRISON VANCE</text>
-  
-  <text x="64" y="144" fill="#a1a1aa" font-family="JetBrains Mono, monospace" font-size="16" font-weight="400" letter-spacing="4">CLOUD INFRASTRUCTURE // DEVOPS</text>
+  <rect x="60" y="190" width="1080" height="1" fill="#18181b"/>
 </svg>
