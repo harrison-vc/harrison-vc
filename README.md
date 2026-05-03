@@ -7,46 +7,13 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GITHUB_VETERAN-10+_YEARS-1a1b26?style=for-the-badge&labelColor=00FF41&color=1a1b26" alt="GitHub Veteran">&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=h-vance&color=00FF41&style=for-the-badge&label=TERMINAL_PULSE" alt="Profile Views">
+  <img src="https://img.shields.io/badge/GitHub_Veteran-10+_Years-6E5494?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Veteran">&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=h-vance&color=7dcfff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 </div>
 
 <p align="center">
-  <em>Cloud & DevOps Engineer — Architecting secure, observable, and autonomous cloud ecosystems since 2016. Engineering precision at institutional scale.</em>
+  <b>Cloud & DevOps Engineer</b> | <em>Architecting secure, observable, and autonomous cloud ecosystems. Engineering precision at institutional scale.</em>
 </p>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-%20INSTITUTIONAL%20STATUS%20-1a1b26?style=for-the-badge&labelColor=00FF41" height="28">
-</div>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/CNCF-Cloud_Native_Ambassador-326CE5?style=for-the-badge&logo=cloud-native-computing-foundation&logoColor=white" height="40">
-  <br/>
-  <img src="https://img.shields.io/badge/Top_100_Global_SRE-Engineering_Excellence-4EAA25?style=for-the-badge&logo=google-cloud&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/HashiCorp-Core_Infrastructure_Contributor-623CE4?style=for-the-badge&logo=terraform&logoColor=white" height="40">
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-%20ENGINEERING%20PORTFOLIO%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
-</div>
-
-<div align="center">
-
-| Project | Outcome | Stack |
-| :--- | :--- | :--- |
-| **[algorithmic-trading-engine](https://github.com/h-vance/algorithmic-trading-engine)** | Sub-10ms execution engine / risk parity. | `Python` `C++` `Redis` `AWS` |
-| **[aws-bedrock-agent](https://github.com/h-vance/aws-bedrock-agent)** | Autonomous AI infra orchestration layer. | `Bedrock` `Lambda` `Boto3` |
-| **[self-healing-microservices-cluster](https://github.com/h-vance/self-healing-microservices-cluster)** | K8s fault-injection & recovery (99.99% SLA). | `Kubernetes` `Go` `Istio` `Prometheus` |
-| **[aws-landing-zone-terraform](https://github.com/h-vance/aws-landing-zone-terraform)** | Modular, secure enterprise AWS baseline via OIDC trust. | `Terraform` `AWS` `GHA` `OIDC` |
-| **[cloud-service-baseline](https://github.com/h-vance/cloud-service-baseline)** | Observable service baseline for production-ready apps. | `AWS` `Grafana` `OpenTelemetry` |
-| **[cloud-operations-runbook](https://github.com/h-vance/cloud-operations-runbook)** | Standardized response protocols for high-availability systems. | `SRE` `Shell` `Automation` |
-| **[incident-postmortems](https://github.com/h-vance/incident-postmortems)** | High-fidelity RCA and prevention strategies. | `SRE` `Markdown` `Docs` |
-
-</div>
 
 <br/>
 
@@ -61,7 +28,6 @@
   <a href="https://argoproj.github.io/cd/"><img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" height="28"></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28"></a>
   <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="28"></a>
-  <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="28"></a>
   <br/>
   <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="28"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"></a>
@@ -72,10 +38,46 @@
   <br/>
   <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="28"></a>
   <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="28"></a>
-  <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="28"></a>
+  <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="28"></a>
   <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" height="28"></a>
+  <br/>
+  <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="28"></a>
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28"></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="28"></a>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-%20ENGINEERING%20PORTFOLIO%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+</div>
+
+<div align="center">
+
+| Project | Outcome | Stack |
+| :--- | :--- | :--- |
+| **[Algorithmic-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)** | Sub-10ms execution engine / risk parity. | `Python` `Typescript` `AWS` `GCP` `Terraform` `React` `C++` `Redis` |
+| **[AWS-Bedrock-AI-Agent](https://github.com/h-vance/aws-bedrock-agent)** | Autonomous AI infra orchestration layer. | `AWS` `Bedrock` `Lambda` `Boto3` |
+| **[Self-Healing-Microservices-Cluster](https://github.com/h-vance/self-healing-microservices-cluster)** | K8s fault-injection & recovery (99.99% SLA). | `Kubernetes` `Go` `Istio` `Prometheus` `Grafana` |
+| **[AWS-Landing-Zone-Terraform](https://github.com/h-vance/aws-landing-zone-terraform)** | Modular and secure enterprise-grade AWS baseline with OIDC trust. | `Terraform` `AWS` `GHA` `OIDC` |
+| **[Cloud-Service-Baseline](https://github.com/h-vance/cloud-service-baseline)** | Observable service baseline for production-ready apps. | `AWS` `Prometheus` `Grafana` `OpenTelemetry` |
+| **[Cloud-Operations-Runbook](https://github.com/h-vance/cloud-operations-runbook)** | Standardized response protocols for high-availability systems. | `SRE` `Shell` `Automation` |
+| **[Incident-Postmortems](https://github.com/h-vance/incident-postmortems)** | High-fidelity RCA and prevention strategies. | `SRE` `Markdown` `Docs` |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-%20INSTITUTIONAL%20ACCOLADES%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/CNCF-Cloud_Native_Ambassador-326CE5?style=for-the-badge&logo=cloud-native-computing-foundation&logoColor=white" height="40">
+  <br/>
+  <img src="https://img.shields.io/badge/Global_SRE-Top_100_(2025)-4EAA25?style=for-the-badge&logo=google-cloud&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/HashiCorp-Core_Contributor-623CE4?style=for-the-badge&logo=terraform&logoColor=white" height="40">
 </p>
 
 <br/>
@@ -84,6 +86,13 @@
   <img src="https://img.shields.io/badge/-%20TECHNICAL%20METRICS%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
 </div>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-vance&theme=tokyonight" height="190">&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=h-vance&theme=tokyonight&hide_border=true" height="190">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-vance&theme=tokyonight" height="180">
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-metrics.svg" alt="Technical Metrics" width="100%">
 </p>
