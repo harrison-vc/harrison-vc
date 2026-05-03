@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=2ac3de&center=true&vCenter=true&width=800&lines=Harrison+Vance;Cloud+%26+DevOps+Engineering;Infrastructure+Security+%7C+SRE" alt="Harrison Vance">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=42&pause=1000&color=4AF626&center=true&vCenter=true&width=800&lines=Harrison+Vance;Cloud+%26+DevOps+Engineering;Infrastructure+Security+%7C+SRE" alt="Harrison Vance">
 </p>
 
 <div align="center">
