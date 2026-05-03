@@ -1,6 +1,6 @@
 <!-- ELITE_HEADER_START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/h-vance/h-vance/main/header.svg?t=1777841436" width="100%" />
+  <img src="./header.svg" width="100%" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/h-vance/h-vance/main/diagnostic.svg?t=1777841436" width="100%" />
+  <img src="./diagnostic.svg" width="100%" />
 </p>
 <!-- ABOUT_ME_END -->
 
@@ -69,7 +69,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS_CERTIFIED_SOLUTIONS_ARCHITECT_PROFESSIONAL-18181b?style=for-the-badge&logo=amazon&logoColor=10b981" height="28">
+  <img src="https://img.shields.io/badge/AWS_CERTIFIED_SOLUTIONS_ARCHITECT_PROFESSIONAL-18181b?style=for-the-badge&logo=amazonaws&logoColor=10b981" height="28">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CNCF_CLOUD_NATIVE_AMBASSADOR-18181b?style=for-the-badge&logo=cncf&logoColor=10b981" height="28">
   <br/><br/>
@@ -87,10 +87,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-vance&theme=github_dark&hide_border=true" width="400">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-vance&theme=transparent" width="400">
   <img src="https://streak-stats.demolab.com?user=h-vance&theme=github-dark&hide_border=true" width="400">
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-vance&theme=github_dark&hide_border=true" width="400">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h-vance&theme=github_dark&utcOffset=7&hide_border=true" width="400">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-vance&theme=transparent" width="400">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h-vance&theme=transparent" width="400">
 </div>
 <!-- METRICS_END -->
