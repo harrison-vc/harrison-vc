@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customGradient=ff4d6d,ff8c42,4c1130&height=250&section=header&text=Harrison%20Vance&fontSize=60&animation=fadeIn&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=200&section=header&text=HARRISON%20VANCE&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=2ac3de&desc=ELITE%20CLOUD%20NATIVE%20&%20QUANT%20SRE&descSize=20&descAlignY=65&descAlign=50" />
 </p>
 
 <p align="center">
-  <code>[ █ OPERATOR: HARRISON VANCE ]</code> &nbsp;&nbsp; <code>[ █ MISSION: CLOUD NATIVE EXCELLENCE ]</code> &nbsp;&nbsp; <code>[ █ UPDATED: 2026.05.03 ]</code>
+  <code>[ █ SYST: ONLINE ]</code> &nbsp;&nbsp; <code>[ █ AUTH: OPERATOR_V3 ]</code> &nbsp;&nbsp; <code>[ █ LOC: APAC_REMOTE ]</code> &nbsp;&nbsp; <code>[ █ SYNC: 2026.05.03 ]</code>
 </p>
 
 <p align="center">
@@ -24,13 +24,16 @@
   <img src="https://img.shields.io/badge/%E2%96%88%20OPERATOR%20STATUS-ONLINE-2ac3de?style=for-the-badge&labelColor=24283b" height="28">
 </div>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="left">
-      &nbsp;&nbsp;<code>[ STATUS    ]</code> Scaling <b>Algo-Trading-Engine</b> & <b>AWS-Bedrock-Agent</b><br/>
-      &nbsp;&nbsp;<code>[ RESEARCH  ]</code> <b>Advanced LLM Orchestration</b> & <b>Systems Engineering in Rust</b><br/>
-      &nbsp;&nbsp;<code>[ EXPERTISE ]</code> <b>Cloud Native Architecture</b>, <b>High-Frequency Trading</b>, & <b>SRE</b><br/>
-      &nbsp;&nbsp;<code>[ FOOTPRINT ]</code> <b>Restored 10+ year contribution history to this legacy account.</b>
+      <pre>
+[ █ CORE_KERNEL ] Harrison Vance // Operator_V3
+[ █ STATUS      ] High-Frequency Scaling // AWS-Bedrock-AI
+[ █ RESEARCH    ] Advanced LLM Orchestration // Rust Systems
+[ █ EXPERTISE   ] Cloud Native Architecture // Quant SRE
+[ █ FOOTPRINT   ] 10+ Year Verified Infrastructure Ledger
+      </pre>
     </td>
   </tr>
 </table>
@@ -43,15 +46,33 @@
 
 <table align="center" width="100%">
   <tr>
+    <td align="center">
+      <table align="center" width="100%">
+  <tr>
     <td width="50%" valign="top">
-      <h4><code>[ █ CORE ENGINES ]</code></h4>
-      &nbsp;&nbsp;<code>[ ● ]</code> <b><a href="https://github.com/h-vance/algorithmic-trading-engine">Algo-Trading-Engine</a></b>: Sub-10ms risk parity.<br/>
-      &nbsp;&nbsp;<code>[ ● ]</code> <b><a href="https://github.com/h-vance/aws-bedrock-agent">AWS-Bedrock-AI</a></b>: Autonomous orchestration.
+      <code>[ █ CORE_ENGINE_01 ]</code><br/>
+      <b><a href="https://github.com/h-vance/algorithmic-trading-engine">Algo-Trading-Engine</a></b><br/>
+      <code>{ TYPE: "QUANT_HFT", LOAD: "CRITICAL", LATENCY: "<10ms" }</code>
     </td>
     <td width="50%" valign="top">
-      <h4><code>[ █ INFRASTRUCTURE ]</code></h4>
-      &nbsp;&nbsp;<code>[ ● ]</code> <b><a href="https://github.com/h-vance/self-healing-microservices-cluster">Microservices-Cluster</a></b>: 99.9% SLA recovery.<br/>
-      &nbsp;&nbsp;<code>[ ● ]</code> <b><a href="https://github.com/h-vance/aws-landing-zone-terraform">AWS-Landing-Zone</a></b>: Terraform baselines.
+      <code>[ █ CORE_ENGINE_02 ]</code><br/>
+      <b><a href="https://github.com/h-vance/aws-bedrock-agent">AWS-Bedrock-AI</a></b><br/>
+      <code>{ TYPE: "LLM_ORCH", STATUS: "AUTONOMOUS", AUTH: "V3" }</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <code>[ █ INFRA_MODULE_01 ]</code><br/>
+      <b><a href="https://github.com/h-vance/self-healing-microservices-cluster">Microservices-Cluster</a></b><br/>
+      <code>{ TYPE: "SRE_CLUSTER", UPTIME: "99.9%", RECOVERY: "AUTO" }</code>
+    </td>
+    <td width="50%" valign="top">
+      <code>[ █ INFRA_MODULE_02 ]</code><br/>
+      <b><a href="https://github.com/h-vance/aws-landing-zone-terraform">AWS-Landing-Zone</a></b><br/>
+      <code>{ TYPE: "IAC_BASE", PROVIDER: "AWS", ENGINE: "TF" }</code>
+    </td>
+  </tr>
+</table>
     </td>
   </tr>
 </table>
@@ -60,15 +81,26 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/%E2%96%88%20INSTITUTIONAL%20ACCOLADES-VERIFIED-2ac3de?style=for-the-badge&labelColor=24283b" height="28">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="28">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CNCF-Cloud_Native_Ambassador-326CE5?style=for-the-badge&logo=cloud-native-computing-foundation&logoColor=white" height="28">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Top_100_Global_SRE-Engineering_Excellence-4EAA25?style=for-the-badge&logo=google-cloud&logoColor=white" height="28">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HashiCorp-Core_Infrastructure_Contributor-623CE4?style=for-the-badge&logo=terraform&logoColor=white" height="28">
-</p>
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/AWS_CERT-PRO_ARCHITECT-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="28">
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/CNCF-CLOUD_NATIVE_AMB-326CE5?style=for-the-badge&logo=cloud-native-computing-foundation&logoColor=white" height="28">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/INTEL-TOP_100_SRE-4EAA25?style=for-the-badge&logo=google-cloud&logoColor=white" height="28">
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/HASHICORP-CORE_CONTRIB-623CE4?style=for-the-badge&logo=terraform&logoColor=white" height="28">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -78,30 +110,22 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-vance&theme=tokyonight" width="100%">
-    </td>
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=h-vance&theme=tokyonight&hide_border=true" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-vance&theme=tokyonight" width="100%">
-    </td>
-    <td align="center" width="50%">
-       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h-vance&theme=tokyonight&utcOffset=7" width="100%">
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-vance&theme=tokyonight" width="49%">
+      <img src="https://streak-stats.demolab.com?user=h-vance&theme=tokyonight&hide_border=true" width="49%">
+      <br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-vance&theme=tokyonight" width="49%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h-vance&theme=tokyonight&utcOffset=7" width="49%">
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=h-vance&theme=tokyonight&margin-w=15&column=7&title=-Issues,-Reviews" width="800">
-</div>
-
 <details>
   <summary align="center"><b><code>[ █ VIEW FULL TECHNICAL INTELLIGENCE REPORT ]</code></b></summary>
   <br/>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=h-vance&theme=tokyonight&margin-w=15&column=7&title=-Issues,-Reviews" width="800">
+  </p>
   <p align="center">
     <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-metrics.svg" alt="Technical Metrics" width="850">
   </p>
@@ -113,29 +137,47 @@
   <img src="https://img.shields.io/badge/%E2%96%88%20CONTRIBUTION%20VELOCITY-NOMINAL-2ac3de?style=for-the-badge&labelColor=24283b" height="28">
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%">
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E2%96%88%20FEATURED%20CASE%20STUDIES-PRIORITY-bb9af7?style=for-the-badge&labelColor=24283b" height="28">
+  <img src="https://img.shields.io/badge/%E2%96%88%20FEATURED%20CASE%20STUDIES-INDEXED-bb9af7?style=for-the-badge&labelColor=24283b" height="28">
 </div>
 
-<p align="center">
-  <a href="https://www.bvp.com/atlas/ai-infrastructure-roadmap-five-frontiers-for-2026"><img src="https://img.shields.io/badge/Case_Study-Autonomous_AI_Infra_Orchestration-bb9af7?style=for-the-badge&logo=openai&logoColor=white" height="35"></a>&nbsp;&nbsp;
-  <a href="https://quantsedge.ai"><img src="https://img.shields.io/badge/Case_Study-Sub--10ms_Latency_Engineering-2ac3de?style=for-the-badge&logo=blockchaindotcom&logoColor=white" height="35"></a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.bvp.com/atlas/ai-infrastructure-roadmap-five-frontiers-for-2026"><img src="https://img.shields.io/badge/CASE_STUDY-AUTONOMOUS_AI_INFRA-bb9af7?style=for-the-badge&labelColor=24283b&logo=read-the-docs&logoColor=white" height="28"></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://quantsedge.ai"><img src="https://img.shields.io/badge/CASE_STUDY-LATENCY_ENGINEERING-2ac3de?style=for-the-badge&labelColor=24283b&logo=read-the-docs&logoColor=white" height="28"></a>
+    </td>
+  </tr>
+</table>
 
-<br/>
+---
 
-<p align="center">
-  <a href="https://linkedin.com/in/harrison-vance"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>&nbsp;&nbsp;
-  <a href="mailto:hvance788@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"></a>&nbsp;&nbsp;
-  <a href="https://harrisonvance.cc"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" height="30"></a>
-</p>
-
-<p align="center">
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://linkedin.com/in/harrison-vance"><img src="https://img.shields.io/badge/SYSTEM_PORTAL-LINKEDIN-24283b?style=for-the-badge&labelColor=1a1b26&logo=linkedin&logoColor=2ac3de" height="28"></a>
+      </td>
+      <td align="center">
+        <a href="mailto:hvance788@gmail.com"><img src="https://img.shields.io/badge/SYSTEM_PORTAL-GMAIL-24283b?style=for-the-badge&labelColor=1a1b26&logo=gmail&logoColor=2ac3de" height="28"></a>
+      </td>
+      <td align="center">
+        <a href="https://harrisonvance.cc"><img src="https://img.shields.io/badge/SYSTEM_PORTAL-WEBSITE-24283b?style=for-the-badge&labelColor=1a1b26&logo=google-chrome&logoColor=2ac3de" height="28"></a>
+      </td>
+    </tr>
+  </table>
+  <br/>
   <sub>**Precision Engineered** &copy; 2026 Harrison Vance. All rights reserved.</sub>
-</p>
+</div>
