@@ -82,7 +82,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harrison-vc&theme=tokyonight" height="180">
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harrison-vc&theme=tokyonight&margin-w=15&column=7" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=harrison-vc&theme=tokyonight&margin-w=15&column=7&title=-Issues,-Reviews" width="100%">
 </p>
 
 <br/>
