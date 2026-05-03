@@ -31,11 +31,14 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Grafana-18181b?logo=grafana&logoColor=10b981&style=for-the-badge&t=1714772420" height="28">
   <img src="https://custom-icon-badges.demolab.com/badge/Optuna-18181b?logo=optuna&logoColor=10b981&style=for-the-badge&t=1714772420" height="28">
   <br/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Claude-18181b?logo=claude&logoColor=10b981&style=for-the-badge&t=1714772420" height="28">
-  <img src="https://custom-icon-badges.demolab.com/badge/Cursor-18181b?logo=cursor&logoColor=10b981&style=for-the-badge&t=1714772420" height="28">
-  <img src="https://custom-icon-badges.demolab.com/badge/Obsidian-18181b?logo=obsidian&logoColor=10b981&style=for-the-badge&t=1714772420" height="28">
-  <img src="https://custom-icon-badges.demolab.com/badge/Markdown-18181b?logo=markdown&logoColor=10b981&style=for-the-badge&t=1714772420" height="28">
-  <img src="https://custom-icon-badges.demolab.com/badge/Linux-18181b?logo=linux&logoColor=10b981&style=for-the-badge&t=1714772420" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/Claude-18181b?logo=claude&logoColor=10b981&style=for-the-badge&t=1714772430" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/Cursor-18181b?logo=cursor&logoColor=10b981&style=for-the-badge&t=1714772430" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/Obsidian-18181b?logo=obsidian&logoColor=10b981&style=for-the-badge&t=1714772430" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/Markdown-18181b?logo=markdown&logoColor=10b981&style=for-the-badge&t=1714772430" height="28">
+  <br/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Linux-18181b?logo=linux&logoColor=10b981&style=for-the-badge&t=1714772430" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/Ghostty-18181b?logo=ghost&logoColor=10b981&style=for-the-badge&t=1714772430" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/tmux-18181b?logo=terminal&logoColor=10b981&style=for-the-badge&t=1714772430" height="28">
 </div>
 <!-- ARSENAL_END -->
 
