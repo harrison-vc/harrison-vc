@@ -27,7 +27,7 @@ jobs:
               viewport: { width: 1920, height: 1080 }
             });
             console.log('Navigating to profile...');
-            await page.goto('https://github.com/harrison-vc', { waitUntil: 'networkidle' });
+            await page.goto('https://github.com/h-vance', { waitUntil: 'networkidle' });
             console.log('Hard refreshing...');
             await page.reload({ waitUntil: 'networkidle' });
             console.log('Pulse complete.');
