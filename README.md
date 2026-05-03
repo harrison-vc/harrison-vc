@@ -66,7 +66,7 @@
 
 | Project | Outcome | Stack |
 | :--- | :--- | :--- |
-| **[Algorithmic-Trading-App](https://github.com/harrison-vc/algorithmic-trading-app)** | Sub-10ms execution engine / risk parity. | `AWS` `GCP` `Terraform` `Python` `Typescript` `C++` `Redis` |
+| **[Algorithmic-Trading-App](https://github.com/harrison-vc/algorithmic-trading-app)** | Sub-10ms execution engine / risk parity. | `AWS` `GCP` `Terraform` `Python` `Typescript` `C++` `Redis` `Solidity` `Rust` |
 | **[AWS-Bedrock-Agent](https://github.com/harrison-vc/aws-bedrock-agent)** | Autonomous AI infra orchestration layer. | `AWS` `Bedrock` `Lambda` `Boto3` |
 | **[Self-Healing-Microservices](https://github.com/harrison-vc/self-healing-microservices)** | K8s fault-injection & recovery (99.99% SLA). | `K8s` `Go` `Istio` `Prometheus` |
 | **[Terraform-Landing-Zone](https://github.com/harrison-vc/terraform-landing-zone)** | Modular, secure enterprise AWS baseline with OIDC trust. | `Terraform` `AWS` `GHA` |
