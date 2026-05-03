@@ -27,7 +27,7 @@
 <table align="center">
   <tr>
     <td align="left">
-      &nbsp;&nbsp;<code>[ STATUS    ]</code> Scaling <b><a href="https://github.com/h-vance/algorithmic-trading-engine">Algo-Trading-Engine</a></b> & <b><a href="https://github.com/h-vance/aws-bedrock-agent">AWS-Bedrock-Agent</a></b><br/>
+      &nbsp;&nbsp;<code>[ STATUS    ]</code> Scaling <b>Algo-Trading-Engine</b> & <b>AWS-Bedrock-Agent</b><br/>
       &nbsp;&nbsp;<code>[ RESEARCH  ]</code> <b>Advanced LLM Orchestration</b> & <b>Systems Engineering in Rust</b><br/>
       &nbsp;&nbsp;<code>[ EXPERTISE ]</code> <b>Cloud Native Architecture</b>, <b>High-Frequency Trading</b>, & <b>SRE</b><br/>
       &nbsp;&nbsp;<code>[ FOOTPRINT ]</code> <b>Restored 10+ year contribution history to this legacy account.</b>
@@ -41,24 +41,26 @@
   <img src="https://img.shields.io/badge/%E2%96%88%20ENGINEERING%20ARSENAL-ACTIVE-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
 </div>
 
-<div align="center">
-
-| Project | Outcome | Stack |
-| :--- | :--- | :--- |
-| **[Algo-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)** | Sub-10ms execution / risk parity | `Python` `C++` `Redis` `AWS` |
-| **[AWS-Bedrock-AI](https://github.com/h-vance/aws-bedrock-agent)** | Autonomous infra orchestration | `Bedrock` `Lambda` `Boto3` |
-| **[Microservices-Cluster](https://github.com/h-vance/self-healing-microservices-cluster)** | Fault-injection & recovery (99.9% SLA) | `K8s` `Go` `Istio` `Prom` |
-| **[AWS-Landing-Zone](https://github.com/h-vance/aws-landing-zone-terraform)** | Enterprise-grade secure baseline | `Terraform` `AWS` `GHA` |
-| **[Incident-Postmortems](https://github.com/h-vance/incident-postmortems)** | High-fidelity RCA & strategies | `SRE` `Markdown` `Docs` |
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><code>[ █ CORE ENGINES ]</code></h4>
+      &nbsp;&nbsp;<code>[ ● ]</code> <b><a href="https://github.com/h-vance/algorithmic-trading-engine">Algo-Trading-Engine</a></b>: Sub-10ms risk parity.<br/>
+      &nbsp;&nbsp;<code>[ ● ]</code> <b><a href="https://github.com/h-vance/aws-bedrock-agent">AWS-Bedrock-AI</a></b>: Autonomous orchestration.
+    </td>
+    <td width="50%" valign="top">
+      <h4><code>[ █ INFRASTRUCTURE ]</code></h4>
+      &nbsp;&nbsp;<code>[ ● ]</code> <b><a href="https://github.com/h-vance/self-healing-microservices-cluster">Microservices-Cluster</a></b>: 99.9% SLA recovery.<br/>
+      &nbsp;&nbsp;<code>[ ● ]</code> <b><a href="https://github.com/h-vance/aws-landing-zone-terraform">AWS-Landing-Zone</a></b>: Terraform baselines.
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
   <img src="https://img.shields.io/badge/%E2%96%88%20INSTITUTIONAL%20ACCOLADES-VERIFIED-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
-</div>
-
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="28">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CNCF-Cloud_Native_Ambassador-326CE5?style=for-the-badge&logo=cloud-native-computing-foundation&logoColor=white" height="28">
