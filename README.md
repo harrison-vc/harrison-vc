@@ -19,13 +19,12 @@
 | **[algorithmic-trading-app](https://github.com/harrison-vc/algorithmic-trading-app)** | Sub-10ms execution engine / risk parity. | `Python` `C++` `Redis` `AWS` |
 | **[aws-bedrock-agent](https://github.com/harrison-vc/aws-bedrock-agent)** | Autonomous AI infra orchestration layer. | `Bedrock` `Lambda` `Boto3` |
 | **[self-healing-microservices](https://github.com/harrison-vc/self-healing-microservices)** | K8s fault-injection & recovery (99.99% SLA). | `Kubernetes` `Go` `Istio` `Prometheus` `Grafana` |
-| **[terraform-landing-zone](https://github.com/harrison-vc/terraform-landing-zone)** | Modular, secure enterprise AWS baseline with OIDC trust. | `Terraform` `AWS` `GHA` `OIDC`|
-| **[incident-postmortems](https://github.com/harrison-vc/incident-postmortems)** | High-fidelity RCA and prevention strategies. | `SRE` `Documentation` |
+| **[terraform-landing-zone](https://github.com/harrison-vc/terraform-landing-zone)** | Modular, secure enterprise AWS baseline via OIDC. | `Terraform` `AWS` `GHA` `OIDC` |
+| **[cloud-service-baseline](https://github.com/harrison-vc/cloud-service-baseline)** | Observable service baseline for production-ready apps. | `AWS` `Grafana` `OpenTelemetry` |
+| **[cloud-operations-runbook](https://github.com/harrison-vc/cloud-operations-runbook)** | Standardized response protocols for high-availability systems. | `SRE` `Shell` `Automation` |
+| **[incident-postmortems](https://github.com/harrison-vc/incident-postmortems)** | High-fidelity RCA and prevention strategies. | `SRE` `Markdown` `Docs` |
 
 </div>
-
-<br/>
-
 <h2 align="center">Technical Ecosystem</h2>
 <p align="center">
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="28"></a>
