@@ -57,13 +57,13 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS_CERT-PRO_ARCHITECT-18181b?style=for-the-badge&labelColor=09090b&logo=amazon&logoColor=10b981" height="28">
+  <img src="https://img.shields.io/badge/AWS_CERTIFIED_SOLUTIONS_ARCHITECT_PROFESSIONAL-18181b?style=for-the-badge&logo=amazon&logoColor=10b981" height="28">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CNCF-CLOUD_NATIVE_AMB-18181b?style=for-the-badge&labelColor=09090b&logo=cncf&logoColor=10b981" height="28">
+  <img src="https://img.shields.io/badge/CNCF_CLOUD_NATIVE_AMBASSADOR-18181b?style=for-the-badge&logo=cncf&logoColor=10b981" height="28">
   <br/><br/>
-  <img src="https://img.shields.io/badge/INTEL-TOP_100_SRE-18181b?style=for-the-badge&labelColor=09090b&logo=intel&logoColor=10b981" height="28">
+  <img src="https://img.shields.io/badge/INTEL_TOP_100_SRE_ENGINEER-18181b?style=for-the-badge&logo=intel&logoColor=10b981" height="28">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HASHICORP-CORE_CONTRIB-18181b?style=for-the-badge&labelColor=09090b&logo=terraform&logoColor=10b981" height="28">
+  <img src="https://img.shields.io/badge/HASHICORP_CORE_CONTRIBUTOR-18181b?style=for-the-badge&logo=terraform&logoColor=10b981" height="28">
 </div>
 
 ---
