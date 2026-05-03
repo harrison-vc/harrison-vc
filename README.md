@@ -23,10 +23,10 @@
 
 <div align="center">
 
-- **Current focus:** **[Algorithmic-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)** and **[AWS-Bedrock-AI-Agent](https://github.com/h-vance/aws-bedrock-agent)**
-- **Learning:** **Advanced LLM Orchestration** and **Rust for Systems Engineering**
-- **Expertise:** **Cloud Native Architecture, DevOps, and High-Frequency Trading Systems**
-- **Contact:** **hvance788@gmail.com**
+**Current focus:** **[Algorithmic-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)** and **[AWS-Bedrock-AI-Agent](https://github.com/h-vance/aws-bedrock-agent)** <br/>
+**Learning:** **Advanced LLM Orchestration** and **Rust for Systems Engineering** <br/>
+**Expertise:** **Cloud Native Architecture, DevOps, and High-Frequency Trading Systems** <br/>
+**Contact:** **hvance788@gmail.com**
 
 </div>
 
