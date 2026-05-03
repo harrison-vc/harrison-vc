@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <em>Cloud & DevOps Engineer — Architecting secure, observable, and autonomous cloud ecosystems since 2016. Engineering precision at institutional scale.</em>
+  <b>Cloud & DevOps Engineer</b> — Architecting secure, observable, and autonomous cloud ecosystems since 2020. Engineering precision at institutional scale.</em>
 </p>
 
 ---
