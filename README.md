@@ -63,7 +63,7 @@
 <h2 align="center">GitHub Trophies</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=harrison-vc&theme=tokyonight&margin-w=15&column=7&rank=SSS,SS,S,AAA,AA,A,B" alt="Harrison's Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=harrison-vc&theme=tokyonight&margin-w=15&column=7" alt="Harrison's Trophies">
   </a>
 </p>
 
