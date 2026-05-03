@@ -21,7 +21,7 @@
 
 ---
 <div align="center">
-  <img src="https://img.shields.io/badge/%E2%96%88%20OPERATOR%20STATUS-ONLINE-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+  <img src="https://img.shields.io/badge/%E2%96%88%20OPERATOR%20STATUS-ONLINE-2ac3de?style=for-the-badge&labelColor=24283b" height="28">
 </div>
 
 <table align="center">
@@ -38,7 +38,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E2%96%88%20ENGINEERING%20ARSENAL-ACTIVE-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+  <img src="https://img.shields.io/badge/%E2%96%88%20ENGINEERING%20ARSENAL-ACTIVE-2ac3de?style=for-the-badge&labelColor=24283b" height="28">
 </div>
 
 <table align="center" width="100%">
@@ -59,7 +59,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E2%96%88%20INSTITUTIONAL%20ACCOLADES-VERIFIED-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+  <img src="https://img.shields.io/badge/%E2%96%88%20INSTITUTIONAL%20ACCOLADES-VERIFIED-2ac3de?style=for-the-badge&labelColor=24283b" height="28">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="28">&nbsp;&nbsp;
@@ -73,7 +73,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E2%96%88%20TECHNICAL%20INTELLIGENCE-SYNCED-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+  <img src="https://img.shields.io/badge/%E2%96%88%20TECHNICAL%20INTELLIGENCE-SYNCED-2ac3de?style=for-the-badge&labelColor=24283b" height="28">
 </div>
 
 <table align="center" width="100%">
@@ -110,7 +110,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E2%96%88%20CONTRIBUTION%20VELOCITY-NOMINAL-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+  <img src="https://img.shields.io/badge/%E2%96%88%20CONTRIBUTION%20VELOCITY-NOMINAL-2ac3de?style=for-the-badge&labelColor=24283b" height="28">
 </div>
 
 <p align="center">
@@ -120,7 +120,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E2%96%88%20FEATURED%20CASE%20STUDIES-PRIORITY-1a1b26?style=for-the-badge&labelColor=bb9af7" height="28">
+  <img src="https://img.shields.io/badge/%E2%96%88%20FEATURED%20CASE%20STUDIES-PRIORITY-bb9af7?style=for-the-badge&labelColor=24283b" height="28">
 </div>
 
 <p align="center">
