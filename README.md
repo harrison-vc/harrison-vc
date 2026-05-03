@@ -3,7 +3,7 @@
 </p>
 
 ## Cloud & DevOps Engineer
-Building secure, automated infrastructure for distributed systems
+Building secure, automated infrastructure for distributed systems.
 
 ---
 
@@ -13,7 +13,7 @@ Cloud & DevOps Engineer focused on designing and operating reliable, scalable in
 
 I work primarily with Kubernetes, Terraform, and CI/CD systems to automate deployment workflows, enforce infrastructure consistency, and improve system resilience.  
 
-Experience spans regulated environments (HIPAA-compliant systems) and performance-sensitive workloads, including low-latency trading infrastructure.
+Experience spans regulated environments (HIPAA-compliant systems) and performance-sensitive workloads, including low-latency algorithmic trading infrastructure.
 
 ---
 
@@ -22,16 +22,16 @@ Experience spans regulated environments (HIPAA-compliant systems) and performanc
 #### [Algorithmic Trading Engine](https://github.com/h-vance/algorithmic-trading-engine)
 Low-latency trading infrastructure designed for high-frequency execution environments
 
-- **Stack:** Go, WebSockets, Redis, Docker  
-- **Focus:** Real-time market data ingestion and execution pipeline  
-- **Notable:** Designed around sub-10ms execution constraints with lightweight, event-driven architecture  
+- **Stack:** Google Cloud, Docker, Kubernetes, Terraform, Go, Solidity, WebSockets, Redis  
+- **Focus:** Real-time market data ingestion and execution pipeline.  
+- **Notable:** Designed around sub-10ms execution constraints with lightweight, event-driven architecture.  
 
 ---
 
-#### [AWS Bedrock Agent](https://github.com/h-vance/aws-bedrock-agent)
-Automation layer for managing cloud infrastructure workflows using AI-driven decision logic
+#### [AWS Bedrock AI Agent](https://github.com/h-vance/aws-bedrock-agent)
+Automation layer for managing cloud infrastructure workflows using AI-driven decision logic.
 
-- **Stack:** AWS (Lambda, Bedrock), Python  
+- **Stack:** AWS (Lambda, Bedrock), Python, HCL  
 - **Focus:** Infrastructure task orchestration and automation  
 - **Notable:** Integrates LLM-based decision flow into cloud operations workflows  
 
@@ -40,14 +40,14 @@ Automation layer for managing cloud infrastructure workflows using AI-driven dec
 #### [Self-Healing Microservices Cluster](https://github.com/h-vance/self-healing-microservices-cluster)
 Kubernetes-based microservices environment with resilience and fault-recovery mechanisms
 
-- **Stack:** Kubernetes, Docker, Prometheus, Grafana  
+- **Stack:** Kubernetes, Terraform, Docker, Prometheus, Grafana  
 - **Focus:** Service reliability and failure recovery  
 - **Notable:** Implements health checks, restart policies, and fault-injection scenarios to simulate production failures  
 
 ---
 
 #### [AWS Landing Zone (Terraform)](https://github.com/h-vance/aws-landing-zone-terraform)
-Modular AWS infrastructure baseline for multi-environment deployments
+Modular Enterprise AWS infrastructure baseline for multi-environment deployments.
 
 - **Stack:** Terraform (HCL), AWS  
 - **Focus:** Standardized infrastructure provisioning and governance  
@@ -61,16 +61,16 @@ Modular AWS infrastructure baseline for multi-environment deployments
 AWS, Google Cloud  
 
 **Infrastructure as Code**  
-Terraform  
+Terraform, Ansible, Helm  
 
 **Containers & Orchestration**  
-Docker, Kubernetes  
+Docker, Kubernetes, Amazon EKS  
 
 **CI/CD**  
 Jenkins, GitHub Actions  
 
 **Observability**  
-Prometheus, Grafana  
+Prometheus, Grafana. DataDog  
 
 **Security & Reliability**  
 IAM, secrets management, network policies, incident response  
