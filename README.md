@@ -155,7 +155,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/harrison-vance"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>&nbsp;
-  <a href="mailto:harrison@harrisonvance.cc"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"></a>&nbsp;
+  <a href="mailto:hvance788@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"></a>&nbsp;
   <a href="https://harrisonvance.cc"><img src="https://img.shields.io/badge/PORTFOLIO-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" height="30"></a>
 </p>
 
