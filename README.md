@@ -2,72 +2,93 @@
   <img src="./header.svg?t=1714772900" width="100%" />
 </p>
 
-### ✦ DEPLOYED SYSTEMS
-
-**[Algo-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)**  
-> Quantitative infrastructure optimized for sub-10ms execution on Hyperliquid.  
-
-**[AWS-Bedrock-Agent](https://github.com/h-vance/aws-bedrock-agent)**  
-> Autonomous AI orchestration for automated cloud infrastructure management.  
-
-**[Microservices-Cluster](https://github.com/h-vance/self-healing-microservices-cluster)**  
-> Self-healing Kubernetes featuring automated fault-injection and zero-downtime.  
-
-**[AWS-Landing-Zone](https://github.com/h-vance/aws-landing-zone-terraform)**  
-> Enterprise governance at scale implemented via modular HCL and security auditing.  
-
-<br/>
-
-<p align="left">
-  <img src="./diagnostic.svg?t=1714772900" width="100%" />
-</p>
+## Cloud & DevOps Engineer
+Building secure, automated infrastructure for distributed systems
 
 ---
 
-### ✦ TECHNICAL ARSENAL
+### About
 
-<p align="left">
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS-18181b?logo=aws&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/Google_Cloud-18181b?logo=google-cloud&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/Kubernetes-18181b?logo=kubernetes&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/Terraform-18181b?logo=terraform&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS_Lambda-18181b?logo=lambda&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/Docker-18181b?logo=docker&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/Jenkins-18181b?logo=jenkins&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/GitHub_Actions-18181b?logo=github&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/NGINX-18181b?logo=nginx&logoColor=white&style=for-the-badge&t=10" height="22">
-  <br/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Linux-18181b?logo=linux&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/Go-18181b?logo=go&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/Rust-18181b?logo=rust&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/Python-18181b?logo=python&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-18181b?logo=typescript&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/React-18181b?logo=react&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/FastAPI-18181b?logo=fastapi&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/Postgres-18181b?logo=postgresql&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-18181b?logo=mongodb&logoColor=white&style=for-the-badge&t=10" height="22">
-  <br/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Supabase-18181b?logo=supabase&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/Redis-18181b?logo=redis&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/Prometheus-18181b?logo=prometheus&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/Grafana-18181b?logo=grafana&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/Optuna-18181b?logo=optuna&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/Obsidian-18181b?logo=obsidian&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/Markdown-18181b?logo=markdown&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/tmux-18181b?logo=terminal&logoColor=white&style=for-the-badge&t=10" height="22">
-</p>
+Cloud & DevOps Engineer focused on designing and operating reliable, scalable infrastructure across cloud-native environments.  
+
+I work primarily with Kubernetes, Terraform, and CI/CD systems to automate deployment workflows, enforce infrastructure consistency, and improve system resilience.  
+
+Experience spans regulated environments (HIPAA-compliant systems) and performance-sensitive workloads, including low-latency trading infrastructure.
 
 ---
 
-### ✦ ACCOLADES
+### Featured Systems
 
-<p align="left">
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS_Solutions_Architect_Pro-18181b?logo=aws&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/CNCF_Ambassador-18181b?logo=cncf&logoColor=white&style=for-the-badge&t=10" height="22">
-  <img src="https://custom-icon-badges.demolab.com/badge/HashiCorp_Contributor-18181b?logo=terraform&logoColor=white&style=for-the-badge&t=10" height="22">
-</p>
+#### [Algorithmic Trading Engine](https://github.com/h-vance/algorithmic-trading-engine)
+Low-latency trading infrastructure designed for high-frequency execution environments
 
-### ✦ METRICS
+- **Stack:** Go, WebSockets, Redis, Docker  
+- **Focus:** Real-time market data ingestion and execution pipeline  
+- **Notable:** Designed around sub-10ms execution constraints with lightweight, event-driven architecture  
+
+---
+
+#### [AWS Bedrock Agent](https://github.com/h-vance/aws-bedrock-agent)
+Automation layer for managing cloud infrastructure workflows using AI-driven decision logic
+
+- **Stack:** AWS (Lambda, Bedrock), Python  
+- **Focus:** Infrastructure task orchestration and automation  
+- **Notable:** Integrates LLM-based decision flow into cloud operations workflows  
+
+---
+
+#### [Self-Healing Microservices Cluster](https://github.com/h-vance/self-healing-microservices-cluster)
+Kubernetes-based microservices environment with resilience and fault-recovery mechanisms
+
+- **Stack:** Kubernetes, Docker, Prometheus, Grafana  
+- **Focus:** Service reliability and failure recovery  
+- **Notable:** Implements health checks, restart policies, and fault-injection scenarios to simulate production failures  
+
+---
+
+#### [AWS Landing Zone (Terraform)](https://github.com/h-vance/aws-landing-zone-terraform)
+Modular AWS infrastructure baseline for multi-environment deployments
+
+- **Stack:** Terraform (HCL), AWS  
+- **Focus:** Standardized infrastructure provisioning and governance  
+- **Notable:** Structured for scalable environments with IAM controls and reusable modules  
+
+---
+
+### Core Skills
+
+**Cloud Platforms**  
+AWS, Google Cloud  
+
+**Infrastructure as Code**  
+Terraform  
+
+**Containers & Orchestration**  
+Docker, Kubernetes  
+
+**CI/CD**  
+Jenkins, GitHub Actions  
+
+**Observability**  
+Prometheus, Grafana  
+
+**Security & Reliability**  
+IAM, secrets management, network policies, incident response  
+
+**Languages**  
+Go, Python, TypeScript  
+
+---
+
+### Current Focus
+
+- Building production-grade Kubernetes environments  
+- Improving CI/CD reliability and deployment safety  
+- Expanding into cloud security (IAM, least-privilege architecture)  
+
+---
+
+### Metrics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=h-vance&show_icons=true&hide=commits,issues&theme=transparent&title_color=a1a1aa&icon_color=a1a1aa&text_color=f4f4f5&border_radius=0&hide_border=true&t=10" width="400">
