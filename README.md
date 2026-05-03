@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=200&section=header&text=h-vance&fontSize=70&animation=fadeIn&fontColor=2ac3de" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=h-vance&fontSize=70&animation=fadeIn&fontColor=fff" />
 </p>
 
 <p align="center">
@@ -16,6 +16,7 @@
 </p>
 
 ---
+
 
 
 
