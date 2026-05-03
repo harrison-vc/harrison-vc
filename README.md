@@ -40,38 +40,38 @@
 
 <p align="center">
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-1a1b26?style=for-the-badge&logo=amazon-aws&logoColor=2ac3de" height="28"></a>
-  <br/>
   <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GCP-1a1b26?style=for-the-badge&logo=google-cloud&logoColor=2ac3de" height="28"></a>
   <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-1a1b26?style=for-the-badge&logo=terraform&logoColor=2ac3de" height="28"></a>
-  <br/>
   <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-1a1b26?style=for-the-badge&logo=kubernetes&logoColor=2ac3de" height="28"></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=2ac3de" height="28"></a>
   <a href="https://argoproj.github.io/cd/"><img src="https://img.shields.io/badge/ArgoCD-1a1b26?style=for-the-badge&logo=argo&logoColor=2ac3de" height="28"></a>
-  <br/>
   <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-1a1b26?style=for-the-badge&logo=github-actions&logoColor=2ac3de" height="28"></a>
+  <br/>
   <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-1a1b26?style=for-the-badge&logo=jenkins&logoColor=2ac3de" height="28"></a>
   <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-1a1b26?style=for-the-badge&logo=ansible&logoColor=2ac3de" height="28"></a>
   <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-1a1b26?style=for-the-badge&logo=n8n&logoColor=2ac3de" height="28"></a>
-  <br/>
   <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-1a1b26?style=for-the-badge&logo=go&logoColor=2ac3de" height="28"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=2ac3de" height="28"></a>
   <img src="https://img.shields.io/badge/TypeScript-1a1b26?style=for-the-badge&logo=typescript&logoColor=2ac3de" height="28">
+  <br/>
   <a href="https://soliditylang.org/"><img src="https://img.shields.io/badge/Solidity-1a1b26?style=for-the-badge&logo=solidity&logoColor=2ac3de" height="28"></a>
   <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-1a1b26?style=for-the-badge&logo=cplusplus&logoColor=2ac3de" height="28"></a>
-  <br/>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=2ac3de" height="28"></a>
   <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-1a1b26?style=for-the-badge&logo=redis&logoColor=2ac3de" height="28"></a>
   <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-1a1b26?style=for-the-badge&logo=prometheus&logoColor=2ac3de" height="28"></a>
+  <br/>
   <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-1a1b26?style=for-the-badge&logo=grafana&logoColor=2ac3de" height="28"></a>
   <a href="https://opentelemetry.io/"><img src="https://img.shields.io/badge/OpenTelemetry-1a1b26?style=for-the-badge&logo=opentelemetry&logoColor=2ac3de" height="28"></a>
   <a href="https://istio.io/"><img src="https://img.shields.io/badge/Istio-1a1b26?style=for-the-badge&logo=istio&logoColor=2ac3de" height="28"></a>
-  <br/>
   <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-1a1b26?style=for-the-badge&logo=fastapi&logoColor=2ac3de" height="28"></a>
+  <br/>
   <img src="https://img.shields.io/badge/SQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=2ac3de" height="28">
   <img src="https://img.shields.io/badge/NoSQL-1a1b26?style=for-the-badge&logo=mongodb&logoColor=2ac3de" height="28">
   <img src="https://img.shields.io/badge/Linux-1a1b26?style=for-the-badge&logo=linux&logoColor=2ac3de" height="28">
+  <br/>
   <img src="https://img.shields.io/badge/Bash-1a1b26?style=for-the-badge&logo=gnu-bash&logoColor=2ac3de" height="28">
   <img src="https://img.shields.io/badge/SRE-1a1b26?style=for-the-badge&logo=google-cloud&logoColor=2ac3de" height="28">
+  <br/>
   <a href="https://aws.amazon.com/bedrock/"><img src="https://img.shields.io/badge/Bedrock-1a1b26?style=for-the-badge&logo=amazon-aws&logoColor=2ac3de" height="28"></a>
 </p>
 
