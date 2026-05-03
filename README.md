@@ -59,7 +59,7 @@
 | **[algorithmic-trading-app](https://github.com/harrison-vc/algorithmic-trading-app)** | Sub-10ms execution engine / risk parity. | `Python` `C++` `Redis` `AWS` |
 | **[aws-bedrock-agent](https://github.com/harrison-vc/aws-bedrock-agent)** | Autonomous AI infra orchestration layer. | `Bedrock` `Lambda` `Boto3` |
 | **[self-healing-microservices](https://github.com/harrison-vc/self-healing-microservices)** | K8s fault-injection & recovery (99.99% SLA). | `Kubernetes` `Go` `Istio` `Prometheus` |
-| **[terraform-landing-zone](https://github.com/harrison-vc/terraform-landing-zone)** | Modular, secure enterprise AWS baseline via OIDC. | `Terraform` `AWS` `GHA` `OIDC` |
+| **[terraform-landing-zone](https://github.com/harrison-vc/terraform-landing-zone)** | Modular, secure enterprise AWS baseline via OIDC trust. | `Terraform` `AWS` `GHA` `OIDC` |
 | **[cloud-service-baseline](https://github.com/harrison-vc/cloud-service-baseline)** | Observable service baseline for production-ready apps. | `AWS` `Grafana` `OpenTelemetry` |
 | **[cloud-operations-runbook](https://github.com/harrison-vc/cloud-operations-runbook)** | Standardized response protocols for high-availability systems. | `SRE` `Shell` `Automation` |
 | **[incident-postmortems](https://github.com/harrison-vc/incident-postmortems)** | High-fidelity RCA and prevention strategies. | `SRE` `Markdown` `Docs` |
@@ -86,6 +86,13 @@
   <img src="https://img.shields.io/badge/TECHNICAL-METRICS-white?style=for-the-badge&labelColor=2ac3de&color=1a1b26" height="25">
 </div>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harrison-vc&theme=tokyonight" height="190">&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=harrison-vc&theme=tokyonight&hide_border=true" height="190">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harrison-vc&theme=tokyonight" height="180">
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/harrison-vc/harrison-vc/output/github-metrics.svg" alt="Technical Metrics" width="100%">
 </p>
