@@ -16,33 +16,32 @@
     <animate attributeName="y" from="0" to="300" dur="8s" repeatCount="indefinite" />
   </rect>
 
-  <!-- Labels & Values -->
+  <!-- Labels & Values (Centered Layout) -->
   <g font-family="JetBrains Mono, monospace" font-size="14">
-    <!-- Header Labels -->
-    <g transform="translate(60, 60)">
+    <g transform="translate(180, 60)">
       <text fill="#10b981" font-weight="bold">[ █ ENGINEER   ]</text>
       <text x="200" fill="#f4f4f5">Harrison Vance</text>
-      <text x="1140" text-anchor="end" fill="#10b981" font-size="12" font-weight="bold">[ OK ]</text>
+      <text x="840" text-anchor="end" fill="#10b981" font-size="12" font-weight="bold">[ OK ]</text>
     </g>
-    <g transform="translate(60, 100)">
+    <g transform="translate(180, 100)">
       <text fill="#10b981" font-weight="bold">[ █ FOCUS      ]</text>
       <text x="200" fill="#f4f4f5">Distributed Systems // High-Performance APIs</text>
-      <text x="1140" text-anchor="end" fill="#10b981" font-size="12" font-weight="bold">[ ACTIVE ]</text>
+      <text x="840" text-anchor="end" fill="#10b981" font-size="12" font-weight="bold">[ ACTIVE ]</text>
     </g>
-    <g transform="translate(60, 140)">
+    <g transform="translate(180, 140)">
       <text fill="#10b981" font-weight="bold">[ █ INFRA      ]</text>
       <text x="200" fill="#f4f4f5">AWS // Kubernetes // Terraform</text>
-      <text x="1140" text-anchor="end" fill="#10b981" font-size="12" font-weight="bold">[ SECURE ]</text>
+      <text x="840" text-anchor="end" fill="#10b981" font-size="12" font-weight="bold">[ SECURE ]</text>
     </g>
-    <g transform="translate(60, 180)">
+    <g transform="translate(180, 180)">
       <text fill="#10b981" font-weight="bold">[ █ DOMAIN     ]</text>
       <text x="200" fill="#f4f4f5">Cloud Native Architecture // SRE</text>
-      <text x="1140" text-anchor="end" fill="#10b981" font-size="12" font-weight="bold">[ OPTIMAL ]</text>
+      <text x="840" text-anchor="end" fill="#10b981" font-size="12" font-weight="bold">[ OPTIMAL ]</text>
     </g>
-    <g transform="translate(60, 220)">
+    <g transform="translate(180, 220)">
       <text fill="#10b981" font-weight="bold">[ █ FOOTPRINT  ]</text>
       <text x="200" fill="#f4f4f5">10+ Year Verified Infrastructure Ledger</text>
-      <text x="1140" text-anchor="end" fill="#10b981" font-size="12" font-weight="bold">[ VERIFIED ]</text>
+      <text x="840" text-anchor="end" fill="#10b981" font-size="12" font-weight="bold">[ VERIFIED ]</text>
     </g>
   </g>
 
