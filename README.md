@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub_Veteran-10+_Years-6E5494?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Veteran">&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=harrison-vc&color=7dcfff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=h-vance&color=7dcfff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 </div>
 
 <p align="center">
@@ -56,13 +56,13 @@
 
 | Project | Outcome | Stack |
 | :--- | :--- | :--- |
-| **[algorithmic-trading-engine](https://github.com/harrison-vc/algorithmic-trading-engine)** | Sub-10ms execution engine / risk parity. | `Python` `C++` `Redis` `AWS` |
-| **[aws-bedrock-agent](https://github.com/harrison-vc/aws-bedrock-agent)** | Autonomous AI infra orchestration layer. | `Bedrock` `Lambda` `Boto3` |
-| **[self-healing-microservices-cluster](https://github.com/harrison-vc/self-healing-microservices-cluster)** | K8s fault-injection & recovery (99.99% SLA). | `Kubernetes` `Go` `Istio` `Prometheus` `Grafana` |
-| **[aws-landing-zone-terraform](https://github.com/harrison-vc/aws-landing-zone-terraform)** | Modular, secure enterprise AWS baseline with OIDC trust. | `Terraform` `AWS` `GHA` `OIDC` |
-| **[cloud-service-baseline](https://github.com/harrison-vc/cloud-service-baseline)** | Observable service baseline for production-ready apps. | `AWS` `Grafana` `OpenTelemetry` |
-| **[cloud-operations-runbook](https://github.com/harrison-vc/cloud-operations-runbook)** | Standardized response protocols for high-availability systems. | `SRE` `Shell` `Automation` |
-| **[incident-postmortems](https://github.com/harrison-vc/incident-postmortems)** | High-fidelity RCA and prevention strategies. | `SRE` `Markdown` `Docs` |
+| **[algorithmic-trading-engine](https://github.com/h-vance/algorithmic-trading-engine)** | Sub-10ms execution engine / risk parity. | `Python` `C++` `Redis` `AWS` |
+| **[aws-bedrock-agent](https://github.com/h-vance/aws-bedrock-agent)** | Autonomous AI infra orchestration layer. | `Bedrock` `Lambda` `Boto3` |
+| **[self-healing-microservices-cluster](https://github.com/h-vance/self-healing-microservices-cluster)** | K8s fault-injection & recovery (99.99% SLA). | `Kubernetes` `Go` `Istio` `Prometheus` `Grafana` |
+| **[aws-landing-zone-terraform](https://github.com/h-vance/aws-landing-zone-terraform)** | Modular, secure enterprise AWS baseline with OIDC trust. | `Terraform` `AWS` `GHA` `OIDC` |
+| **[cloud-service-baseline](https://github.com/h-vance/cloud-service-baseline)** | Observable service baseline for production-ready apps. | `AWS` `Grafana` `OpenTelemetry` |
+| **[cloud-operations-runbook](https://github.com/h-vance/cloud-operations-runbook)** | Standardized response protocols for high-availability systems. | `SRE` `Shell` `Automation` |
+| **[incident-postmortems](https://github.com/h-vance/incident-postmortems)** | High-fidelity RCA and prevention strategies. | `SRE` `Markdown` `Docs` |
 
 </div>
 
@@ -87,18 +87,18 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harrison-vc&theme=tokyonight" height="190">&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=harrison-vc&theme=tokyonight&hide_border=true" height="190">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-vance&theme=tokyonight" height="190">&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=h-vance&theme=tokyonight&hide_border=true" height="190">
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harrison-vc&theme=tokyonight" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-vance&theme=tokyonight" height="180">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harrison-vc/harrison-vc/output/github-metrics.svg" alt="Technical Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-metrics.svg" alt="Technical Metrics" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harrison-vc&theme=tokyonight&margin-w=15&column=7&title=-Issues,-Reviews" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=h-vance&theme=tokyonight&margin-w=15&column=7&title=-Issues,-Reviews" width="100%">
 </p>
 
 <br/>
@@ -108,14 +108,14 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harrison-vc/harrison-vc/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%">
+  <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%">
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/harrison-vc/aws-bedrock-agent"><img src="https://img.shields.io/badge/Case_Study-Autonomous_AI_Infra_Orchestration-BB9AF7?style=for-the-badge&logo=dev.to&logoColor=white" height="40"></a>
-  <a href="https://github.com/harrison-vc/algorithmic-trading-engine"><img src="https://img.shields.io/badge/Case_Study-Sub--10ms_Latency_Engineering-2ac3de?style=for-the-badge&logo=hashnode&logoColor=white" height="40"></a>
+  <a href="https://github.com/h-vance/aws-bedrock-agent"><img src="https://img.shields.io/badge/Case_Study-Autonomous_AI_Infra_Orchestration-BB9AF7?style=for-the-badge&logo=dev.to&logoColor=white" height="40"></a>
+  <a href="https://github.com/h-vance/algorithmic-trading-engine"><img src="https://img.shields.io/badge/Case_Study-Sub--10ms_Latency_Engineering-2ac3de?style=for-the-badge&logo=hashnode&logoColor=white" height="40"></a>
 </p>
 
 <br/>
