@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customGradient=ff4d6d,ff8c42,4c1130&height=250&section=header&text=h-vance%20|%20Harrison%20Vance&fontSize=60&animation=fadeIn&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customGradient=ff4d6d,ff8c42,4c1130&height=250&section=header&text=Harrison%20Vance&fontSize=60&animation=fadeIn&fontColor=fff" />
 </p>
 
 <p align="center">
