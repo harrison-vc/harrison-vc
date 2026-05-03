@@ -2,7 +2,7 @@
 > Cloud & DevOps Engineer | Infrastructure Security | SRE Precision
 
 ## Profile
-Harrison is a veteran Cloud & DevOps Engineer with 10+ years of experience architecting secure, observable, and autonomous ecosystems. Expert in institutional-grade AWS landing zones, high-frequency trading infrastructure, and self-healing Kubernetes clusters.
+Harrison is a veteran Cloud & DevOps Engineer with 5+ years of experience architecting secure, observable, and autonomous ecosystems. Expert in institutional-grade AWS landing zones, high-frequency trading infrastructure, and self-healing Kubernetes clusters.
 
 ## Core Technical Ecosystem
 - **Cloud & Infra:** AWS (SAP Certified), GCP, Terraform (Core Contributor), Kubernetes, ArgoCD, Docker.
@@ -23,6 +23,6 @@ Harrison is a veteran Cloud & DevOps Engineer with 10+ years of experience archi
 - USA & APAC compatible.
 
 ## Connect
-- **Email:** harrison@harrisonvance.cc
+- **Email:** hvance788@gmail.com
 - **LinkedIn:** linkedin.com/in/harrison-vance
 - **Website:** harrisonvance.cc
