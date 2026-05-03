@@ -17,9 +17,9 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,30,15&height=35&section=header&text=TECHNICAL%20ECOSYSTEM&fontSize=18&fontAlignY=50" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-%20TECHNICAL%20ECOSYSTEM%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+</div>
 <p align="center">
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="28"></a>
   <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="28"></a>
@@ -48,9 +48,9 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,30,15&height=35&section=header&text=ENGINEERING%20PORTFOLIO&fontSize=18&fontAlignY=50" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-%20ENGINEERING%20PORTFOLIO%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+</div>
 
 <div align="center">
 
@@ -68,9 +68,9 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,30,15&height=35&section=header&text=INSTITUTIONAL%20ACCOLADES&fontSize=18&fontAlignY=50" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-%20INSTITUTIONAL%20ACCOLADES%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="40">
@@ -82,9 +82,9 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,30,15&height=35&section=header&text=TECHNICAL%20METRICS&fontSize=18&fontAlignY=50" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-%20TECHNICAL%20METRICS%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+</div>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harrison-vc&theme=tokyonight" height="190">&nbsp;&nbsp;
@@ -103,9 +103,9 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,30,15&height=35&section=header&text=CONTRIBUTION%20VELOCITY&fontSize=18&fontAlignY=50" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-%20CONTRIBUTION%20VELOCITY%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/harrison-vc/harrison-vc/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%">
