@@ -11,9 +11,9 @@
 <!-- ARSENAL_START -->
 <div align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white&t=1714772470" height="28">
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS_Lambda-%23FF9900.svg?logo=lambda&logoColor=white&t=1714772470" height="28">
   <img src="https://custom-icon-badges.demolab.com/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white&t=1714772470" height="28">
   <img src="https://custom-icon-badges.demolab.com/badge/Terraform-%237B42BC.svg?logo=terraform&logoColor=white&t=1714772470" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS_Lambda-%23FF9900.svg?logo=lambda&logoColor=white&t=1714772470" height="28">
   <img src="https://custom-icon-badges.demolab.com/badge/Docker-%232496ED.svg?logo=docker&logoColor=white&t=1714772470" height="28">
   <img src="https://custom-icon-badges.demolab.com/badge/GitHub_Actions-%232088FF.svg?logo=github&logoColor=white&t=1714772470" height="28">
   <img src="https://custom-icon-badges.demolab.com/badge/NGINX-%23009639.svg?logo=nginx&logoColor=white&t=1714772470" height="28">
