@@ -1,6 +1,6 @@
 <!-- ELITE_HEADER_START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/h-vance/h-vance/main/header.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/h-vance/h-vance/main/header.svg?t=1777837362" width="100%" />
 </p>
 
 <p align="center">
