@@ -21,27 +21,27 @@
     <g transform="translate(40, 60)">
       <text fill="#10b981" font-weight="bold">[ █ ENGINEER   ]</text>
       <text x="180" fill="#f4f4f5">Harrison Vance</text>
-      <text x="900" fill="#10b981" font-size="10">[ OK ]</text>
+      <text x="960" text-anchor="end" fill="#10b981" font-size="10">[ OK ]</text>
     </g>
     <g transform="translate(40, 100)">
       <text fill="#10b981" font-weight="bold">[ █ FOCUS      ]</text>
       <text x="180" fill="#f4f4f5">Distributed Systems // High-Performance APIs</text>
-      <text x="900" fill="#10b981" font-size="10">[ ACTIVE ]</text>
+      <text x="960" text-anchor="end" fill="#10b981" font-size="10">[ ACTIVE ]</text>
     </g>
     <g transform="translate(40, 140)">
       <text fill="#10b981" font-weight="bold">[ █ INFRA      ]</text>
       <text x="180" fill="#f4f4f5">AWS // Kubernetes // Terraform</text>
-      <text x="900" fill="#10b981" font-size="10">[ SECURE ]</text>
+      <text x="960" text-anchor="end" fill="#10b981" font-size="10">[ SECURE ]</text>
     </g>
     <g transform="translate(40, 180)">
       <text fill="#10b981" font-weight="bold">[ █ DOMAIN     ]</text>
       <text x="180" fill="#f4f4f5">Cloud Native Architecture // SRE</text>
-      <text x="900" fill="#10b981" font-size="10">[ OPTIMAL ]</text>
+      <text x="960" text-anchor="end" fill="#10b981" font-size="10">[ OPTIMAL ]</text>
     </g>
     <g transform="translate(40, 220)">
       <text fill="#10b981" font-weight="bold">[ █ FOOTPRINT  ]</text>
       <text x="180" fill="#f4f4f5">10+ Year Verified Infrastructure Ledger</text>
-      <text x="900" fill="#10b981" font-size="10">[ VERIFIED ]</text>
+      <text x="960" text-anchor="end" fill="#10b981" font-size="10">[ VERIFIED ]</text>
     </g>
   </g>
 
