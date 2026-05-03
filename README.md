@@ -1,6 +1,6 @@
 <!-- ELITE_HEADER_START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/h-vance/h-vance/main/header.svg?t=1777841301" width="100%" />
+  <img src="https://raw.githubusercontent.com/h-vance/h-vance/main/header.svg?t=1777841436" width="100%" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/h-vance/h-vance/main/diagnostic.svg?t=1777841301" width="100%" />
+  <img src="https://raw.githubusercontent.com/h-vance/h-vance/main/diagnostic.svg?t=1777841436" width="100%" />
 </p>
 <!-- ABOUT_ME_END -->
 
