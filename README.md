@@ -1,6 +1,6 @@
 <!-- ELITE_HEADER_START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/h-vance/h-vance/main/header.svg?t=1777837592" width="100%" />
+  <img src="https://raw.githubusercontent.com/h-vance/h-vance/main/header.svg?t=1777837689" width="100%" />
 </p>
 
 <p align="center">
@@ -37,15 +37,9 @@
   <img src="https://img.shields.io/badge/INDEX-ABOUT_ME-18181b?style=for-the-badge&labelColor=09090b&logo=github&logoColor=10b981" height="28">
 </div>
 
-<div align="center">
-  <pre align="left">
-[ █ ENGINEER   ] Harrison Vance
-[ █ FOCUS      ] Distributed Systems // High-Performance APIs
-[ █ INFRA      ] AWS // Kubernetes // Terraform
-[ █ DOMAIN     ] Cloud Native Architecture // Site Reliability Engineering
-[ █ FOOTPRINT  ] 10+ Year Verified Infrastructure Ledger
-  </pre>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/h-vance/h-vance/main/diagnostic.svg?t=1777837689" width="100%" />
+</p>
 <!-- ABOUT_ME_END -->
 
 ---
