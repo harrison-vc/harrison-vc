@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=09090b&height=200&section=header&text=HARRISON%20VANCE&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=10b981&desc=INFRASTRUCTURE%20ENGINEERING%20&%20SYSTEMS%20ARCHITECTURE&descSize=20&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=09090b&height=180&section=header&text=HARRISON%20VANCE&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=f4f4f5&desc=INFRASTRUCTURE%20ENGINEERING%20%E2%97%8A%20SYSTEMS%20ARCHITECTURE&descSize=18&descAlignY=62&descAlign=50&descColor=10b981" />
 </p>
 
 <p align="center">
