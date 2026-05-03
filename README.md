@@ -1,9 +1,175 @@
-# ⚠️ DEPRECATED ⚠️
+<p align="center">
+  <img src="assets/banner_cropped.jpg" width="100%" alt="Header Banner">
+</p>
 
-This repository and profile has been deprecated. All content and development have been consolidated into the **[h-vance](https://github.com/h-vance)** account.
+<br/>
 
-Please visit the new profile here:
-👉 **[github.com/h-vance](https://github.com/h-vance)**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=42&pause=1500&color=2ac3de&center=true&vCenter=true&width=950&lines=h-vance@vc:~$+whoami;Harrison+Vance;h-vance@vc:~$+cat+stack;Cloud+%26+DevOps+Engineering;h-vance@vc:~$+tail+focus;Infrastructure+Security+%7C+SRE" alt="Harrison Vance">
+</p>
 
----
-<sub>Precision Engineered © 2026 Harrison Vance.</sub>
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub_Veteran-10+_Years-6E5494?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Veteran">&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=h-vance&color=2ac3de&style=for-the-badge&label=PROFILE+VIEWS&labelColor=1a1b26" height="28">
+</div>
+
+<br/>
+
+<p align="center">
+  <b>Cloud & DevOps Engineer</b> | Architecting secure, observable, and autonomous cloud ecosystems since 2020. Engineering precision at institutional scale.
+</p>
+
+<br/><br/>
+
+<div align="center">
+
+**Current focus:** **[Algorithmic-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)** and **[AWS-Bedrock-AI-Agent](https://github.com/h-vance/aws-bedrock-agent)** <br/>
+**Learning:** **Advanced LLM Orchestration** and **Rust for Systems Engineering** <br/>
+**Expertise:** **Cloud Native Architecture, DevOps, and High-Frequency Trading Systems** <br/>
+**Contact:** **hvance788@gmail.com**
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-%20TECHNICAL%20ECOSYSTEM%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+</div>
+
+<br/>
+
+<p align="center">
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-1a1b26?style=for-the-badge&logo=amazon-aws&logoColor=2ac3de" height="28"></a>
+  <br/>
+  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GCP-1a1b26?style=for-the-badge&logo=google-cloud&logoColor=2ac3de" height="28"></a>
+  <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-1a1b26?style=for-the-badge&logo=terraform&logoColor=2ac3de" height="28"></a>
+  <br/>
+  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-1a1b26?style=for-the-badge&logo=kubernetes&logoColor=2ac3de" height="28"></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=2ac3de" height="28"></a>
+  <a href="https://argoproj.github.io/cd/"><img src="https://img.shields.io/badge/ArgoCD-1a1b26?style=for-the-badge&logo=argo&logoColor=2ac3de" height="28"></a>
+  <br/>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-1a1b26?style=for-the-badge&logo=github-actions&logoColor=2ac3de" height="28"></a>
+  <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-1a1b26?style=for-the-badge&logo=jenkins&logoColor=2ac3de" height="28"></a>
+  <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-1a1b26?style=for-the-badge&logo=ansible&logoColor=2ac3de" height="28"></a>
+  <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-1a1b26?style=for-the-badge&logo=n8n&logoColor=2ac3de" height="28"></a>
+  <br/>
+  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-1a1b26?style=for-the-badge&logo=go&logoColor=2ac3de" height="28"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=2ac3de" height="28"></a>
+  <img src="https://img.shields.io/badge/TypeScript-1a1b26?style=for-the-badge&logo=typescript&logoColor=2ac3de" height="28">
+  <a href="https://soliditylang.org/"><img src="https://img.shields.io/badge/Solidity-1a1b26?style=for-the-badge&logo=solidity&logoColor=2ac3de" height="28"></a>
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-1a1b26?style=for-the-badge&logo=cplusplus&logoColor=2ac3de" height="28"></a>
+  <br/>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=2ac3de" height="28"></a>
+  <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-1a1b26?style=for-the-badge&logo=redis&logoColor=2ac3de" height="28"></a>
+  <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-1a1b26?style=for-the-badge&logo=prometheus&logoColor=2ac3de" height="28"></a>
+  <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-1a1b26?style=for-the-badge&logo=grafana&logoColor=2ac3de" height="28"></a>
+  <a href="https://opentelemetry.io/"><img src="https://img.shields.io/badge/OpenTelemetry-1a1b26?style=for-the-badge&logo=opentelemetry&logoColor=2ac3de" height="28"></a>
+  <a href="https://istio.io/"><img src="https://img.shields.io/badge/Istio-1a1b26?style=for-the-badge&logo=istio&logoColor=2ac3de" height="28"></a>
+  <br/>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-1a1b26?style=for-the-badge&logo=fastapi&logoColor=2ac3de" height="28"></a>
+  <img src="https://img.shields.io/badge/SQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=2ac3de" height="28">
+  <img src="https://img.shields.io/badge/NoSQL-1a1b26?style=for-the-badge&logo=mongodb&logoColor=2ac3de" height="28">
+  <img src="https://img.shields.io/badge/Linux-1a1b26?style=for-the-badge&logo=linux&logoColor=2ac3de" height="28">
+  <img src="https://img.shields.io/badge/Bash-1a1b26?style=for-the-badge&logo=gnu-bash&logoColor=2ac3de" height="28">
+  <img src="https://img.shields.io/badge/SRE-1a1b26?style=for-the-badge&logo=google-cloud&logoColor=2ac3de" height="28">
+  <a href="https://aws.amazon.com/bedrock/"><img src="https://img.shields.io/badge/Bedrock-1a1b26?style=for-the-badge&logo=amazon-aws&logoColor=2ac3de" height="28"></a>
+</p>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-%20ENGINEERING%20PORTFOLIO%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+</div>
+
+<br/>
+
+<div align="center">
+
+| Project | Outcome | Stack |
+| :--- | :--- | :--- |
+| **[Algorithmic-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)** | Sub-10ms execution engine / risk parity. | `Python` `Typescript` `Terraform` `AWS` `GCP` `C++` `Redis` |
+| **[AWS-Bedrock-AI-Agent](https://github.com/h-vance/aws-bedrock-agent)** | Autonomous AI infra orchestration layer. | `AWS` `Bedrock` `Lambda` `Boto3` |
+| **[Self-Healing-Microservices-Cluster](https://github.com/h-vance/self-healing-microservices-cluster)** | K8s fault-injection & recovery (99.99% SLA). | `Kubernetes` `Go` `Istio` `Prometheus` `Grafana` |
+| **[AWS-Landing-Zone-Terraform](https://github.com/h-vance/aws-landing-zone-terraform)** | Modular and secure enterprise-grade AWS baseline. | `Terraform` `AWS` `GHA` `OIDC` |
+| **[Incident-Postmortems](https://github.com/h-vance/incident-postmortems)** | High-fidelity RCA and prevention strategies. | `SRE` `Markdown` `Docs` |
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-%20INSTITUTIONAL%20ACCOLADES%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/CNCF-Cloud_Native_Ambassador-326CE5?style=for-the-badge&logo=cloud-native-computing-foundation&logoColor=white" height="40">
+  <br/>
+  <img src="https://img.shields.io/badge/Top_100_Global_SRE-Engineering_Excellence-4EAA25?style=for-the-badge&logo=google-cloud&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/HashiCorp-Core_Infrastructure_Contributor-623CE4?style=for-the-badge&logo=terraform&logoColor=white" height="40">
+</p>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-%20TECHNICAL%20METRICS%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-vance&theme=tokyonight" height="190">&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=h-vance&theme=tokyonight&hide_border=true" height="190">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-vance&theme=tokyonight" height="190">
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-metrics.svg" alt="Technical Metrics" width="85%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=h-vance&theme=tokyonight&margin-w=15&column=7&title=-Issues,-Reviews" width="85%">
+</p>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-%20CONTRIBUTION%20VELOCITY%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%">
+</p>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-%20FEATURED%20CASE%20STUDIES%20-1a1b26?style=for-the-badge&labelColor=BB9AF7" height="28">
+</div>
+
+<br/>
+
+<p align="center">
+  <a href="https://www.bvp.com/atlas/ai-infrastructure-roadmap-five-frontiers-for-2026"><img src="https://img.shields.io/badge/Case_Study-Autonomous_AI_Infra_Orchestration-BB9AF7?style=for-the-badge&logo=dev.to&logoColor=white" height="40"></a>
+  <a href="https://quantsedge.ai"><img src="https://img.shields.io/badge/Case_Study-Sub--10ms_Latency_Engineering-2ac3de?style=for-the-badge&logo=hashnode&logoColor=white" height="40"></a>
+</p>
+
+<br/><br/>
+
+<p align="center">
+  <a href="https://linkedin.com/in/harrison-vance"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>&nbsp;
+  <a href="mailto:hvance788@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"></a>&nbsp;
+  <a href="https://harrisonvance.cc"><img src="https://img.shields.io/badge/PORTFOLIO-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" height="30"></a>
+</p>
+
+<p align="center">
+  <sub>Precision Engineered © 2026 Harrison Vance.</sub>
+</p>
