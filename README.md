@@ -83,16 +83,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/METRICS-OBSERVABILITY-white?style=for-the-badge&labelColor=2ac3de&color=1a1b26" height="25">
+  <img src="https://img.shields.io/badge/TECHNICAL-METRICS-white?style=for-the-badge&labelColor=2ac3de&color=1a1b26" height="25">
 </div>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harrison-vc&theme=tokyonight" height="190">&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=harrison-vc&theme=tokyonight&hide_border=true" height="190">
+  <img src="https://raw.githubusercontent.com/harrison-vc/harrison-vc/output/github-metrics.svg" alt="Technical Metrics" width="100%">
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harrison-vc&theme=tokyonight" height="180">
-</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harrison-vc&theme=tokyonight&margin-w=15&column=7&title=-Issues,-Reviews" width="100%">
 </p>
@@ -111,7 +108,7 @@
 
 <p align="center">
   <a href="https://github.com/harrison-vc/aws-bedrock-agent"><img src="https://img.shields.io/badge/Case_Study-Autonomous_AI_Infra_Orchestration-BB9AF7?style=for-the-badge&logo=dev.to&logoColor=white" height="40"></a>
-  <a href="https://quantsedge.ai"><img src="https://img.shields.io/badge/Case_Study-Sub--10ms_Latency_Engineering-2ac3de?style=for-the-badge&logo=hashnode&logoColor=white" height="40"></a>
+  <a href="https://github.com/harrison-vc/algorithmic-trading-app"><img src="https://img.shields.io/badge/Case_Study-Sub--10ms_Latency_Engineering-2ac3de?style=for-the-badge&logo=hashnode&logoColor=white" height="40"></a>
 </p>
 
 <br/>
