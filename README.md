@@ -10,23 +10,23 @@
 
 <!-- ARSENAL_START -->
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-18181b?logo=amazonwebservices&logoColor=10b981&style=for-the-badge&t=1714772403" height="28">
-  <img src="https://img.shields.io/badge/Terraform-18181b?style=for-the-badge&logo=terraform&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Kubernetes-18181b?style=for-the-badge&logo=kubernetes&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Docker-18181b?style=for-the-badge&logo=docker&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/GitHub_Actions-18181b?style=for-the-badge&logo=githubactions&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Go-18181b?style=for-the-badge&logo=go&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Rust-18181b?style=for-the-badge&logo=rust&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/TypeScript-18181b?style=for-the-badge&logo=typescript&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/JavaScript-18181b?style=for-the-badge&logo=javascript&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Solidity-18181b?style=for-the-badge&logo=solidity&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Redis-18181b?style=for-the-badge&logo=redis&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Prometheus-18181b?style=for-the-badge&logo=prometheus&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Grafana-18181b?style=for-the-badge&logo=grafana&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/FastAPI-18181b?style=for-the-badge&logo=fastapi&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Linux-18181b?style=for-the-badge&logo=linux&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Bash-18181b?style=for-the-badge&logo=gnubash&logoColor=10b981" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-18181b?logo=aws&logoColor=10b981&t=1714772410" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/Terraform-18181b?logo=terraform&logoColor=10b981&t=1714772410" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/Kubernetes-18181b?logo=kubernetes&logoColor=10b981&t=1714772410" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/Docker-18181b?logo=docker&logoColor=10b981&t=1714772410" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/GitHub_Actions-18181b?logo=github&logoColor=10b981&t=1714772410" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/Go-18181b?logo=go&logoColor=10b981&t=1714772410" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/Rust-18181b?logo=rust&logoColor=10b981&t=1714772410" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/Python-18181b?logo=python&logoColor=10b981&t=1714772410" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-18181b?logo=typescript&logoColor=10b981&t=1714772410" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-18181b?logo=javascript&logoColor=10b981&t=1714772410" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/Solidity-18181b?logo=solidity&logoColor=10b981&t=1714772410" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/Redis-18181b?logo=redis&logoColor=10b981&t=1714772410" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/Prometheus-18181b?logo=prometheus&logoColor=10b981&t=1714772410" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/Grafana-18181b?logo=grafana&logoColor=10b981&t=1714772410" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/FastAPI-18181b?logo=fastapi&logoColor=10b981&t=1714772410" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/Linux-18181b?logo=linux&logoColor=10b981&t=1714772410" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/Bash-18181b?logo=terminal&logoColor=10b981&t=1714772410" height="28">
 </div>
 <!-- ARSENAL_END -->
 
@@ -34,7 +34,7 @@
 
 <!-- ABOUT_ME_START -->
 <div align="center">
-  <img src="https://img.shields.io/badge/INDEX-ABOUT_ME-18181b?style=for-the-badge&labelColor=09090b&logo=github&logoColor=10b981" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/INDEX-ABOUT_ME-18181b?logo=github&logoColor=10b981&labelColor=09090b" height="28">
 </div>
 
 <p align="center">
@@ -46,7 +46,7 @@
 
 <!-- ARSENAL_INDEX_START -->
 <div align="center">
-  <img src="https://img.shields.io/badge/INDEX-ARSENAL-18181b?style=for-the-badge&labelColor=09090b&logo=github&logoColor=10b981" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/INDEX-ARSENAL-18181b?logo=github&logoColor=10b981&labelColor=09090b" height="28">
 </div>
 
 <div align="left">
@@ -65,15 +65,15 @@
 
 <!-- ACCOLADES_START -->
 <div align="center">
-  <img src="https://img.shields.io/badge/INDEX-ACCOLADES-18181b?style=for-the-badge&labelColor=09090b&logo=github&logoColor=10b981" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/INDEX-ACCOLADES-18181b?logo=github&logoColor=10b981&labelColor=09090b" height="28">
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS_Solutions_Architect_Pro-18181b?style=for-the-badge&logo=amazonwebservices&logoColor=10b981&t=1714772403" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS_Solutions_Architect_Pro-18181b?logo=aws&logoColor=10b981&t=1714772410" height="28">
   &nbsp;
-  <img src="https://img.shields.io/badge/CNCF_Ambassador-18181b?style=for-the-badge&logo=cncf&logoColor=10b981" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/CNCF_Ambassador-18181b?logo=cncf&logoColor=10b981&t=1714772410" height="28">
   &nbsp;
-  <img src="https://img.shields.io/badge/HashiCorp_Contributor-18181b?style=for-the-badge&logo=terraform&logoColor=10b981" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/HashiCorp_Contributor-18181b?logo=terraform&logoColor=10b981&t=1714772410" height="28">
 </div>
 <!-- ACCOLADES_END -->
 
@@ -81,7 +81,7 @@
 
 <!-- METRICS_START -->
 <div align="center">
-  <img src="https://img.shields.io/badge/INDEX-METRICS-18181b?style=for-the-badge&labelColor=09090b&logo=github&logoColor=10b981" height="28">
+  <img src="https://custom-icon-badges.demolab.com/badge/INDEX-METRICS-18181b?logo=github&logoColor=10b981&labelColor=09090b" height="28">
 </div>
 
 <div align="center">
