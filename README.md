@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <b>Cloud & DevOps Engineer<b> | <em>Architecting secure, observable, and autonomous cloud ecosystems. Engineering precision at institutional scale.</em>
+  <b>Cloud & DevOps Engineer</b> | <em>Architecting secure, observable, and autonomous cloud ecosystems. Engineering precision at institutional scale.</em>
 </p>
 
 <br/>
