@@ -7,8 +7,8 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GITHUB_VETERAN-10+_YEARS-1a1b26?style=for-the-badge&labelColor=00FF41&color=1a1b26" alt="GitHub Veteran">&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=h-vance&color=00FF41&style=for-the-badge&label=TERMINAL_PULSE" alt="Profile Views">
+  <img src="https://img.shields.io/badge/VETERAN-10+_YEARS-00FF41?style=for-the-badge&labelColor=1a1b26&color=00FF41" alt="GitHub Veteran">&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=h-vance&color=00FF41&style=for-the-badge&label=TERMINAL_PULSE&labelColor=1a1b26" alt="Profile Views">
 </div>
 
 <p align="center">
@@ -17,13 +17,13 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 I’m currently working on **[algorithmic-trading-engine](https://github.com/h-vance/algorithmic-trading-engine)** and **[aws-bedrock-agent](https://github.com/h-vance/aws-bedrock-agent)**
-- 🌱 I’m currently learning **Advanced LLM Orchestration** and **Rust for Systems Engineering**
-- 💬 Ask me about **Cloud Native Architecture, SRE, and High-Frequency Trading Systems**
-- 📫 How to reach me: **harrison@harrisonvance.cc**
-- ⚡ Fun fact: **I have a 10+ year contribution history that I recently restored to this aged account.**
+- **Current focus:** **[algorithmic-trading-engine](https://github.com/h-vance/algorithmic-trading-engine)** and **[aws-bedrock-agent](https://github.com/h-vance/aws-bedrock-agent)**
+- **Learning:** **Advanced LLM Orchestration** and **Rust for Systems Engineering**
+- **Expertise:** **Cloud Native Architecture, SRE, and High-Frequency Trading Systems**
+- **Contact:**: **harrison@harrisonvance.cc**
+- **Note:**: **I have a 10+ year contribution history that I recently restored to this aged account.**
 
 <p align="left">
   <a href="https://linkedin.com/in/harrison-vance"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -33,7 +33,7 @@
 
 ---
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-### 🛠️ DevOps & Automation
+### DevOps & Automation
 
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
 </p>
 
-### 💻 Languages & Databases
+### Languages & Databases
 
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
 </p>
 
-### 📈 Metrics & Observability
+### Metrics & Observability
 
 <p align="left">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
@@ -75,7 +75,7 @@
 
 ---
 
-### 📂 Engineering Portfolio
+### Engineering Portfolio
 
 | Project | Outcome | Stack |
 | :--- | :--- | :--- |
@@ -106,7 +106,7 @@
 
 ---
 
-### 🐍 Contribution Velocity
+### Contribution Velocity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%">
@@ -114,7 +114,7 @@
 
 ---
 
-### 🏛️ Institutional Accolades
+### Institutional Accolades
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28">
