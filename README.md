@@ -1,6 +1,6 @@
 <!-- ELITE_HEADER_START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/h-vance/h-vance/main/header.svg?t=1777837774" width="100%" />
+  <img src="https://raw.githubusercontent.com/h-vance/h-vance/main/header.svg?t=1777837847" width="100%" />
 </p>
 
 <p align="center">
@@ -10,23 +10,23 @@
 
 <!-- ARSENAL_START -->
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-18181b?style=for-the-badge&logo=amazonwebservices&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Terraform-18181b?style=for-the-badge&logo=terraform&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Kubernetes-18181b?style=for-the-badge&logo=kubernetes&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Docker-18181b?style=for-the-badge&logo=docker&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/GitHub_Actions-18181b?style=for-the-badge&logo=githubactions&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Go-18181b?style=for-the-badge&logo=go&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Rust-18181b?style=for-the-badge&logo=rust&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/TypeScript-18181b?style=for-the-badge&logo=typescript&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/JavaScript-18181b?style=for-the-badge&logo=javascript&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Solidity-18181b?style=for-the-badge&logo=solidity&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Redis-18181b?style=for-the-badge&logo=redis&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Prometheus-18181b?style=for-the-badge&logo=prometheus&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Grafana-18181b?style=for-the-badge&logo=grafana&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/FastAPI-18181b?style=for-the-badge&logo=fastapi&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Linux-18181b?style=for-the-badge&logo=linux&logoColor=10b981" height="28">
-  <img src="https://img.shields.io/badge/Bash-18181b?style=for-the-badge&logo=gnubash&logoColor=10b981" height="28">
+  <img src="https://img.shields.io/badge/AWS-18181b?style=for-the-badge&logo=amazonwebservices&logoColor=10b981&t=1777837847" height="28">
+  <img src="https://img.shields.io/badge/Terraform-18181b?style=for-the-badge&logo=terraform&logoColor=10b981&t=1777837847" height="28">
+  <img src="https://img.shields.io/badge/Kubernetes-18181b?style=for-the-badge&logo=kubernetes&logoColor=10b981&t=1777837847" height="28">
+  <img src="https://img.shields.io/badge/Docker-18181b?style=for-the-badge&logo=docker&logoColor=10b981&t=1777837847" height="28">
+  <img src="https://img.shields.io/badge/GitHub_Actions-18181b?style=for-the-badge&logo=githubactions&logoColor=10b981&t=1777837847" height="28">
+  <img src="https://img.shields.io/badge/Go-18181b?style=for-the-badge&logo=go&logoColor=10b981&t=1777837847" height="28">
+  <img src="https://img.shields.io/badge/Rust-18181b?style=for-the-badge&logo=rust&logoColor=10b981&t=1777837847" height="28">
+  <img src="https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=10b981&t=1777837847" height="28">
+  <img src="https://img.shields.io/badge/TypeScript-18181b?style=for-the-badge&logo=typescript&logoColor=10b981&t=1777837847" height="28">
+  <img src="https://img.shields.io/badge/JavaScript-18181b?style=for-the-badge&logo=javascript&logoColor=10b981&t=1777837847" height="28">
+  <img src="https://img.shields.io/badge/Solidity-18181b?style=for-the-badge&logo=solidity&logoColor=10b981&t=1777837847" height="28">
+  <img src="https://img.shields.io/badge/Redis-18181b?style=for-the-badge&logo=redis&logoColor=10b981&t=1777837847" height="28">
+  <img src="https://img.shields.io/badge/Prometheus-18181b?style=for-the-badge&logo=prometheus&logoColor=10b981&t=1777837847" height="28">
+  <img src="https://img.shields.io/badge/Grafana-18181b?style=for-the-badge&logo=grafana&logoColor=10b981&t=1777837847" height="28">
+  <img src="https://img.shields.io/badge/FastAPI-18181b?style=for-the-badge&logo=fastapi&logoColor=10b981&t=1777837847" height="28">
+  <img src="https://img.shields.io/badge/Linux-18181b?style=for-the-badge&logo=linux&logoColor=10b981&t=1777837847" height="28">
+  <img src="https://img.shields.io/badge/Bash-18181b?style=for-the-badge&logo=gnubash&logoColor=10b981&t=1777837847" height="28">
 </div>
 <!-- ARSENAL_END -->
 
@@ -38,7 +38,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/h-vance/h-vance/main/diagnostic.svg?t=1777837774" width="100%" />
+  <img src="https://raw.githubusercontent.com/h-vance/h-vance/main/diagnostic.svg?t=1777837847" width="100%" />
 </p>
 <!-- ABOUT_ME_END -->
 
