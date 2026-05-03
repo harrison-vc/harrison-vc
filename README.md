@@ -10,7 +10,7 @@
 
 <!-- ARSENAL_START -->
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-18181b?logo=amazonaws&logoColor=10b981&style=for-the-badge" height="28">
+  <img src="https://img.shields.io/badge/AWS-18181b?logo=amazonwebservices&logoColor=10b981&style=for-the-badge&t=1714772403" height="28">
   <img src="https://img.shields.io/badge/Terraform-18181b?style=for-the-badge&logo=terraform&logoColor=10b981" height="28">
   <img src="https://img.shields.io/badge/Kubernetes-18181b?style=for-the-badge&logo=kubernetes&logoColor=10b981" height="28">
   <img src="https://img.shields.io/badge/Docker-18181b?style=for-the-badge&logo=docker&logoColor=10b981" height="28">
@@ -69,7 +69,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS_Solutions_Architect_Pro-18181b?style=for-the-badge&logo=amazon&logoColor=10b981" height="28">
+  <img src="https://img.shields.io/badge/AWS_Solutions_Architect_Pro-18181b?style=for-the-badge&logo=amazonwebservices&logoColor=10b981&t=1714772403" height="28">
   &nbsp;
   <img src="https://img.shields.io/badge/CNCF_Ambassador-18181b?style=for-the-badge&logo=cncf&logoColor=10b981" height="28">
   &nbsp;
