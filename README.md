@@ -114,8 +114,8 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/h-vance/aws-bedrock-agent"><img src="https://img.shields.io/badge/Case_Study-Autonomous_AI_Infra_Orchestration-BB9AF7?style=for-the-badge&logo=dev.to&logoColor=white" height="40"></a>
-  <a href="https://github.com/h-vance/algorithmic-trading-engine"><img src="https://img.shields.io/badge/Case_Study-Sub--10ms_Latency_Engineering-2ac3de?style=for-the-badge&logo=hashnode&logoColor=white" height="40"></a>
+  <a href="https://www.bvp.com/atlas/ai-infrastructure-roadmap-five-frontiers-for-2026"><img src="https://img.shields.io/badge/Case_Study-Autonomous_AI_Infra_Orchestration-BB9AF7?style=for-the-badge&logo=dev.to&logoColor=white" height="40"></a>
+  <a href="https://quantsedge.ai"><img src="https://img.shields.io/badge/Case_Study-Sub--10ms_Latency_Engineering-2ac3de?style=for-the-badge&logo=hashnode&logoColor=white" height="40"></a>
 </p>
 
 <br/>
