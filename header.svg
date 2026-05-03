@@ -1,24 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" fill="none">
-  <!-- Background -->
-  <rect width="1200" height="200" fill="#09090b"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" fill="none">
+  <style>
+    @keyframes pulse {
+      0% { opacity: 0.4; }
+      50% { opacity: 1; }
+      100% { opacity: 0.4; }
+    }
+    .status-dot { animation: pulse 2s infinite; }
+    .mono { font-family: 'JetBrains Mono', 'Geist Mono', monospace; }
+    .sans { font-family: 'Geist', 'Inter', sans-serif; }
+  </style>
+
+  <rect width="1200" height="240" fill="#09090b"/>
   
-  <!-- Subtle Gradient/Grid Accent on the right for asymmetry -->
+  <!-- Architectural Grid Accent -->
   <defs>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-width="1" stroke-opacity="0.03"/>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#ffffff" stroke-width="1" stroke-opacity="0.02"/>
     </pattern>
-    <linearGradient id="fade" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="40%" stop-color="#09090b" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#09090b" stop-opacity="0"/>
-    </linearGradient>
   </defs>
+  <rect width="1200" height="240" fill="url(#grid)"/>
+
+  <!-- Left Header -->
+  <text x="60" y="100" fill="#f4f4f5" class="sans" font-size="82" font-weight="900" letter-spacing="-4">HARRISON VANCE</text>
   
-  <rect x="600" width="600" height="200" fill="url(#grid)"/>
-  <rect x="600" width="600" height="200" fill="url(#fade)"/>
+  <!-- Right-Aligned System Metadata -->
+  <g transform="translate(1140, 60)" text-anchor="end">
+    <text y="0" fill="#71717a" class="mono" font-size="12" letter-spacing="2">SYSTEM_ID: HV-7741</text>
+    <text y="20" fill="#71717a" class="mono" font-size="12" letter-spacing="2">ROOT_ACCESS: VERIFIED</text>
+    <text y="40" fill="#71717a" class="mono" font-size="12" letter-spacing="2">UPTIME: 99.9997%</text>
+  </g>
+
+  <!-- Title with "System Path" notation -->
+  <text x="64" y="150" fill="#10b981" class="mono" font-size="18" font-weight="500" letter-spacing="6">
+    /ROOT/INFRASTRUCTURE_ENGINEER
+  </text>
   
-  <!-- Left Aligned Typography -->
-  <text x="60" y="100" fill="#f4f4f5" font-family="system-ui, -apple-system, sans-serif" font-size="64" font-weight="800" letter-spacing="-2">HARRISON VANCE</text>
-  
-  <text x="64" y="144" fill="#a1a1aa" font-family="JetBrains Mono, monospace" font-size="16" font-weight="400" letter-spacing="4">CLOUD INFRASTRUCTURE // DEVOPS</text>
+  <!-- Hairline bottom border -->
+  <rect x="60" y="180" width="1080" height="1" fill="#27272a"/>
 </svg>
