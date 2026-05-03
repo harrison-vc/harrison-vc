@@ -95,7 +95,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-vance&theme=transparent" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=h-vance&show_icons=true&hide=commits,issues&theme=transparent&title_color=10b981&icon_color=10b981&text_color=f4f4f5&border_radius=0&hide_border=true" width="400">
   <img src="https://streak-stats.demolab.com?user=h-vance&theme=github-dark&hide_border=true" width="400">
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-vance&theme=transparent" width="400">
