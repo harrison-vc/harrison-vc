@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=200&section=header&text=HARRISON%20VANCE&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=2ac3de&desc=ELITE%20CLOUD%20NATIVE%20&%20QUANT%20SRE&descSize=20&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=09090b&height=200&section=header&text=HARRISON%20VANCE&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=10b981&desc=INFRASTRUCTURE%20ENGINEERING%20&%20SYSTEMS%20ARCHITECTURE&descSize=20&descAlignY=65&descAlign=50" />
 </p>
 
 <p align="center">
-  <code>[ █ SYST: ONLINE ]</code> &nbsp;&nbsp; <code>[ █ AUTH: OPERATOR_V3 ]</code> &nbsp;&nbsp; <code>[ █ LOC: APAC_REMOTE ]</code> &nbsp;&nbsp; <code>[ █ SYNC: 2026.05.03 ]</code>
+  <code>[ STATUS: ACTIVE ]</code> &nbsp;&nbsp; <code>[ LOCATION: APAC/REMOTE ]</code> &nbsp;&nbsp; <code>[ SYNCED: 2026.05.03 ]</code>
 </p>
 
 <p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AWS-18181b?style=for-the-badge&logo=amazon&logoColor=10b981" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Terraform-18181b?style=for-the-badge&logo=terraform&logoColor=10b981" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Kubernetes-18181b?style=for-the-badge&logo=kubernetes&logoColor=10b981" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-18181b?style=for-the-badge&logo=docker&logoColor=10b981" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub_Actions-18181b?style=for-the-badge&logo=githubactions&logoColor=10b981" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Go-18181b?style=for-the-badge&logo=go&logoColor=10b981" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Rust-18181b?style=for-the-badge&logo=rust&logoColor=10b981" height="28">
 </p>
 <p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=10b981" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-18181b?style=for-the-badge&logo=typescript&logoColor=10b981" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-18181b?style=for-the-badge&logo=javascript&logoColor=10b981" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Hyperliquid-18181b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNTAgMTUwIiBmaWxsPSJibGFjayI+PHBhdGggZD0iTTE0Ni4yNiw3Ni4wMWMuMTMsMTEuNjUtMi4zMSwyMi43OC03LjEsMzMuNDEtNi44NCwxNS4xNC0yMy4yMywyNy41Mi0zOC4yLDE0LjM0LTEyLjIxLTEwLjc0LTE0LjQ3LTMyLjU1LTMyLjc2LTM1Ljc0LTI0LjItMi45My0yNC43OCwyNS4xMy00MC42LDI4LjMtMTcuNjIsMy41OC0yMy40Ny0yNi4wNi0yMy4yMS0zOS41Mi4yNi0xMy40NiwzLjg0LTMyLjM4LDE5LjE1LTMyLjM4LDE3LjYyLDAsMTguODEsMjYuNjgsNDEuMTgsMjUuMjQsMjIuMTUtMS41MSwyMi41NC0yOS4yNywzNy4wMS00MS4xNiwxMi40OS0xMC4yNywyNy4xOC0yLjc0LDM0LjUzLDkuNjIsNi44MiwxMS40Myw5LjgxLDI0Ljg1LDkuOTcsMzcuODhoLjAyWiIvPjwvc3ZnPg==&logoColor=10b981" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Solidity-18181b?style=for-the-badge&logo=solidity&logoColor=10b981" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Redis-18181b?style=for-the-badge&logo=redis&logoColor=10b981" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Prometheus-18181b?style=for-the-badge&logo=prometheus&logoColor=10b981" height="28">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Grafana-18181b?style=for-the-badge&logo=grafana&logoColor=10b981" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/FastAPI-18181b?style=for-the-badge&logo=fastapi&logoColor=10b981" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Linux-18181b?style=for-the-badge&logo=linux&logoColor=10b981" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bash-18181b?style=for-the-badge&logo=gnubash&logoColor=10b981" height="28">
 </p>
 
 ---
