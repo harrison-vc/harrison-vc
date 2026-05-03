@@ -69,13 +69,11 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS_CERTIFIED_SOLUTIONS_ARCHITECT_PROFESSIONAL-18181b?style=for-the-badge&logo=amazon&logoColor=10b981" height="28">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CNCF_CLOUD_NATIVE_AMBASSADOR-18181b?style=for-the-badge&logo=cncf&logoColor=10b981" height="28">
-  <br/><br/>
-  <img src="https://img.shields.io/badge/INTEL_TOP_100_SRE_ENGINEER-18181b?style=for-the-badge&logo=intel&logoColor=10b981" height="28">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HASHICORP_CORE_CONTRIBUTOR-18181b?style=for-the-badge&logo=terraform&logoColor=10b981" height="28">
+  <img src="https://img.shields.io/badge/AWS_Solutions_Architect_Pro-18181b?style=for-the-badge&logo=amazon&logoColor=10b981" height="28">
+  &nbsp;
+  <img src="https://img.shields.io/badge/CNCF_Ambassador-18181b?style=for-the-badge&logo=cncf&logoColor=10b981" height="28">
+  &nbsp;
+  <img src="https://img.shields.io/badge/HashiCorp_Contributor-18181b?style=for-the-badge&logo=terraform&logoColor=10b981" height="28">
 </div>
 <!-- ACCOLADES_END -->
 
