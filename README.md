@@ -1,6 +1,6 @@
 <!-- ELITE_HEADER_START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/h-vance/h-vance/main/header.svg?t=1777837689" width="100%" />
+  <img src="https://raw.githubusercontent.com/h-vance/h-vance/main/header.svg?t=1777837723" width="100%" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 <!-- ARSENAL_START -->
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-18181b?style=for-the-badge&logo=amazon&logoColor=10b981" height="28">
+  <img src="https://img.shields.io/badge/AWS-18181b?style=for-the-badge&logo=amazonaws&logoColor=10b981" height="28">
   <img src="https://img.shields.io/badge/Terraform-18181b?style=for-the-badge&logo=terraform&logoColor=10b981" height="28">
   <img src="https://img.shields.io/badge/Kubernetes-18181b?style=for-the-badge&logo=kubernetes&logoColor=10b981" height="28">
   <img src="https://img.shields.io/badge/Docker-18181b?style=for-the-badge&logo=docker&logoColor=10b981" height="28">
@@ -38,7 +38,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/h-vance/h-vance/main/diagnostic.svg?t=1777837689" width="100%" />
+  <img src="https://raw.githubusercontent.com/h-vance/h-vance/main/diagnostic.svg?t=1777837723" width="100%" />
 </p>
 <!-- ABOUT_ME_END -->
 
