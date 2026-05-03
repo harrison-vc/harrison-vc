@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-%20VETERAN%2010+%20YEARS%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-%20GitHub-VETERAN%2010+%20YEARS%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=h-vance&color=2ac3de&style=for-the-badge&label=PROFILE+VIEWS&labelColor=1a1b26" height="28">
 </div>
 
@@ -18,9 +18,6 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-%20ABOUT%20ME%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
-</div>
-
 - **Current focus:** **[Algorithmic-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)** and **[AWS-Bedrock-AI-Agent](https://github.com/h-vance/aws-bedrock-agent)**
 - **Learning:** **Advanced LLM Orchestration** and **Rust for Systems Engineering**
 - **Expertise:** **Cloud Native Architecture, DevOps, and High-Frequency Trading Systems**
