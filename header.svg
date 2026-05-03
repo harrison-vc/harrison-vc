@@ -1,23 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" fill="none">
-  <defs>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-width="1" stroke-opacity="0.03"/>
-    </pattern>
-    <linearGradient id="fade" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="60%" stop-color="#09090b" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#09090b" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Geist Mono', monospace; }
+    .sans { font-family: 'Geist', 'Inter', sans-serif; }
+    .name { font-size: 84px; font-weight: 900; letter-spacing: -5px; fill: #f4f4f5; }
+    .label { font-size: 14px; letter-spacing: 4px; fill: #71717a; text-transform: uppercase; }
+    .value { font-size: 14px; letter-spacing: 1px; fill: #10b981; font-weight: 600; }
+  </style>
 
   <rect width="1200" height="240" fill="#09090b"/>
-  <rect x="600" width="600" height="240" fill="url(#grid)"/>
-  <rect x="600" width="600" height="240" fill="url(#fade)"/>
-
-  <g font-family="system-ui, -apple-system, sans-serif">
-    <text x="60" y="110" fill="#f4f4f5" font-size="72" font-weight="800" letter-spacing="-3">HARRISON VANCE</text>
-    <text x="64" y="156" fill="#a1a1aa" font-family="JetBrains Mono, monospace" font-size="16" font-weight="400" letter-spacing="6">CLOUD INFRASTRUCTURE</text>
-  </g>
   
-  <rect x="60" y="190" width="1080" height="1" fill="#18181b"/>
+  <!-- Subtly Textured Background -->
+  <defs>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1200 0) rotate(135) scale(800 600)">
+      <stop stop-color="#10b981" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#09090b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="240" fill="url(#glow)"/>
+
+  <!-- Left Aligned Core Identity -->
+  <text x="60" y="110" class="sans name">HARRISON VANCE</text>
+  
+  <g transform="translate(64, 150)">
+    <text class="mono label">INFRASTRUCTURE ARCHITECT</text>
+    <path d="M 0 10 L 260 10" stroke="#27272a" stroke-width="1"/>
+  </g>
+
+  <!-- Right Aligned Technical Metadata -->
+  <g transform="translate(1140, 60)" text-anchor="end">
+    <g transform="translate(0, 0)">
+      <text class="mono label" font-size="10">STATUS</text>
+      <text y="20" class="mono value">SYSTEM_STABLE</text>
+    </g>
+    <g transform="translate(0, 60)">
+      <text class="mono label" font-size="10">UPTIME</text>
+      <text y="20" class="mono value">99.99%_PROD</text>
+    </g>
+    <g transform="translate(0, 120)">
+      <text class="mono label" font-size="10">LOCATION</text>
+      <text y="20" class="mono value">USA // APAC</text>
+    </g>
+  </g>
 </svg>
