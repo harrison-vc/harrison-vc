@@ -111,20 +111,22 @@
 
 <br/>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-vance&theme=tokyonight" height="190">&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=h-vance&theme=tokyonight&hide_border=true" height="190">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-vance&theme=tokyonight" height="190">
+</p>
 
-| | |
-| :--- | :--- |
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-vance&theme=tokyonight" height="190"> <br/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-vance&theme=tokyonight" height="180"> | <img src="https://streak-stats.demolab.com?user=h-vance&theme=tokyonight&hide_border=true" height="380"> |
-
-</div>
+<br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-metrics.svg" alt="Technical Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-metrics.svg" alt="Technical Metrics" width="85%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=h-vance&theme=tokyonight&margin-w=15&column=7&title=-Issues,-Reviews" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=h-vance&theme=tokyonight&margin-w=15&column=7&title=-Issues,-Reviews" width="85%">
 </p>
 
 <br/><br/>
