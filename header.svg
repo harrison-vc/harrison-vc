@@ -12,5 +12,5 @@
   <path d="M 30 240 L 30 270 L 60 270" stroke="#10b981" stroke-width="2" stroke-opacity="0.4" fill="none"/>
   <path d="M 1140 270 L 1170 270 L 1170 240" stroke="#10b981" stroke-width="2" stroke-opacity="0.4" fill="none"/>
   <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" fill="#f4f4f5" font-family="Inter, system-ui, sans-serif" font-size="72" font-weight="900" letter-spacing="4" text-transform="uppercase">HARRISON VANCE</text>
-  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" fill="#10b981" font-family="JetBrains Mono, monospace" font-size="20" font-weight="500" letter-spacing="8" text-transform="uppercase">Cloud Engineering & DevOps</text>
+  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" fill="#10b981" font-family="JetBrains Mono, monospace" font-size="20" font-weight="500" letter-spacing="8" text-transform="uppercase">Cloud Engineering &amp; DevOps</text>
 </svg>
