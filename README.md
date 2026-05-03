@@ -45,7 +45,7 @@
 <h2 align="center">Featured Technical Deep Dives</h2>
 <p align="center">
   <a href="https://github.com/harrison-vc/aws-bedrock-agent"><img src="https://img.shields.io/badge/Case_Study-Autonomous_AI_Infra_Orchestration-BB9AF7?style=for-the-badge&logo=dev.to&logoColor=white" height="40"></a>
-  <a href="https://github.com/harrison-vc/algorithmic-trading-app"><img src="https://img.shields.io/badge/Case_Study-Sub--10ms_Latency_Engineering-2ac3de?style=for-the-badge&logo=hashnode&logoColor=white" height="40"></a>
+  <a href="https://quantsedge.ai""><img src="https://img.shields.io/badge/Case_Study-Sub--10ms_Latency_Engineering-2ac3de?style=for-the-badge&logo=hashnode&logoColor=white" height="40"></a>
 </p>
 
 <br/>
