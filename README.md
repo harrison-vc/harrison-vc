@@ -96,14 +96,14 @@
 </table>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=h-vance&theme=tokyonight&margin-w=15&column=7&title=-Issues,-Reviews" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=h-vance&theme=tokyonight&margin-w=15&column=7&title=-Issues,-Reviews" width="800">
 </div>
 
 <details>
   <summary align="center"><b><code>[ █ VIEW FULL TECHNICAL INTELLIGENCE REPORT ]</code></b></summary>
   <br/>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-metrics.svg" alt="Technical Metrics" width="100%">
+    <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-metrics.svg" alt="Technical Metrics" width="850">
   </p>
 </details>
 
