@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <em>Cloud & DevOps Engineer — Architecting secure, observable, and autonomous cloud ecosystems. Engineering precision at institutional scale.</em>
+  Cloud & DevOps Engineer — <em>Architecting secure, observable, and autonomous cloud ecosystems. Engineering precision at institutional scale.</em>
 </p>
 
 <br/>
@@ -56,13 +56,13 @@
 
 | Project | Outcome | Stack |
 | :--- | :--- | :--- |
-| **[algorithmic-trading-engine](https://github.com/h-vance/algorithmic-trading-engine)** | Sub-10ms execution engine / risk parity. | `Python` `C++` `Redis` `AWS` |
-| **[aws-bedrock-agent](https://github.com/h-vance/aws-bedrock-agent)** | Autonomous AI infra orchestration layer. | `Bedrock` `Lambda` `Boto3` |
-| **[self-healing-microservices-cluster](https://github.com/h-vance/self-healing-microservices-cluster)** | K8s fault-injection & recovery (99.99% SLA). | `Kubernetes` `Go` `Istio` `Prometheus` `Grafana` |
-| **[aws-landing-zone-terraform](https://github.com/h-vance/aws-landing-zone-terraform)** | Modular, secure enterprise AWS baseline with OIDC trust. | `Terraform` `AWS` `GHA` `OIDC` |
-| **[cloud-service-baseline](https://github.com/h-vance/cloud-service-baseline)** | Observable service baseline for production-ready apps. | `AWS` `Grafana` `OpenTelemetry` |
-| **[cloud-operations-runbook](https://github.com/h-vance/cloud-operations-runbook)** | Standardized response protocols for high-availability systems. | `SRE` `Shell` `Automation` |
-| **[incident-postmortems](https://github.com/h-vance/incident-postmortems)** | High-fidelity RCA and prevention strategies. | `SRE` `Markdown` `Docs` |
+| **[Algorithmic-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)** | Sub-10ms execution engine / risk parity. | `Python` `Typescript` `AWS` `GCP` `Terraform` `React` `C++` `Redis` |
+| **[AWS-Bedrock-AI-Agent](https://github.com/h-vance/aws-bedrock-agent)** | Autonomous AI infra orchestration layer. | `AWS` `Bedrock` `Lambda` `Boto3` |
+| **[Self-Healing-Microservices-Cluster](https://github.com/h-vance/self-healing-microservices-cluster)** | K8s fault-injection & recovery (99.99% SLA). | `Kubernetes` `Go` `Istio` `Prometheus` `Grafana` |
+| **[AWS-Landing-Zone-Terraform](https://github.com/h-vance/aws-landing-zone-terraform)** | Modular and secure enterprise-grade AWS baseline with OIDC trust. | `Terraform` `AWS` `GHA` `OIDC` |
+| **[Cloud-Service-Baseline](https://github.com/h-vance/cloud-service-baseline)** | Observable service baseline for production-ready apps. | `AWS` `Prometheus` `Grafana` `OpenTelemetry` |
+| **[Cloud-Operations-Runbook](https://github.com/h-vance/cloud-operations-runbook)** | Standardized response protocols for high-availability systems. | `SRE` `Shell` `Automation` |
+| **[Incident-Postmortems](https://github.com/h-vance/incident-postmortems)** | High-fidelity RCA and prevention strategies. | `SRE` `Markdown` `Docs` |
 
 </div>
 
