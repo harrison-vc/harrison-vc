@@ -76,20 +76,36 @@
   <img src="https://img.shields.io/badge/%E2%96%88%20TECHNICAL%20INTELLIGENCE-SYNCED-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
 </div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-vance&theme=tokyonight" height="150">&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=h-vance&theme=tokyonight&hide_border=true" height="150">
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-vance&theme=tokyonight" height="150">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-metrics.svg" alt="Technical Metrics" width="900">
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-vance&theme=tokyonight" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com?user=h-vance&theme=tokyonight&hide_border=true" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-vance&theme=tokyonight" width="100%">
+    </td>
+    <td align="center" width="50%">
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h-vance&theme=tokyonight&utcOffset=7" width="100%">
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=h-vance&theme=tokyonight&margin-w=15&column=7&title=-Issues,-Reviews" width="900">
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=h-vance&theme=tokyonight&margin-w=15&column=7&title=-Issues,-Reviews" width="100%">
+</div>
+
+<details>
+  <summary align="center"><b><code>[ █ VIEW FULL TECHNICAL INTELLIGENCE REPORT ]</code></b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-metrics.svg" alt="Technical Metrics" width="100%">
+  </p>
+</details>
 
 ---
 
@@ -98,7 +114,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-contribution-grid-snake.svg" alt="contribution snake" width="900">
+  <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%">
 </p>
 
 ---
