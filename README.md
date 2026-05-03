@@ -73,11 +73,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-vance&theme=github_dark" width="400">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-vance&theme=github_dark&hide_border=true" width="400">
   <img src="https://streak-stats.demolab.com?user=h-vance&theme=github-dark&hide_border=true" width="400">
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-vance&theme=github_dark" width="400">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h-vance&theme=github_dark&utcOffset=7" width="400">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-vance&theme=github_dark&hide_border=true" width="400">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h-vance&theme=github_dark&utcOffset=7&hide_border=true" width="400">
 </div>
 
 <details>
