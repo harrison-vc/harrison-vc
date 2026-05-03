@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
- Cloud & DevOps Engineer | <em>Architecting secure, observable, and autonomous cloud ecosystems. Engineering precision at institutional scale.</em>
+  <em>Cloud & DevOps Engineer — Architecting secure, observable, and autonomous cloud ecosystems. Engineering precision at institutional scale.</em>
 </p>
 
 <br/>
@@ -26,6 +26,7 @@
   <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="28"></a>
   <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="28"></a>
   <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" height="28"></a>
+  <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="28"></a>
   <br/>
   <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="28"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"></a>
@@ -44,8 +45,8 @@
 
 <h2 align="center">Featured Technical Deep Dives</h2>
 <p align="center">
-  <a href="https://www.cncf.io/blog/2025/10/17/why-autonomous-infrastructure-is-the-future-from-intent-to-self-operating-systems/"><img src="https://img.shields.io/badge/Case_Study-Autonomous_AI_Infra_Orchestration-BB9AF7?style=for-the-badge&logo=dev.to&logoColor=white" height="40"></a>
-  <a href="https://quantsedge.ai""><img src="https://img.shields.io/badge/Case_Study-Sub--10ms_Latency_Engineering-2ac3de?style=for-the-badge&logo=hashnode&logoColor=white" height="40"></a>
+  <a href="https://github.com/harrison-vc/aws-bedrock-agent"><img src="https://img.shields.io/badge/Case_Study-Autonomous_AI_Infra_Orchestration-BB9AF7?style=for-the-badge&logo=dev.to&logoColor=white" height="40"></a>
+  <a href="https://quantsedge.ai"><img src="https://img.shields.io/badge/Case_Study-Sub--10ms_Latency_Engineering-2ac3de?style=for-the-badge&logo=hashnode&logoColor=white" height="40"></a>
 </p>
 
 <br/>
@@ -66,11 +67,11 @@
 
 | Project | Outcome | Stack |
 | :--- | :--- | :--- |
-| **[Algorithmic-Trading-App](https://github.com/harrison-vc/algorithmic-trading-app)** | Sub-10ms execution engine / risk parity. | `AWS` `GCP` `Terraform` `Python` `Typescript` `C++` `Redis` `Solidity` `Rust` |
-| **[AWS-Bedrock-Agent](https://github.com/harrison-vc/aws-bedrock-agent)** | Autonomous AI infra orchestration layer. | `AWS` `Bedrock` `Lambda` `Boto3` |
-| **[Self-Healing-Microservices](https://github.com/harrison-vc/self-healing-microservices)** | K8s fault-injection & recovery (99.99% SLA). | `K8s` `Go` `Istio` `Prometheus` |
-| **[Terraform-Landing-Zone](https://github.com/harrison-vc/terraform-landing-zone)** | Modular, secure enterprise AWS baseline with OIDC trust. | `Terraform` `AWS` `GHA` |
-| **[Incident-Postmortems](https://github.com/harrison-vc/incident-postmortems)** | High-fidelity RCA and prevention strategies. | `SRE` `Documentation` |
+| **[algorithmic-trading-app](https://github.com/harrison-vc/algorithmic-trading-app)** | Sub-10ms execution engine / risk parity. | `Python` `C++` `Redis` `AWS` |
+| **[aws-bedrock-agent](https://github.com/harrison-vc/aws-bedrock-agent)** | Autonomous AI infra orchestration layer. | `Bedrock` `Lambda` `Boto3` |
+| **[self-healing-microservices](https://github.com/harrison-vc/self-healing-microservices)** | K8s fault-injection & recovery (99.99% SLA). | `K8s` `Go` `Istio` `Prometheus` |
+| **[terraform-landing-zone](https://github.com/harrison-vc/terraform-landing-zone)** | Modular, secure enterprise AWS baseline with OIDC trust. | `Terraform` `AWS` `GHA` |
+| **[incident-postmortems](https://github.com/harrison-vc/incident-postmortems)** | High-fidelity RCA and prevention strategies. | `SRE` `Documentation` |
 
 </div>
 
