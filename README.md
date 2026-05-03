@@ -7,8 +7,8 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/VETERAN-10+_YEARS-00FF41?style=for-the-badge&labelColor=1a1b26&color=00FF41" alt="GitHub Veteran">&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=h-vance&color=00FF41&style=for-the-badge&label=TERMINAL_PULSE&labelColor=1a1b26" alt="Profile Views">
+  <img src="https://img.shields.io/badge/-%20VETERAN%2010+%20YEARS%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=h-vance&color=2ac3de&style=for-the-badge&label=PROFILE+VIEWS&labelColor=1a1b26" height="28">
 </div>
 
 <p align="center">
