@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/-%20ABOUT%20ME%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
 </div>
 
-- **Current focus:** **[algorithmic-trading-engine](https://github.com/h-vance/algorithmic-trading-engine)** and **[aws-bedrock-agent](https://github.com/h-vance/aws-bedrock-agent)**
+- **Current focus:** **[AWS-Landing-Zone-Terraform](https://github.com/h-vance/aws-landing-zone-terraform)** and **[AWS-Bedrock-AI-agent](https://github.com/h-vance/aws-bedrock-agent)**
 - **Learning:** **Advanced LLM Orchestration** and **Rust for Systems Engineering**
 - **Expertise:** **Cloud Native Architecture, SRE, and High-Frequency Trading Systems**
 - **Contact:** **harrison@harrisonvance.cc**
