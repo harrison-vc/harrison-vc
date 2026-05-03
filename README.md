@@ -3,88 +3,110 @@
 </p>
 
 ## Cloud & DevOps Engineer
-Building secure, automated infrastructure for distributed systems.
+Building secure, automated infrastructure for distributed systems
 
 ---
 
 ### About
 
-Cloud & DevOps Engineer focused on designing and operating reliable, scalable infrastructure across cloud-native environments.  
+Cloud & DevOps Engineer focused on designing and operating scalable, production-grade cloud infrastructure.
 
-I work primarily with Kubernetes, Terraform, and CI/CD systems to automate deployment workflows, enforce infrastructure consistency, and improve system resilience.  
+I work across Kubernetes, Terraform, and CI/CD pipelines to automate deployments, enforce infrastructure consistency, and improve system reliability.
 
-Experience spans regulated environments (HIPAA-compliant systems) and performance-sensitive workloads, including low-latency algorithmic trading infrastructure.
+Experience spans regulated environments (HIPAA-compliant systems) and performance-sensitive workloads, including low-latency trading infrastructure.
 
 ---
 
 ### Featured Systems
 
 #### [Algorithmic Trading Engine](https://github.com/h-vance/algorithmic-trading-engine)
-Low-latency trading infrastructure designed for high-frequency execution environments
+Low-latency execution infrastructure for high-frequency trading environments.
 
-- **Stack:** Google Cloud, Docker, Kubernetes, Terraform, Go, Solidity, WebSockets, Redis  
-- **Focus:** Real-time market data ingestion and execution pipeline.  
-- **Notable:** Designed around sub-10ms execution constraints with lightweight, event-driven architecture.  
+- Real-time market data ingestion and execution pipeline  
+- Designed for sub-10ms execution constraints  
+
+**Stack**
+
+![Go](https://img.shields.io/badge/Go-18181b?style=for-the-badge&logo=go&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-18181b?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-18181b?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-#### [AWS Bedrock AI Agent](https://github.com/h-vance/aws-bedrock-agent)
-Automation layer for managing cloud infrastructure workflows using AI-driven decision logic.
+#### [AWS Bedrock Agent](https://github.com/h-vance/aws-bedrock-agent)
+Automation layer for cloud infrastructure workflows using LLM-driven decision logic.
 
-- **Stack:** AWS (Lambda, Bedrock), Python, HCL  
-- **Focus:** Infrastructure task orchestration and automation  
-- **Notable:** Integrates LLM-based decision flow into cloud operations workflows  
+- Infrastructure orchestration and automation  
+- AI-assisted operational workflows  
+
+**Stack**
+
+![AWS](https://img.shields.io/badge/AWS-18181b?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-18181b?style=for-the-badge&logo=awslambda&logoColor=white)
 
 ---
 
 #### [Self-Healing Microservices Cluster](https://github.com/h-vance/self-healing-microservices-cluster)
-Kubernetes-based microservices environment with resilience and fault-recovery mechanisms
+Kubernetes-based microservices system with automated failure recovery.
 
-- **Stack:** Kubernetes, Terraform, Docker, Prometheus, Grafana  
-- **Focus:** Service reliability and failure recovery  
-- **Notable:** Implements health checks, restart policies, and fault-injection scenarios to simulate production failures  
+- Fault tolerance and service resilience design  
+- Chaos testing + automated recovery behavior  
+
+**Stack**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-18181b?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-18181b?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-18181b?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
 #### [AWS Landing Zone (Terraform)](https://github.com/h-vance/aws-landing-zone-terraform)
-Modular Enterprise AWS infrastructure baseline for multi-environment deployments.
+Modular AWS infrastructure foundation for multi-environment deployments.
 
-- **Stack:** Terraform (HCL), AWS  
-- **Focus:** Standardized infrastructure provisioning and governance  
-- **Notable:** Structured for scalable environments with IAM controls and reusable modules  
+- Multi-account infrastructure design  
+- IAM guardrails and reusable Terraform modules  
+
+**Stack**
+
+![Terraform](https://img.shields.io/badge/Terraform-18181b?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-18181b?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
 ### Core Skills
 
 **Cloud Platforms**  
-AWS, Google Cloud  
+![AWS](https://img.shields.io/badge/AWS-18181b?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-18181b?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 **Infrastructure as Code**  
-Terraform, Ansible, Helm  
+![Terraform](https://img.shields.io/badge/Terraform-18181b?style=for-the-badge&logo=terraform&logoColor=white)
 
 **Containers & Orchestration**  
-Docker, Kubernetes, Amazon EKS  
+![Docker](https://img.shields.io/badge/Docker-18181b?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-18181b?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 **CI/CD**  
-Jenkins, GitHub Actions  
+![Jenkins](https://img.shields.io/badge/Jenkins-18181b?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-18181b?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Observability**  
-Prometheus, Grafana. DataDog  
-
-**Security & Reliability**  
-IAM, secrets management, network policies, incident response  
+![Prometheus](https://img.shields.io/badge/Prometheus-18181b?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-18181b?style=for-the-badge&logo=grafana&logoColor=white)
 
 **Languages**  
-Go, Python, TypeScript  
+![Go](https://img.shields.io/badge/Go-18181b?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
 ### Current Focus
 
-- Building production-grade Kubernetes environments  
-- Improving CI/CD reliability and deployment safety  
-- Expanding into cloud security (IAM, least-privilege architecture)  
+- Production-grade Kubernetes architecture  
+- CI/CD reliability and rollback safety patterns  
+- Cloud security (IAM design, least privilege, audit logging)  
 
 ---
 
