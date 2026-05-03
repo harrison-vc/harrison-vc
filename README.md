@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <code>[ STATUS: ACTIVE ]</code> &nbsp;&nbsp; <code>[ LOCATION: USA/APAC|REMOTE ]</code> &nbsp;&nbsp; <code>[ SYNCED: 2026.05.03 ]</code>
+  <code>[ STATUS: ACTIVE ]</code> &nbsp;&nbsp; <code>[ LOCATION: USA/APAC | REMOTE ]</code> &nbsp;&nbsp; <code>[ SYNCED: 2026.05.03 ]</code>
 </p>
 
 <p align="center">
