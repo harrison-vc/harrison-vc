@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <em>Cloud & DevOps Engineer — Architecting secure, observable, and autonomous cloud ecosystems. Engineering precision at institutional scale.</em>
+  <em>Cloud & DevOps Engineer | Architecting secure, observable, and autonomous cloud ecosystems. Engineering precision at institutional scale.</em>
 </p>
 
 <br/>
@@ -44,7 +44,7 @@
 
 <h2 align="center">Featured Technical Deep Dives</h2>
 <p align="center">
-  <a href="https://github.com/harrison-vc/aws-bedrock-agent"><img src="https://img.shields.io/badge/Case_Study-Autonomous_AI_Infra_Orchestration-BB9AF7?style=for-the-badge&logo=dev.to&logoColor=white" height="40"></a>
+  <a href="https://www.cncf.io/blog/2025/10/17/why-autonomous-infrastructure-is-the-future-from-intent-to-self-operating-systems/"><img src="https://img.shields.io/badge/Case_Study-Autonomous_AI_Infra_Orchestration-BB9AF7?style=for-the-badge&logo=dev.to&logoColor=white" height="40"></a>
   <a href="https://quantsedge.ai""><img src="https://img.shields.io/badge/Case_Study-Sub--10ms_Latency_Engineering-2ac3de?style=for-the-badge&logo=hashnode&logoColor=white" height="40"></a>
 </p>
 
