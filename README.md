@@ -24,19 +24,15 @@
   <img src="https://img.shields.io/badge/%E2%96%88%20OPERATOR%20STATUS-ONLINE-2ac3de?style=for-the-badge&labelColor=24283b" height="28">
 </div>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="left">
-      <pre>
-[ █ CORE_KERNEL ] Harrison Vance // Operator_V3
-[ █ STATUS      ] High-Frequency Scaling // AWS-Bedrock-AI
-[ █ RESEARCH    ] Advanced LLM Orchestration // Rust Systems
-[ █ EXPERTISE   ] Cloud Native Architecture // Quant SRE
-[ █ FOOTPRINT   ] 10+ Year Verified Infrastructure Ledger
-      </pre>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <pre align="left">
+[ █ ENGINEER   ] Harrison Vance
+[ █ FOCUS      ] Distributed Systems // High-Performance APIs
+[ █ INFRA      ] AWS // Kubernetes // Terraform
+[ █ DOMAIN     ] Cloud Native Architecture // Site Reliability Engineering
+[ █ FOOTPRINT  ] 10+ Year Verified Infrastructure Ledger
+  </pre>
+</div>
 
 ---
 
@@ -44,38 +40,18 @@
   <img src="https://img.shields.io/badge/%E2%96%88%20ENGINEERING%20ARSENAL-ACTIVE-2ac3de?style=for-the-badge&labelColor=24283b" height="28">
 </div>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <code>[ █ CORE_ENGINE_01 ]</code><br/>
-      <b><a href="https://github.com/h-vance/algorithmic-trading-engine">Algo-Trading-Engine</a></b><br/>
-      <code>{ TYPE: "QUANT_HFT", LOAD: "CRITICAL", LATENCY: "<10ms" }</code>
-    </td>
-    <td width="50%" valign="top">
-      <code>[ █ CORE_ENGINE_02 ]</code><br/>
-      <b><a href="https://github.com/h-vance/aws-bedrock-agent">AWS-Bedrock-AI</a></b><br/>
-      <code>{ TYPE: "LLM_ORCH", STATUS: "AUTONOMOUS", AUTH: "V3" }</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <code>[ █ INFRA_MODULE_01 ]</code><br/>
-      <b><a href="https://github.com/h-vance/self-healing-microservices-cluster">Microservices-Cluster</a></b><br/>
-      <code>{ TYPE: "SRE_CLUSTER", UPTIME: "99.9%", RECOVERY: "AUTO" }</code>
-    </td>
-    <td width="50%" valign="top">
-      <code>[ █ INFRA_MODULE_02 ]</code><br/>
-      <b><a href="https://github.com/h-vance/aws-landing-zone-terraform">AWS-Landing-Zone</a></b><br/>
-      <code>{ TYPE: "IAC_BASE", PROVIDER: "AWS", ENGINE: "TF" }</code>
-    </td>
-  </tr>
-</table>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <div align="left">
+  <b><a href="https://github.com/h-vance/algorithmic-trading-engine">Algo-Trading-Engine</a></b><br/>
+  <small>Quantitative trading infrastructure designed for low-latency execution.</small><br/><br/>
+  <b><a href="https://github.com/h-vance/aws-bedrock-agent">AWS-Bedrock-Agent</a></b><br/>
+  <small>Cloud-native event orchestration and distributed task execution.</small><br/><br/>
+  <b><a href="https://github.com/h-vance/self-healing-microservices-cluster">Microservices-Cluster</a></b><br/>
+  <small>Self-healing Kubernetes architecture with automated recovery.</small><br/><br/>
+  <b><a href="https://github.com/h-vance/aws-landing-zone-terraform">AWS-Landing-Zone</a></b><br/>
+  <small>Infrastructure as code base implemented via Terraform.</small>
+</div>
+</div>
 
 ---
 
@@ -100,13 +76,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-vance&theme=tokyonight">
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=h-vance&theme=tokyonight&hide_border=true">
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-vance&theme=tokyonight">
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h-vance&theme=tokyonight&utcOffset=7">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-vance&theme=tokyonight" width="400">
+  <img src="https://streak-stats.demolab.com?user=h-vance&theme=tokyonight&hide_border=true" width="400">
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-vance&theme=tokyonight" width="400">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h-vance&theme=tokyonight&utcOffset=7" width="400">
 </div>
 
 <details>
