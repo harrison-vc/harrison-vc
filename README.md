@@ -3,7 +3,7 @@
 </p>
 
 ## Cloud & DevOps Engineer
-Building secure, automated infrastructure for distributed systems
+Building secure, automated infrastructure for distributed systems.
 
 ---
 
@@ -13,7 +13,7 @@ Cloud & DevOps Engineer focused on designing and operating scalable, production-
 
 I work across Kubernetes, Terraform, and CI/CD pipelines to automate deployments, enforce infrastructure consistency, and improve system reliability.
 
-Experience spans regulated environments (HIPAA-compliant systems) and performance-sensitive workloads, including low-latency trading infrastructure.
+Experience spans heavily regulated environments (HIPAA-compliant systems) and performance-sensitive workloads, including low-latency algorithmic trading infrastructure.
 
 ---
 
@@ -30,6 +30,9 @@ Low-latency execution infrastructure for high-frequency trading environments.
 ![Go](https://img.shields.io/badge/Go-18181b?style=for-the-badge&logo=go&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-18181b?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-18181b?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-18181b?style=for-the-badge&logo=terraform&logoColor=white)
+
 
 ---
 
