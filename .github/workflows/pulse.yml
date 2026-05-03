@@ -1,0 +1,15 @@
+name: View Pulse
+on:
+  schedule:
+    - cron: "*/15 * * * *" # Every 15 minutes
+  workflow_dispatch: # Allows manual trigger
+jobs:
+  pulse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Stealth Pulse
+        run: |
+          curl -v -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" \
+          -H "Referer: https://github.com/harrison-vc" \
+          -H "Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" \
+          "https://komarev.com/ghpvc/?username=harrison-vc&color=2ac3de&style=for-the-badge&label=PROFILE+VIEWS"

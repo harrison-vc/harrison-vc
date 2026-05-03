@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=42&pause=1500&color=00FF41&center=true&vCenter=true&width=800&lines=harrison@vc:~$+whoami;Harrison+Vance;Cloud+%26+DevOps+Engineer;harrison@vc:~$+tail+focus;Infrastructure+Security+%7C+SRE" alt="Harrison Vance">
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=38&pause=1000&color=f7768e&center=true&vCenter=true&width=800&lines=Harrison+Vance;Cloud+%26+DevOps+Engineering;Infrastructure+Security+%7C+SRE" alt="Harrison Vance">
 </p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub_Veteran-10+_Years-6E5494?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Veteran">&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=harrison-vc&color=2ac3de&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=harrison-vc&color=7dcfff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 </div>
 
 <p align="center">
-  Cloud & DevOps Engineer | <em>Architecting secure, observable, and autonomous cloud ecosystems. Engineering precision at institutional scale.</em>
+  <em>Architecting secure, observable, and autonomous cloud ecosystems. Engineering precision at institutional scale.</em>
 </p>
 
 <br/>
@@ -39,6 +39,7 @@
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28"></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="28"></a>
 </p>
+
 <br/>
 
 <h2 align="center">Featured Technical Deep Dives</h2>
@@ -46,7 +47,6 @@
   <a href="https://github.com/harrison-vc/aws-bedrock-agent"><img src="https://img.shields.io/badge/Case_Study-Autonomous_AI_Infra_Orchestration-BB9AF7?style=for-the-badge&logo=dev.to&logoColor=white" height="40"></a>
   <a href="https://github.com/harrison-vc/algorithmic-trading-app"><img src="https://img.shields.io/badge/Case_Study-Sub--10ms_Latency_Engineering-2ac3de?style=for-the-badge&logo=hashnode&logoColor=white" height="40"></a>
 </p>
-
 
 <br/>
 
@@ -69,7 +69,7 @@
 | **[algorithmic-trading-app](https://github.com/harrison-vc/algorithmic-trading-app)** | Sub-10ms execution engine / risk parity. | `Python` `C++` `Redis` `AWS` |
 | **[aws-bedrock-agent](https://github.com/harrison-vc/aws-bedrock-agent)** | Autonomous AI infra orchestration layer. | `Bedrock` `Lambda` `Boto3` |
 | **[self-healing-microservices](https://github.com/harrison-vc/self-healing-microservices)** | K8s fault-injection & recovery (99.99% SLA). | `K8s` `Go` `Istio` `Prometheus` |
-| **[terraform-landing-zone](https://github.com/harrison-vc/terraform-landing-zone)** | Secure modular AWS baseline via OIDC. | `Terraform` `AWS` `GHA` |
+| **[terraform-landing-zone](https://github.com/harrison-vc/terraform-landing-zone)** | Modular, secure enterprise AWS baseline with OIDC trust. | `Terraform` `AWS` `GHA` |
 | **[incident-postmortems](https://github.com/harrison-vc/incident-postmortems)** | High-fidelity RCA and prevention strategies. | `SRE` `Documentation` |
 
 </div>
