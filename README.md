@@ -39,6 +39,14 @@
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28"></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="28"></a>
 </p>
+<br/>
+
+<h2 align="center">Featured Technical Deep Dives</h2>
+<p align="center">
+  <a href="https://harrisonvance.cc/blog/aws-bedrock-agent-orchestration"><img src="https://img.shields.io/badge/Article-Autonomous_AI_Infra_Orchestration-BB9AF7?style=for-the-badge&logo=dev.to&logoColor=white" height="40"></a>
+  <a href="https://harrisonvance.cc/blog/low-latency-trading-engine"><img src="https://img.shields.io/badge/Article-Sub--10ms_Latency_Engineering-2ac3de?style=for-the-badge&logo=hashnode&logoColor=white" height="40"></a>
+</p>
+
 
 <br/>
 
