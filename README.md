@@ -76,9 +76,9 @@
 
 | Project | Outcome | Stack |
 | :--- | :--- | :--- |
-| **[Algorithmic-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)** | Sub-10ms execution engine / risk parity. | `Python` `C++` `Redis` `AWS` |
-| **[AWS-Bedrock-AI-Agent](https://github.com/h-vance/aws-bedrock-agent)** | Autonomous AI infra orchestration layer. | `Bedrock` `Lambda` `Boto3` |
-| **[Self-Healing-Microservices-Cluster](https://github.com/h-vance/self-healing-microservices-cluster)** | K8s fault-injection & recovery (99.99% SLA). | `Kubernetes` `Go` `Istio` `Prometheus` |
+| **[Algorithmic-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)** | Sub-10ms execution engine / risk parity. | `Python` `Typescript` `Terraform` `AWS` `GCP` `C++` `Redis` |
+| **[AWS-Bedrock-AI-Agent](https://github.com/h-vance/aws-bedrock-agent)** | Autonomous AI infra orchestration layer. | `AWS` `Bedrock` `Lambda` `Boto3` |
+| **[Self-Healing-Microservices-Cluster](https://github.com/h-vance/self-healing-microservices-cluster)** | K8s fault-injection & recovery (99.99% SLA). | `Kubernetes` `Go` `Istio` `Prometheus` `Grafana` |
 | **[AWS-Landing-Zone-Terraform](https://github.com/h-vance/aws-landing-zone-terraform)** | Modular and secure enterprise-grade AWS baseline. | `Terraform` `AWS` `GHA` `OIDC` |
 | **[Incident-Postmortems](https://github.com/h-vance/incident-postmortems)** | High-fidelity RCA and prevention strategies. | `SRE` `Markdown` `Docs` |
 
