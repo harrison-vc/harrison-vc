@@ -39,32 +39,32 @@
 <br/>
 
 <p align="center">
-  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28"></a>
-  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="28"></a>
-  <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" height="28"></a>
-  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="28"></a>
-  <a href="https://argoproj.github.io/cd/"><img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" height="28"></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28"></a>
-  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="28"></a>
-  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="28"></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"></a>
-  <a href="https://soliditylang.org/"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" height="28"></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28"></a>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="28">
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-1a1b26?style=for-the-badge&logo=amazon-aws&logoColor=2ac3de" height="28"></a>
+  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GCP-1a1b26?style=for-the-badge&logo=google-cloud&logoColor=2ac3de" height="28"></a>
+  <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-1a1b26?style=for-the-badge&logo=terraform&logoColor=2ac3de" height="28"></a>
+  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-1a1b26?style=for-the-badge&logo=kubernetes&logoColor=2ac3de" height="28"></a>
+  <a href="https://argoproj.github.io/cd/"><img src="https://img.shields.io/badge/ArgoCD-1a1b26?style=for-the-badge&logo=argo&logoColor=2ac3de" height="28"></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=2ac3de" height="28"></a>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-1a1b26?style=for-the-badge&logo=github-actions&logoColor=2ac3de" height="28"></a>
+  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-1a1b26?style=for-the-badge&logo=go&logoColor=2ac3de" height="28"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=2ac3de" height="28"></a>
+  <a href="https://soliditylang.org/"><img src="https://img.shields.io/badge/Solidity-1a1b26?style=for-the-badge&logo=solidity&logoColor=2ac3de" height="28"></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-1a1b26?style=for-the-badge&logo=fastapi&logoColor=2ac3de" height="28"></a>
+  <img src="https://img.shields.io/badge/TypeScript-1a1b26?style=for-the-badge&logo=typescript&logoColor=2ac3de" height="28">
   <br/>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="28"></a>
-  <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28"></a>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="28">
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=2ac3de" height="28"></a>
+  <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-1a1b26?style=for-the-badge&logo=redis&logoColor=2ac3de" height="28"></a>
+  <img src="https://img.shields.io/badge/SQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=2ac3de" height="28">
+  <img src="https://img.shields.io/badge/NoSQL-1a1b26?style=for-the-badge&logo=mongodb&logoColor=2ac3de" height="28">
   <br/>
-  <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="28"></a>
-  <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="28"></a>
-  <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="28"></a>
-  <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" height="28"></a>
+  <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-1a1b26?style=for-the-badge&logo=prometheus&logoColor=2ac3de" height="28"></a>
+  <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-1a1b26?style=for-the-badge&logo=grafana&logoColor=2ac3de" height="28"></a>
+  <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-1a1b26?style=for-the-badge&logo=jenkins&logoColor=2ac3de" height="28"></a>
+  <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-1a1b26?style=for-the-badge&logo=ansible&logoColor=2ac3de" height="28"></a>
   <br/>
-  <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="28"></a>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="28">
+  <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-1a1b26?style=for-the-badge&logo=n8n&logoColor=2ac3de" height="28"></a>
+  <img src="https://img.shields.io/badge/Linux-1a1b26?style=for-the-badge&logo=linux&logoColor=2ac3de" height="28">
+  <img src="https://img.shields.io/badge/Bash-1a1b26?style=for-the-badge&logo=gnu-bash&logoColor=2ac3de" height="28">
 </p>
 
 <br/><br/>
@@ -111,13 +111,14 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-vance&theme=tokyonight" height="190">&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=h-vance&theme=tokyonight&hide_border=true" height="190">
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-vance&theme=tokyonight" height="180">
-</p>
+<div align="center">
+
+| | |
+| :--- | :--- |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-vance&theme=tokyonight" height="190"> <br/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-vance&theme=tokyonight" height="180"> | <img src="https://streak-stats.demolab.com?user=h-vance&theme=tokyonight&hide_border=true" height="380"> |
+
+</div>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-metrics.svg" alt="Technical Metrics" width="100%">
 </p>
