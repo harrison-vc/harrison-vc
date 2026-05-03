@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <code>[ █ OPERATOR: HARRISON VANCE ]</code> &nbsp;&nbsp; <code>[ █ MISSION: CLOUD NATIVE EXCELLENCE ]</code> &nbsp;&nbsp; <code>[ █ UPDATED: 2026.05.03 ]</code>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="28">
 </p>
 <p align="center">
@@ -16,20 +20,17 @@
 </p>
 
 ---
-
-
-
 <div align="center">
-  <img src="https://img.shields.io/badge/-%20ABOUT%20ME%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+  <img src="https://img.shields.io/badge/%E2%96%88%20OPERATOR%20STATUS-ONLINE-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
 </div>
 
 <table align="center">
   <tr>
     <td align="left">
-      &nbsp;&nbsp;<b>Currently:</b> Scaling <b><a href="https://github.com/h-vance/algorithmic-trading-engine">Algo-Trading-Engine</a></b> & <b><a href="https://github.com/h-vance/aws-bedrock-agent">AWS-Bedrock-Agent</a></b><br/>
-      &nbsp;&nbsp;<b>Learning:</b> <b>Advanced LLM Orchestration</b> & <b>Systems Engineering in Rust</b><br/>
-      &nbsp;&nbsp;<b>Expertise:</b> <b>Cloud Native Architecture</b>, <b>High-Frequency Trading</b>, & <b>SRE</b><br/>
-      &nbsp;&nbsp;<b>Note:</b> <b>Restored 10+ year contribution history to this legacy account.</b>
+      &nbsp;&nbsp;<code>[ STATUS    ]</code> Scaling <b><a href="https://github.com/h-vance/algorithmic-trading-engine">Algo-Trading-Engine</a></b> & <b><a href="https://github.com/h-vance/aws-bedrock-agent">AWS-Bedrock-Agent</a></b><br/>
+      &nbsp;&nbsp;<code>[ RESEARCH  ]</code> <b>Advanced LLM Orchestration</b> & <b>Systems Engineering in Rust</b><br/>
+      &nbsp;&nbsp;<code>[ EXPERTISE ]</code> <b>Cloud Native Architecture</b>, <b>High-Frequency Trading</b>, & <b>SRE</b><br/>
+      &nbsp;&nbsp;<code>[ FOOTPRINT ]</code> <b>Restored 10+ year contribution history to this legacy account.</b>
     </td>
   </tr>
 </table>
@@ -37,7 +38,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-%20ENGINEERING%20PORTFOLIO%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+  <img src="https://img.shields.io/badge/%E2%96%88%20ENGINEERING%20ARSENAL-ACTIVE-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
 </div>
 
 <div align="center">
@@ -55,7 +56,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-%20INSTITUTIONAL%20ACCOLADES%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+  <img src="https://img.shields.io/badge/%E2%96%88%20INSTITUTIONAL%20ACCOLADES-VERIFIED-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
 </div>
 
 <p align="center">
@@ -70,7 +71,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-%20TECHNICAL%20METRICS%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+  <img src="https://img.shields.io/badge/%E2%96%88%20TECHNICAL%20INTELLIGENCE-SYNCED-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
 </div>
 
 <p align="center">
@@ -91,7 +92,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-%20CONTRIBUTION%20VELOCITY%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
+  <img src="https://img.shields.io/badge/%E2%96%88%20CONTRIBUTION%20VELOCITY-NOMINAL-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
 </div>
 
 <p align="center">
@@ -101,7 +102,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-%20FEATURED%20CASE%20STUDIES%20-1a1b26?style=for-the-badge&labelColor=bb9af7" height="28">
+  <img src="https://img.shields.io/badge/%E2%96%88%20FEATURED%20CASE%20STUDIES-PRIORITY-1a1b26?style=for-the-badge&labelColor=bb9af7" height="28">
 </div>
 
 <p align="center">
