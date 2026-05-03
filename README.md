@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=42&pause=1500&color=00FF41&center=true&vCenter=true&width=950&lines=harrison@vc:~$+whoami;Harrison+Vance;harrison@vc:~$+cat+stack;Cloud+%26+DevOps+Engineering;harrison@vc:~$+tail+focus;Infrastructure+Security+%7C+SRE" alt="Harrison Vance">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=42&pause=1500&color=00FF41&center=true&vCenter=true&width=950&lines=h-vance:~$+whoami;Harrison+Vance;h-vance:~$+cat+stack;Cloud+%26+DevOps+Engineering;h-vance:~$+tail+focus;Infrastructure+Security+%7C+SRE" alt="Harrison Vance">
 </p>
 
 <div align="center">
@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <b>Cloud & DevOps Engineer</b> | Architecting secure, observable, and autonomous cloud ecosystems since 2016. Engineering precision at institutional scale.</em>
+  <em>Cloud & DevOps Engineer — Architecting secure, observable, and autonomous cloud ecosystems since 2016. Engineering precision at institutional scale.</em>
 </p>
 
 ---
@@ -21,10 +21,11 @@
   <img src="https://img.shields.io/badge/-%20ABOUT%20ME%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
 </div>
 
-- **Current focus:** **[Enterprise-AWS-Landing-Zone-Terraform](https://github.com/h-vance/aws-landing-zone-terraform)** and **[AWS-Bedrock-AI-agent](https://github.com/h-vance/aws-bedrock-agent)**
-- **Learning:** **Advanced LLM Orchestration** 
-- **Expertise:** **Cloud Native Architecture, DevOps, and High-Frequency Trading Systems**
-- **Contact:** **hvance788@gmail.com**
+- **Current focus:** **[algorithmic-trading-engine](https://github.com/h-vance/algorithmic-trading-engine)** and **[aws-bedrock-agent](https://github.com/h-vance/aws-bedrock-agent)**
+- **Learning:** **Advanced LLM Orchestration** and **Rust for Systems Engineering**
+- **Expertise:** **Cloud Native Architecture, SRE, and High-Frequency Trading Systems**
+- **Contact:** **harrison@harrisonvance.cc**
+- **Note:** **I have a 10+ year contribution history that I recently restored to this aged account.**
 
 <p align="left">
   <a href="https://linkedin.com/in/harrison-vance"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -34,7 +35,11 @@
 
 ---
 
+<div align="center">
+  <img src="https://img.shields.io/badge/-%20TECHNICAL%20ECOSYSTEM%20-1a1b26?style=for-the-badge&labelColor=2ac3de" height="28">
 </div>
+
+### Cloud & Infrastructure
 
 <p align="center">
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28"></a>
@@ -43,13 +48,21 @@
   <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="28"></a>
   <a href="https://argoproj.github.io/cd/"><img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" height="28"></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28"></a>
+</p>
+
+### DevOps & Automation
+
 <p align="center">
   <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="28"></a>
   <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="28"></a>
   <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" height="28"></a>
   <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="28"></a>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28"></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="28"></a>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="28">
+</p>
+
+### Languages & Databases
+
 <p align="center">
   <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="28"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"></a>
@@ -57,6 +70,10 @@
   <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28"></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="28"></a>
   <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28"></a>
+</p>
+
+### Metrics & Observability
+
 <p align="center">
   <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="28"></a>
   <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="28"></a>
@@ -72,12 +89,10 @@
 
 | Project | Outcome | Stack |
 | :--- | :--- | :--- |
-| **[Algorithmic-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)** | Sub-10ms execution engine / risk parity. | `Python` `Typescript` `AWS` `GCP` `Terraform` `React` `C++` `Redis` |
-| **[AWS-Bedrock-AI-Agent](https://github.com/h-vance/aws-bedrock-agent)** | Autonomous AI infra orchestration layer. | `AWS` `Bedrock` `Lambda` `Boto3` |
-| **[Self-Healing-Microservices-Cluster](https://github.com/h-vance/self-healing-microservices-cluster)** | K8s fault-injection & recovery (99.99% SLA). | `Kubernetes` `Go` `Istio` `Prometheus` `Grafana` |
+| **[Algorithmic-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)** | Sub-10ms execution engine / risk parity. | `Python` `C++` `Redis` `AWS` |
+| **[AWS-Bedrock-AI-Agent](https://github.com/h-vance/aws-bedrock-agent)** | Autonomous AI infra orchestration layer. | `Bedrock` `Lambda` `Boto3` |
+| **[Self-Healing-Microservices-Cluster](https://github.com/h-vance/self-healing-microservices-cluster)** | K8s fault-injection & recovery (99.99% SLA). | `Kubernetes` `Go` `Istio` `Prometheus` |
 | **[AWS-Landing-Zone-Terraform](https://github.com/h-vance/aws-landing-zone-terraform)** | Modular and secure enterprise-grade AWS baseline. | `Terraform` `AWS` `GHA` `OIDC` |
-| **[Cloud-Service-Baseline](https://github.com/h-vance/cloud-service-baseline)** | Observable service baseline for production-ready apps. | `AWS` `Prometheus` `Grafana` `OpenTelemetry` |
-| **[Cloud-Operations-Runbook](https://github.com/h-vance/cloud-operations-runbook)** | Standardized response protocols for high-availability systems. | `SRE` `Shell` `Automation` |
 | **[Incident-Postmortems](https://github.com/h-vance/incident-postmortems)** | High-fidelity RCA and prevention strategies. | `SRE` `Markdown` `Docs` |
 
 </div>
@@ -89,7 +104,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/CNCF-Cloud_Native_Ambassador-326CE5?style=for-the-badge&logo=cloud-native-computing-foundation&logoColor=white" height="28">
   <br/>
   <img src="https://img.shields.io/badge/Top_100_Global_SRE-Engineering_Excellence-4EAA25?style=for-the-badge&logo=google-cloud&logoColor=white" height="28">
