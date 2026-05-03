@@ -31,8 +31,10 @@ Low-latency execution infrastructure for high-frequency trading environments.
 ![Redis](https://img.shields.io/badge/Redis-18181b?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-18181b?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-18181b?style=for-the-badge&logo=rust&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-18181b?style=for-the-badge&logo=terraform&logoColor=white)
-
+![GCP](https://img.shields.io/badge/GCP-18181b?style=for-the-badge&logo=gcp&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-18181b?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
