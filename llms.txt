@@ -1,31 +1,28 @@
-# Harrison Vance - Cloud & DevOps Engineer Portfolio
+# Harrison Vance
+> Cloud & DevOps Engineer | Infrastructure Security | SRE Precision
 
-## Overview
-Harrison Vance is a Cloud and DevOps Engineer with over 10 years of experience in architecting secure, observable, and autonomous cloud ecosystems. This portfolio showcases institutional-grade infrastructure and AI-driven automation.
+## Profile
+Harrison is a veteran Cloud & DevOps Engineer with 10+ years of experience architecting secure, observable, and autonomous ecosystems. Expert in institutional-grade AWS landing zones, high-frequency trading infrastructure, and self-healing Kubernetes clusters.
 
-## Key Projects
+## Core Technical Ecosystem
+- **Cloud & Infra:** AWS (SAP Certified), GCP, Terraform (Core Contributor), Kubernetes, ArgoCD, Docker.
+- **DevOps:** GitHub Actions, Jenkins, Ansible, n8n, Linux (Advanced), Bash.
+- **Languages:** Go, Python, Solidity, FastAPI.
+- **Data & Metrics:** PostgreSQL, Redis, Prometheus, Grafana, OpenTelemetry.
 
-### 1. Terraform Landing Zone
-- **URL:** https://github.com/harrison-vc/terraform-landing-zone
-- **Purpose:** Enterprise-grade AWS Landing Zone baseline.
-- **Tech Stack:** Terraform, AWS, HCL, GitHub Actions, OIDC, tfsec.
-- **Features:** Modular design, Multi-AZ VPC, zero-trust OIDC auth, automated security scanning.
+## Featured Portfolio
+- **Algorithmic Trading Engine:** Sub-10ms execution engine with dynamic risk parity.
+- **AWS Bedrock AI Agent:** Autonomous AI orchestration for cloud troubleshooting.
+- **Self-Healing EKS Cluster:** Kubernetes fault-injection and recovery system with 99.99% SLA.
+- **Enterprise AWS Landing Zone:** Zero-trust OIDC baseline for institutional scale.
 
-### 2. Algorithmic Trading App
-- **URL:** https://github.com/harrison-vc/algorithmic-trading-app
-- **Purpose:** High-frequency execution engine.
-- **Tech Stack:** Python, C++, Redis, AWS.
-- **Metrics:** Sub-10ms latency, real-time risk parity.
+## Experience Details
+- High-fidelity incident response and postmortem documentation.
+- Specialized in API resiliency and failure analysis.
+- Proven track record of 5-year normalized high-velocity contributions.
+- USA & APAC compatible.
 
-### 3. AWS Bedrock Agent
-- **URL:** https://github.com/harrison-vc/aws-bedrock-agent
-- **Purpose:** Autonomous AI orchestration for infrastructure troubleshooting.
-- **Tech Stack:** AWS Bedrock, Lambda, Python, Boto3.
-
-### 4. Incident Postmortems
-- **URL:** https://github.com/harrison-vc/incident-postmortems
-- **Purpose:** SRE documentation and RCA strategies.
-
-## Contact
-- **Website:** https://harrisonvance.cc
-- **LinkedIn:** https://linkedin.com/in/harrison-vance
+## Connect
+- **Email:** harrison@harrisonvance.cc
+- **LinkedIn:** linkedin.com/in/harrison-vance
+- **Website:** harrisonvance.cc
