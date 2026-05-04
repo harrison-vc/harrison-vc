@@ -14,12 +14,12 @@
 
 ### ✦ DEPLOYED SYSTEMS
 
-**[Algo-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)**  
+**[Algorithmic-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)**  
 Quantitative execution infrastructure optimized for sub-10ms latency on Hyperliquid.  
 `Go` `Rust` `Python` `Redis` `Terraform` `Kubernetes`
 
-**[AWS-Bedrock-Agent](https://github.com/h-vance/aws-bedrock-agent)**  
-Autonomous AI orchestration layer for automated cloud infrastructure management.  
+**[AWS-Bedrock-AI-Agent](https://github.com/h-vance/aws-bedrock-agent)**  
+Autonomous AI Agent orchestration layer for automated cloud infrastructure management.  
 `AWS` `Lambda` `Python` `Bedrock`
 
 **[Microservices-Cluster](https://github.com/h-vance/self-healing-microservices-cluster)**  
