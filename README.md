@@ -2,6 +2,19 @@
   <img src="./header.svg?t=1714772900" width="100%" />
 </p>
 
+<p align="left">
+  <img src="https://custom-icon-badges.demolab.com/badge/GitHub_Veteran-10+_Years-18181b.svg?logo=github&logoColor=white">
+  <img src="https://komarev.com/ghpvc/?username=h-vance&color=18181b&style=flat&label=PROFILE+VIEWS&labelColor=18181b">
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/harrison-vance"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-18181b.svg?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:hvance788@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-18181b.svg?logo=mail&logoColor=white"></a>
+  <a href="https://harrisonvance.cc"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-18181b.svg?logo=globe&logoColor=white"></a>
+</p>
+
+<p align="left">
+  <code>[ STATUS: ACTIVE ]</code> &nbsp;&nbsp; <code>[ LOCATION: USA/APAC | REMOTE ]</code>
+</p>
+
 ### ✦ DEPLOYED SYSTEMS
 
 **[Algo-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)**  
