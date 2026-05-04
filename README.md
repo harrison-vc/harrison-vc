@@ -6,6 +6,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/GitHub_Veteran-Since_2016-18181b.svg?logo=github&logoColor=white">
   <img src="https://custom-icon-badges.demolab.com/badge/Location-USA/APAC%20|%20REMOTE-18181b.svg?logo=location&logoColor=white">
   &nbsp;&nbsp;
+  <p align="right">
   <a href="https://linkedin.com/in/harrison-vance"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-18181b.svg?logo=linkedin&logoColor=white"></a>
   <a href="mailto:hvance788@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-18181b.svg?logo=mail&logoColor=white"></a>
   <a href="https://harrisonvance.cc"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-18181b.svg?logo=globe&logoColor=white"></a>
