@@ -46,7 +46,7 @@ Automation layer for cloud infrastructure workflows using LLM-driven decision lo
 
 **Stack**
 
-![AWS](https://img.shields.io/badge/AWS-18181b?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 ![Python](https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-18181b?style=for-the-badge&logo=awslambda&logoColor=white)
 
