@@ -96,5 +96,7 @@ Enterprise governance baseline implemented via modular HCL and security auditing
 ---
 
 <p align="left">
-  <a href="https://linkedin.com/in/harrison-vance">LinkedIn</a> // <a href="mailto:hvance788@gmail.com">Email</a> // <a href="https://harrisonvance.cc">Website</a>
+  <a href="https://linkedin.com/in/harrison-vance"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-18181b.svg?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:hvance788@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-18181b.svg?logo=mail&logoColor=white"></a>
+  <a href="https://harrisonvance.cc"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-18181b.svg?logo=globe&logoColor=white"></a>
 </p>
