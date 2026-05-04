@@ -34,13 +34,7 @@
   <g transform="translate(100, 150)">
     <text x="0" y="0" class="name">HARRISON</text>
     <text x="500" y="0" class="name">VANCE</text>
-    <text x="4" y="45" class="label">INFRASTRUCTURE ARCHITECT</text>
-  </g>
-
-  <!-- Living Status Marker -->
-  <g transform="translate(100, 220)">
-    <rect width="8" height="2" fill="#10b981" class="status-marker"/>
-    <text x="16" y="4" class="code" fill="#71717a">SYSTEM_CORE: OPERATIONAL</text>
+    <text x="4" y="45" class="label">CLOUD INFRASTRUCTURE</text>
   </g>
 
   <!-- Right Aligned Identity Stamp -->
