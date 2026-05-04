@@ -12,6 +12,7 @@
   <a href="https://harrisonvance.cc"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-18181b.svg?logo=globe&logoColor=white"></a>
 </p>
 
+<p align="center">
 ### ✦ DEPLOYED SYSTEMS
 
 **[Algorithmic-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)**  
@@ -29,7 +30,7 @@ Self-healing Kubernetes architecture with automated fault-injection and zero-dow
 **[AWS-Landing-Zone](https://github.com/h-vance/aws-landing-zone-terraform)**  
 Enterprise governance baseline implemented via modular HCL and security auditing.  
 `Terraform` `AWS` `OIDC` `GHA`
-
+</p>
 ---
 
 ### ✦ TECHNICAL ARSENAL
