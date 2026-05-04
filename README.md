@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/GitHub_Veteran-Since_2016-18181b.svg?logo=github&logoColor=white">
-  <img src="https://komarev.com/ghpvc/?username=h-vance&color=18181b&style=flat&label=PROFILE+VIEWS&labelColor=18181b">
   <img src="https://custom-icon-badges.demolab.com/badge/Location-USA/APAC%20|%20REMOTE-18181b.svg?logo=location&logoColor=white">
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/harrison-vance"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-18181b.svg?logo=linkedin&logoColor=white"></a>
