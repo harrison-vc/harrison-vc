@@ -12,7 +12,7 @@
   <a href="https://harrisonvance.cc"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-18181b.svg?logo=globe&logoColor=white"></a>
 </p>
 
-### // DEPLOYED SYSTEMS
+### ✦ DEPLOYED SYSTEMS
 
 **[Algo-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)**  
 Quantitative execution infrastructure optimized for sub-10ms latency on Hyperliquid.  
@@ -32,7 +32,7 @@ Enterprise governance baseline implemented via modular HCL and security auditing
 
 ---
 
-### // TECHNICAL ARSENAL
+### ✦ TECHNICAL ARSENAL
 
 <div align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-18181b.svg?logo=aws&logoColor=white&t=19">
@@ -68,7 +68,7 @@ Enterprise governance baseline implemented via modular HCL and security auditing
 
 ---
 
-### // ACCOLADES
+### ✦ ACCOLADES
 
 <div align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/AWS_Solutions_Architect_Pro-18181b.svg?logo=aws&logoColor=white&t=19">
@@ -79,7 +79,7 @@ Enterprise governance baseline implemented via modular HCL and security auditing
 
 ---
 
-### // VERIFICATION
+### ✦ VERIFICATION
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=h-vance&theme=github-dark&margin-w=15&column=7&title=-Issues,-Reviews&t=19" width="100%">
