@@ -25,35 +25,35 @@ Enterprise governance baseline implemented via modular HCL and security auditing
 ### // TECHNICAL ARSENAL
 
 <p align="left">
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS-18181b.svg?logo=aws&logoColor=white&t=16">
-  <img src="https://custom-icon-badges.demolab.com/badge/Google_Cloud-18181b.svg?logo=google-cloud&logoColor=white&t=16">
-  <img src="https://custom-icon-badges.demolab.com/badge/Kubernetes-18181b.svg?logo=kubernetes&logoColor=white&t=16">
-  <img src="https://custom-icon-badges.demolab.com/badge/Terraform-18181b.svg?logo=terraform&logoColor=white&t=16">
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS_Lambda-18181b.svg?logo=aws-lambda&logoColor=white&t=16">
-  <img src="https://custom-icon-badges.demolab.com/badge/Docker-18181b.svg?logo=docker&logoColor=white&t=16">
-  <img src="https://custom-icon-badges.demolab.com/badge/Jenkins-18181b.svg?logo=jenkins&logoColor=white&t=16">
-  <img src="https://custom-icon-badges.demolab.com/badge/GitHub_Actions-18181b.svg?logo=github-actions&logoColor=white&t=16">
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-18181b.svg?logo=aws&logoColor=white&t=17">
+  <img src="https://custom-icon-badges.demolab.com/badge/Google_Cloud-18181b.svg?logo=google-cloud&logoColor=white&t=17">
+  <img src="https://custom-icon-badges.demolab.com/badge/Kubernetes-18181b.svg?logo=kubernetes&logoColor=white&t=17">
+  <img src="https://custom-icon-badges.demolab.com/badge/Terraform-18181b.svg?logo=terraform&logoColor=white&t=17">
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS_Lambda-18181b.svg?logo=aws-lambda&logoColor=white&t=17">
+  <img src="https://custom-icon-badges.demolab.com/badge/Docker-18181b.svg?logo=docker&logoColor=white&t=17">
+  <img src="https://custom-icon-badges.demolab.com/badge/Jenkins-18181b.svg?logo=jenkins&logoColor=white&t=17">
+  <img src="https://custom-icon-badges.demolab.com/badge/GitHub_Actions-18181b.svg?logo=github-actions&logoColor=white&t=17">
   <br/>
-  <img src="https://custom-icon-badges.demolab.com/badge/NGINX-18181b.svg?logo=nginx&logoColor=white&t=16">
-  <img src="https://custom-icon-badges.demolab.com/badge/Linux-18181b.svg?logo=linux&logoColor=white&t=16">
-  <img src="https://custom-icon-badges.demolab.com/badge/Go-18181b.svg?logo=go&logoColor=white&t=16">
-  <img src="https://custom-icon-badges.demolab.com/badge/Rust-18181b.svg?logo=rust&logoColor=white&t=16">
-  <img src="https://custom-icon-badges.demolab.com/badge/Python-18181b.svg?logo=python&logoColor=white&t=16">
-  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-18181b.svg?logo=typescript&logoColor=white&t=16">
-  <img src="https://custom-icon-badges.demolab.com/badge/React-18181b.svg?logo=react&logoColor=white&t=16">
+  <img src="https://custom-icon-badges.demolab.com/badge/NGINX-18181b.svg?logo=nginx&logoColor=white&t=17">
+  <img src="https://custom-icon-badges.demolab.com/badge/Linux-18181b.svg?logo=linux&logoColor=white&t=17">
+  <img src="https://custom-icon-badges.demolab.com/badge/Go-18181b.svg?logo=go&logoColor=white&t=17">
+  <img src="https://custom-icon-badges.demolab.com/badge/Rust-18181b.svg?logo=rust&logoColor=white&t=17">
+  <img src="https://custom-icon-badges.demolab.com/badge/Python-18181b.svg?logo=python&logoColor=white&t=17">
+  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-18181b.svg?logo=typescript&logoColor=white&t=17">
+  <img src="https://custom-icon-badges.demolab.com/badge/React-18181b.svg?logo=react&logoColor=white&t=17">
   <br/>
-  <img src="https://custom-icon-badges.demolab.com/badge/FastAPI-18181b.svg?logo=fastapi&logoColor=white&t=16">
-  <img src="https://custom-icon-badges.demolab.com/badge/Postgres-18181b.svg?logo=postgresql&logoColor=white&t=16">
-  <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-18181b.svg?logo=mongodb&logoColor=white&t=16">
-  <img src="https://custom-icon-badges.demolab.com/badge/Supabase-18181b.svg?logo=supabase&logoColor=white&t=16">
-  <img src="https://custom-icon-badges.demolab.com/badge/Redis-18181b.svg?logo=redis&logoColor=white&t=16">
-  <img src="https://custom-icon-badges.demolab.com/badge/Prometheus-18181b.svg?logo=prometheus&logoColor=white&t=16">
+  <img src="https://custom-icon-badges.demolab.com/badge/FastAPI-18181b.svg?logo=fastapi&logoColor=white&t=17">
+  <img src="https://custom-icon-badges.demolab.com/badge/Postgres-18181b.svg?logo=postgresql&logoColor=white&t=17">
+  <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-18181b.svg?logo=mongodb&logoColor=white&t=17">
+  <img src="https://custom-icon-badges.demolab.com/badge/Supabase-18181b.svg?logo=supabase&logoColor=white&t=17">
+  <img src="https://custom-icon-badges.demolab.com/badge/Redis-18181b.svg?logo=redis&logoColor=white&t=17">
+  <img src="https://custom-icon-badges.demolab.com/badge/Prometheus-18181b.svg?logo=prometheus&logoColor=white&t=17">
   <br/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Grafana-18181b.svg?logo=grafana&logoColor=white&t=16">
-  <img src="https://custom-icon-badges.demolab.com/badge/Optuna-18181b.svg?logo=optuna&logoColor=white&t=16">
-  <img src="https://custom-icon-badges.demolab.com/badge/Obsidian-18181b.svg?logo=obsidian&logoColor=white&t=16">
-  <img src="https://custom-icon-badges.demolab.com/badge/Markdown-18181b.svg?logo=markdown&logoColor=white&t=16">
-  <img src="https://custom-icon-badges.demolab.com/badge/tmux-18181b.svg?logo=tmux&logoColor=white&t=16">
+  <img src="https://custom-icon-badges.demolab.com/badge/Grafana-18181b.svg?logo=grafana&logoColor=white&t=17">
+  <img src="https://custom-icon-badges.demolab.com/badge/Optuna-18181b.svg?logo=optuna&logoColor=white&t=17">
+  <img src="https://custom-icon-badges.demolab.com/badge/Obsidian-18181b.svg?logo=obsidian&logoColor=white&t=17">
+  <img src="https://custom-icon-badges.demolab.com/badge/Markdown-18181b.svg?logo=markdown&logoColor=white&t=17">
+  <img src="https://custom-icon-badges.demolab.com/badge/tmux-18181b.svg?logo=tmux&logoColor=white&t=17">
 </p>
 
 ---
@@ -61,15 +61,15 @@ Enterprise governance baseline implemented via modular HCL and security auditing
 ### // VERIFICATION
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=h-vance&theme=github-dark&margin-w=15&column=7&title=-Issues,-Reviews&t=16" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=h-vance&theme=github-dark&margin-w=15&column=7&title=-Issues,-Reviews&t=17" width="100%">
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-metrics.svg" width="600">
+  <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=h-vance&theme=github-dark&hide_border=true&t=16" width="400">
+  <img src="https://streak-stats.demolab.com?user=h-vance&theme=github-dark&hide_border=true&t=17" width="400">
 </p>
 
 ---
