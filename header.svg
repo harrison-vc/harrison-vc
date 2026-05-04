@@ -4,33 +4,47 @@
     .name { font-family: 'system-ui', '-apple-system', sans-serif; font-size: 92px; font-weight: 900; letter-spacing: -6px; fill: #f4f4f5; }
     .label { font-family: 'JetBrains Mono', monospace; font-size: 14px; letter-spacing: 8px; fill: #71717a; text-transform: uppercase; }
     .code { font-family: 'JetBrains Mono', monospace; font-size: 10px; fill: #27272a; }
+    @keyframes pulse {
+      0% { opacity: 0.3; }
+      50% { opacity: 1; }
+      100% { opacity: 0.3; }
+    }
+    .status-marker { animation: pulse 3s ease-in-out infinite; }
   </style>
 
   <rect width="1200" height="300" fill="#09090b"/>
   
-  <!-- Architectural Layout Lines -->
+  <!-- Living Background: Dual Grid System -->
+  <defs>
+    <pattern id="denseDots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.5" fill="#ffffff" fill-opacity="0.03"/>
+    </pattern>
+    <pattern id="largeGrid" width="100" height="100" patternUnits="userSpaceOnUse">
+      <path d="M 100 0 L 0 0 0 100" fill="none" stroke="#ffffff" stroke-width="0.5" stroke-opacity="0.02"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" fill="url(#denseDots)"/>
+  <rect width="1200" height="300" fill="url(#largeGrid)"/>
+  
+  <!-- Architectural Structural Lines -->
   <path d="M 60 40 L 60 260 M 1140 40 L 1140 260" stroke="#18181b" stroke-width="1"/>
   <path d="M 40 60 L 1160 60 M 40 240 L 1160 240" stroke="#18181b" stroke-width="1"/>
   
-  <!-- Subtle Grid Pattern (Left Side Only) -->
-  <defs>
-    <pattern id="blueprint" width="20" height="20" patternUnits="userSpaceOnUse">
-      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#ffffff" stroke-width="0.5" stroke-opacity="0.02"/>
-    </pattern>
-  </defs>
-  <rect x="60" y="60" width="1080" height="180" fill="url(#blueprint)"/>
-
-  <!-- Technical "Frame" details -->
-  <path d="M 60 80 L 80 80 M 60 220 L 80 220" stroke="#10b981" stroke-width="2"/>
-  
-  <!-- Core Identity -->
+  <!-- Precise Name Layout with Expanded Center Gap -->
   <g transform="translate(100, 150)">
-    <text class="name">HARRISON VANCE</text>
+    <text x="0" y="0" class="name">HARRISON</text>
+    <text x="500" y="0" class="name">VANCE</text>
     <text x="4" y="45" class="label">INFRASTRUCTURE ARCHITECT</text>
   </g>
 
-  <!-- Right Aligned Stamp -->
+  <!-- Living Status Marker -->
+  <g transform="translate(100, 220)">
+    <rect width="8" height="2" fill="#10b981" class="status-marker"/>
+    <text x="16" y="4" class="code" fill="#71717a">SYSTEM_CORE: OPERATIONAL</text>
+  </g>
+
+  <!-- Right Aligned Identity Stamp -->
   <g transform="translate(1120, 150)" text-anchor="end">
-    <text transform="rotate(-90)" class="code" letter-spacing="2">SPEC_ID: HV-ARC-2026 // VERIFIED_INFRASTRUCTURE</text>
+    <text transform="rotate(-90)" class="code" letter-spacing="2">SPEC_ID: HV-ARC-2026 // VERIFIED_FOOTPRINT</text>
   </g>
 </svg>
