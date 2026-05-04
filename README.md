@@ -15,6 +15,24 @@
   <code>[ STATUS: ACTIVE ]</code> &nbsp;&nbsp; <code>[ LOCATION: USA/APAC | REMOTE ]</code>
 </p>
 
+---
+
+### ✦ ARCHITECTURAL FOCUS
+
+**Distributed Systems & Low-Latency APIs**  
+Design and operation of high-concurrency execution engines and resilient API gateways. Focused on sub-10ms performance and absolute fault tolerance in high-frequency environments.  
+> *Primary Artifact:* **[Algo-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)**
+
+**Cloud-Native Orchestration**  
+Standardizing production-grade environments through Kubernetes and Infrastructure as Code. Specialized in multi-account AWS Landing Zones and automated service discovery.  
+> *Primary Artifact:* **[AWS-Landing-Zone](https://github.com/h-vance/aws-landing-zone-terraform)**
+
+**Reliability Engineering (SRE)**  
+Implementation of advanced observability patterns, automated fault-injection, and self-healing protocols to maintain 99.99% availability.  
+> *Primary Artifact:* **[Microservices-Cluster](https://github.com/h-vance/self-healing-microservices-cluster)**
+
+---
+
 ### ✦ DEPLOYED SYSTEMS
 
 **[Algo-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)**  
@@ -31,17 +49,6 @@
 > Self-healing Kubernetes featuring automated fault-injection and zero-downtime.  
 > **STACK:** 
 <img src="https://custom-icon-badges.demolab.com/badge/Kubernetes-18181b.svg?logo=kubernetes&logoColor=white"> <img src="https://custom-icon-badges.demolab.com/badge/Prometheus-18181b.svg?logo=prometheus&logoColor=white"> <img src="https://custom-icon-badges.demolab.com/badge/Grafana-18181b.svg?logo=grafana&logoColor=white">
-
-**[AWS-Landing-Zone](https://github.com/h-vance/aws-landing-zone-terraform)**  
-> Enterprise governance at scale implemented via modular HCL and security auditing.  
-> **STACK:** 
-<img src="https://custom-icon-badges.demolab.com/badge/AWS-18181b.svg?logo=aws&logoColor=white"> <img src="https://custom-icon-badges.demolab.com/badge/Terraform-18181b.svg?logo=terraform&logoColor=white">
-
-<br/>
-
-<p align="left">
-  <img src="./diagnostic.svg?t=1714772900" width="100%" />
-</p>
 
 ---
 
