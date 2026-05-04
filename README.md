@@ -91,7 +91,7 @@ Enterprise governance baseline implemented via modular HCL and security auditing
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=h-vance&theme=github-dark&hide_border=true&starting_year=2016&t=25" width="100%">
+  <img src="https://streak-stats.demolab.com?user=h-vance&theme=github-dark&hide_border=true&starting_year=2015&cb=1714773200" width="100%">
 </p>
 
 ---
