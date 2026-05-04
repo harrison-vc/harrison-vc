@@ -2,7 +2,7 @@
   <img src="./header.svg?t=25" width="100%" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://custom-icon-badges.demolab.com/badge/GitHub_Veteran-Since_2016-18181b.svg?logo=github&logoColor=white">
   <img src="https://komarev.com/ghpvc/?username=h-vance&color=18181b&style=flat&label=PROFILE+VIEWS&labelColor=18181b">
   <img src="https://custom-icon-badges.demolab.com/badge/Location-USA/APAC%20|%20REMOTE-18181b.svg?logo=location&logoColor=white">
@@ -12,25 +12,41 @@
   <a href="https://harrisonvance.cc"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-18181b.svg?logo=globe&logoColor=white"></a>
 </p>
 
-<p align="center">
+---
+
+### ✦ ARCHITECTURAL FOCUS
+
+**Distributed Systems & Low-Latency APIs**  
+Design and operation of high-concurrency execution engines and resilient API gateways. Focused on sub-10ms performance and absolute fault tolerance in high-frequency environments.  
+> *Primary Artifact:* **[Algorithmic-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)**
+
+**Cloud-Native Orchestration**  
+Standardizing production-grade environments through Kubernetes and Infrastructure as Code. Specialized in multi-account AWS Landing Zones and automated service discovery.  
+> *Primary Artifact:* **[AWS-Landing-Zone](https://github.com/h-vance/aws-landing-zone-terraform)**
+
+**Reliability Engineering (SRE)**  
+Implementation of advanced observability patterns, automated fault-injection, and self-healing protocols to maintain 99.99% availability.  
+> *Primary Artifact:* **[Microservices-Cluster](https://github.com/h-vance/self-healing-microservices-cluster)**
+
+---
+
 ### ✦ DEPLOYED SYSTEMS
 
 **[Algorithmic-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine)**  
-Quantitative execution infrastructure optimized for sub-10ms latency on Hyperliquid.  
-`Go` `Rust` `Python` `Redis` `Terraform` `Kubernetes`
+> Quantitative infrastructure optimized for sub-10ms execution on Hyperliquid.  
+> **STACK:** 
+<img src="https://custom-icon-badges.demolab.com/badge/Go-18181b.svg?logo=go&logoColor=white"> <img src="https://custom-icon-badges.demolab.com/badge/Rust-18181b.svg?logo=rust&logoColor=white"> <img src="https://custom-icon-badges.demolab.com/badge/Python-18181b.svg?logo=python&logoColor=white"> <img src="https://custom-icon-badges.demolab.com/badge/Redis-18181b.svg?logo=redis&logoColor=white"> <img src="https://custom-icon-badges.demolab.com/badge/Terraform-18181b.svg?logo=terraform&logoColor=white"> <img src="https://custom-icon-badges.demolab.com/badge/Kubernetes-18181b.svg?logo=kubernetes&logoColor=white">
 
 **[AWS-Bedrock-AI-Agent](https://github.com/h-vance/aws-bedrock-agent)**  
-Autonomous AI Agent orchestration layer for automated cloud infrastructure management.  
-`AWS` `Lambda` `Python` `Bedrock`
+> Autonomous AI orchestration for automated cloud infrastructure management.  
+> **STACK:** 
+<img src="https://custom-icon-badges.demolab.com/badge/AWS-18181b.svg?logo=aws&logoColor=white"> <img src="https://custom-icon-badges.demolab.com/badge/AWS_Lambda-18181b.svg?logo=aws-lambda&logoColor=white"> <img src="https://custom-icon-badges.demolab.com/badge/Python-18181b.svg?logo=python&logoColor=white">
 
 **[Microservices-Cluster](https://github.com/h-vance/self-healing-microservices-cluster)**  
-Self-healing Kubernetes architecture with automated fault-injection and zero-downtime.  
-`Kubernetes` `Prometheus` `Grafana` `Docker`
+> Self-healing Kubernetes featuring automated fault-injection and zero-downtime.  
+> **STACK:** 
+<img src="https://custom-icon-badges.demolab.com/badge/Kubernetes-18181b.svg?logo=kubernetes&logoColor=white"> <img src="https://custom-icon-badges.demolab.com/badge/Prometheus-18181b.svg?logo=prometheus&logoColor=white"> <img src="https://custom-icon-badges.demolab.com/badge/Grafana-18181b.svg?logo=grafana&logoColor=white">
 
-**[AWS-Landing-Zone](https://github.com/h-vance/aws-landing-zone-terraform)**  
-Enterprise governance baseline implemented via modular HCL and security auditing.  
-`Terraform` `AWS` `OIDC` `GHA`
-</p>
 ---
 
 ### ✦ TECHNICAL ARSENAL
@@ -96,7 +112,7 @@ Enterprise governance baseline implemented via modular HCL and security auditing
 
 ---
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/harrison-vance"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-18181b.svg?logo=linkedin&logoColor=white"></a>
   <a href="mailto:hvance788@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-18181b.svg?logo=mail&logoColor=white"></a>
   <a href="https://harrisonvance.cc"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-18181b.svg?logo=globe&logoColor=white"></a>
