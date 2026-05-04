@@ -99,6 +99,9 @@ Implementation of advanced observability patterns, automated fault-injection, an
 ### ✦ METRICS
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=h-vance&show_icons=true&hide=commits,issues&theme=transparent&title_color=a1a1aa&icon_color=a1a1aa&text_color=f4f4f5&border_radius=0&hide_border=true&t=13" width="400">
-  <img src="https://streak-stats.demolab.com?user=h-vance&theme=github-dark&hide_border=true&t=13" width="400">
+  <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-metrics.svg" width="100%">
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=h-vance&theme=github-dark&hide_border=true&t=14" width="400">
 </p>
